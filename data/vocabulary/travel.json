@@ -1,0 +1,581 @@
+{
+  "topicId": "travel",
+  "items": [
+    {
+      "id": "travel-001",
+      "word": "destination",
+      "phonetic": "/ˌdestɪˈneɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The place to which someone or something is going or being sent",
+      "definitionVietnamese": "Điểm đến - nơi mà ai đó hoặc thứ gì đó đang đi hoặc được gửi đến",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Destination",
+      "examples": [
+        {
+          "english": "Paris is our final destination.",
+          "vietnamese": "Paris là điểm đến cuối cùng của chúng tôi."
+        },
+        {
+          "english": "What's your dream travel destination?",
+          "vietnamese": "Điểm đến du lịch mơ ước của bạn là gì?"
+        },
+        {
+          "english": "This beach resort is a popular destination for honeymooners.",
+          "vietnamese": "Khu nghỉ dưỡng bãi biển này là điểm đến phổ biến cho các cặp đôi hưởng tuần trăng mật."
+        }
+      ],
+      "collocations": ["travel destination", "final destination", "popular destination"],
+      "synonyms": ["goal", "endpoint", "terminus"],
+      "antonyms": ["origin", "departure point"],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-002",
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnərəri/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A planned route or journey; a detailed plan for a journey",
+      "definitionVietnamese": "Lịch trình - kế hoạch chi tiết cho một chuyến đi",
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Itinerary",
+      "examples": [
+        {
+          "english": "I've prepared a detailed itinerary for our trip.",
+          "vietnamese": "Tôi đã chuẩn bị lịch trình chi tiết cho chuyến đi."
+        },
+        {
+          "english": "Our itinerary includes visits to three cities.",
+          "vietnamese": "Lịch trình của chúng tôi bao gồm thăm ba thành phố."
+        },
+        {
+          "english": "The travel agent sent us the complete itinerary by email.",
+          "vietnamese": "Đại lý du lịch đã gửi cho chúng tôi lịch trình đầy đủ qua email."
+        }
+      ],
+      "collocations": ["travel itinerary", "detailed itinerary", "follow the itinerary"],
+      "synonyms": ["schedule", "plan", "route"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-003",
+      "word": "accommodation",
+      "phonetic": "/əˌkɒməˈdeɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A place to stay, such as a hotel room",
+      "definitionVietnamese": "Chỗ ở - nơi để nghỉ, như phòng khách sạn",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Accommodation",
+      "examples": [
+        {
+          "english": "Have you booked your accommodation yet?",
+          "vietnamese": "Bạn đã đặt chỗ ở chưa?"
+        },
+        {
+          "english": "The price includes accommodation and breakfast.",
+          "vietnamese": "Giá bao gồm chỗ ở và bữa sáng."
+        },
+        {
+          "english": "Finding affordable accommodation in the city center can be challenging.",
+          "vietnamese": "Tìm chỗ ở giá phải chăng ở trung tâm thành phố có thể khá khó khăn."
+        }
+      ],
+      "collocations": ["book accommodation", "hotel accommodation", "budget accommodation"],
+      "synonyms": ["lodging", "housing", "shelter"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "accommodate", "partOfSpeech": "verb" }
+      ]
+    },
+    {
+      "id": "travel-004",
+      "word": "departure",
+      "phonetic": "/dɪˈpɑːtʃə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The act of leaving a place, especially to start a journey",
+      "definitionVietnamese": "Sự khởi hành - hành động rời khỏi một nơi, đặc biệt để bắt đầu chuyến đi",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Departure",
+      "examples": [
+        {
+          "english": "Our departure time is 8:00 AM.",
+          "vietnamese": "Giờ khởi hành của chúng tôi là 8:00 sáng."
+        },
+        {
+          "english": "Check the departure board for your flight.",
+          "vietnamese": "Kiểm tra bảng khởi hành cho chuyến bay của bạn."
+        },
+        {
+          "english": "Please arrive at the airport two hours before departure.",
+          "vietnamese": "Vui lòng đến sân bay hai tiếng trước giờ khởi hành."
+        }
+      ],
+      "collocations": ["departure time", "departure gate", "departure lounge"],
+      "synonyms": ["leaving", "exit"],
+      "antonyms": ["arrival"],
+      "wordFamily": [
+        { "word": "depart", "partOfSpeech": "verb" }
+      ]
+    },
+    {
+      "id": "travel-005",
+      "word": "luggage",
+      "phonetic": "/ˈlʌɡɪdʒ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Bags and suitcases that contain your personal belongings when traveling",
+      "definitionVietnamese": "Hành lý - túi và vali chứa đồ dùng cá nhân khi đi du lịch",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Luggage",
+      "examples": [
+        {
+          "english": "Please don't leave your luggage unattended.",
+          "vietnamese": "Xin đừng để hành lý không có người trông coi."
+        },
+        {
+          "english": "My luggage was lost during the flight.",
+          "vietnamese": "Hành lý của tôi bị thất lạc trong chuyến bay."
+        },
+        {
+          "english": "Each passenger is allowed two pieces of luggage.",
+          "vietnamese": "Mỗi hành khách được phép mang hai kiện hành lý."
+        }
+      ],
+      "collocations": ["carry-on luggage", "checked luggage", "luggage claim"],
+      "synonyms": ["baggage", "suitcases"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-006",
+      "word": "passport",
+      "phonetic": "/ˈpɑːspɔːt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An official document that identifies you as a citizen of a particular country",
+      "definitionVietnamese": "Hộ chiếu - tài liệu chính thức xác định bạn là công dân của một quốc gia",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Passport",
+      "examples": [
+        {
+          "english": "Make sure your passport is valid for at least six months.",
+          "vietnamese": "Đảm bảo hộ chiếu của bạn còn hiệu lực ít nhất sáu tháng."
+        },
+        {
+          "english": "I need to renew my passport before the trip.",
+          "vietnamese": "Tôi cần gia hạn hộ chiếu trước chuyến đi."
+        },
+        {
+          "english": "Keep your passport in a safe place while traveling.",
+          "vietnamese": "Hãy giữ hộ chiếu ở nơi an toàn khi đi du lịch."
+        }
+      ],
+      "collocations": ["valid passport", "passport control", "passport photo"],
+      "synonyms": ["travel document"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-007",
+      "word": "boarding",
+      "phonetic": "/ˈbɔːdɪŋ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The act of getting on a plane, ship, or train",
+      "definitionVietnamese": "Lên tàu/máy bay - hành động lên máy bay, tàu, hoặc xe lửa",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Boarding",
+      "examples": [
+        {
+          "english": "Boarding will begin in 20 minutes.",
+          "vietnamese": "Việc lên máy bay sẽ bắt đầu trong 20 phút."
+        },
+        {
+          "english": "Please have your boarding pass ready.",
+          "vietnamese": "Xin hãy chuẩn bị thẻ lên máy bay."
+        },
+        {
+          "english": "Priority boarding is available for business class passengers.",
+          "vietnamese": "Ưu tiên lên máy bay dành cho hành khách hạng thương gia."
+        }
+      ],
+      "collocations": ["boarding pass", "boarding gate", "boarding time"],
+      "synonyms": ["embarking"],
+      "antonyms": ["disembarking"],
+      "wordFamily": [
+        { "word": "board", "partOfSpeech": "verb" }
+      ]
+    },
+    {
+      "id": "travel-008",
+      "word": "reservation",
+      "phonetic": "/ˌrezəˈveɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An arrangement to have something kept for you, such as a hotel room",
+      "definitionVietnamese": "Đặt chỗ - sự sắp xếp để giữ gì đó cho bạn, như phòng khách sạn",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Reservation",
+      "examples": [
+        {
+          "english": "I'd like to make a reservation for two nights.",
+          "vietnamese": "Tôi muốn đặt chỗ cho hai đêm."
+        },
+        {
+          "english": "Do you have a reservation under the name Smith?",
+          "vietnamese": "Quý vị có đặt chỗ dưới tên Smith không?"
+        },
+        {
+          "english": "I recommend making a reservation at least a week in advance.",
+          "vietnamese": "Tôi khuyên bạn nên đặt chỗ trước ít nhất một tuần."
+        }
+      ],
+      "collocations": ["make a reservation", "cancel reservation", "hotel reservation"],
+      "synonyms": ["booking"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "reserve", "partOfSpeech": "verb" }
+      ]
+    },
+    {
+      "id": "travel-009",
+      "word": "currency",
+      "phonetic": "/ˈkʌrənsi/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The system of money used in a particular country",
+      "definitionVietnamese": "Tiền tệ - hệ thống tiền được sử dụng ở một quốc gia",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Currency",
+      "examples": [
+        {
+          "english": "What's the local currency in Japan?",
+          "vietnamese": "Tiền tệ địa phương ở Nhật Bản là gì?"
+        },
+        {
+          "english": "You can exchange currency at the airport.",
+          "vietnamese": "Bạn có thể đổi tiền tại sân bay."
+        },
+        {
+          "english": "Always check the currency exchange rate before your trip.",
+          "vietnamese": "Luôn kiểm tra tỷ giá hối đoái trước chuyến đi."
+        }
+      ],
+      "collocations": ["local currency", "foreign currency", "currency exchange"],
+      "synonyms": ["money"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-010",
+      "word": "sightseeing",
+      "phonetic": "/ˈsaɪtsiːɪŋ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The activity of visiting interesting places as a tourist",
+      "definitionVietnamese": "Tham quan - hoạt động thăm những nơi thú vị với tư cách du khách",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Sightseeing",
+      "examples": [
+        {
+          "english": "We spent the day sightseeing in the old town.",
+          "vietnamese": "Chúng tôi dành cả ngày tham quan phố cổ."
+        },
+        {
+          "english": "The bus tour is great for sightseeing.",
+          "vietnamese": "Tour xe buýt rất tuyệt để tham quan."
+        },
+        {
+          "english": "After a morning of sightseeing, we stopped for lunch at a local cafe.",
+          "vietnamese": "Sau một buổi sáng tham quan, chúng tôi dừng lại ăn trưa tại một quán cafe địa phương."
+        }
+      ],
+      "collocations": ["go sightseeing", "sightseeing tour", "sightseeing bus"],
+      "synonyms": ["touring", "exploring"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-011",
+      "word": "souvenir",
+      "phonetic": "/ˌsuːvəˈnɪə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Something you buy or keep to remind you of a holiday or special event",
+      "definitionVietnamese": "Quà lưu niệm - thứ bạn mua hoặc giữ để nhớ về kỳ nghỉ hoặc sự kiện đặc biệt",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Souvenir",
+      "examples": [
+        {
+          "english": "I bought some souvenirs for my family.",
+          "vietnamese": "Tôi mua vài món quà lưu niệm cho gia đình."
+        },
+        {
+          "english": "This keychain is a souvenir from Paris.",
+          "vietnamese": "Móc khóa này là quà lưu niệm từ Paris."
+        },
+        {
+          "english": "The souvenir shop sells traditional handicrafts from the region.",
+          "vietnamese": "Cửa hàng quà lưu niệm bán các đồ thủ công truyền thống của vùng."
+        }
+      ],
+      "collocations": ["buy souvenirs", "souvenir shop", "souvenir photo"],
+      "synonyms": ["keepsake", "memento"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-012",
+      "word": "excursion",
+      "phonetic": "/ɪkˈskɜːʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A short journey made for pleasure, usually by a group of people",
+      "definitionVietnamese": "Chuyến tham quan - chuyến đi ngắn để giải trí, thường theo nhóm",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Excursion",
+      "examples": [
+        {
+          "english": "We went on an excursion to a nearby island.",
+          "vietnamese": "Chúng tôi đi tham quan một hòn đảo gần đó."
+        },
+        {
+          "english": "The hotel offers various day excursions.",
+          "vietnamese": "Khách sạn cung cấp nhiều chuyến tham quan trong ngày."
+        },
+        {
+          "english": "The guided excursion to the ancient ruins was very informative.",
+          "vietnamese": "Chuyến tham quan có hướng dẫn đến các di tích cổ rất bổ ích."
+        }
+      ],
+      "collocations": ["day excursion", "boat excursion", "go on an excursion"],
+      "synonyms": ["trip", "outing", "tour"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-013",
+      "word": "customs",
+      "phonetic": "/ˈkʌstəmz/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The government department that collects taxes on goods brought into a country",
+      "definitionVietnamese": "Hải quan - cơ quan chính phủ thu thuế hàng hóa nhập vào một quốc gia",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Customs",
+      "examples": [
+        {
+          "english": "You need to go through customs when you arrive.",
+          "vietnamese": "Bạn cần qua hải quan khi đến nơi."
+        },
+        {
+          "english": "Do you have anything to declare at customs?",
+          "vietnamese": "Bạn có gì để khai báo ở hải quan không?"
+        },
+        {
+          "english": "The customs officer checked my bags thoroughly.",
+          "vietnamese": "Nhân viên hải quan kiểm tra túi xách của tôi kỹ lưỡng."
+        }
+      ],
+      "collocations": ["go through customs", "customs declaration", "customs officer"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-014",
+      "word": "jet lag",
+      "phonetic": "/ˈdʒet læɡ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The tired and confused feeling you have after a long plane journey",
+      "definitionVietnamese": "Mệt mỏi do lệch múi giờ - cảm giác mệt và bối rối sau chuyến bay dài",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Jet+Lag",
+      "examples": [
+        {
+          "english": "I always get jet lag when I travel to Europe.",
+          "vietnamese": "Tôi luôn bị mệt do lệch múi giờ khi đi châu Âu."
+        },
+        {
+          "english": "It took me three days to recover from jet lag.",
+          "vietnamese": "Tôi mất ba ngày để hồi phục sau jet lag."
+        },
+        {
+          "english": "Drinking plenty of water can help reduce jet lag symptoms.",
+          "vietnamese": "Uống nhiều nước có thể giúp giảm triệu chứng mệt do lệch múi giờ."
+        }
+      ],
+      "collocations": ["suffer from jet lag", "overcome jet lag", "severe jet lag"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-015",
+      "word": "layover",
+      "phonetic": "/ˈleɪəʊvə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A short stay somewhere between two parts of a journey, especially a plane journey",
+      "definitionVietnamese": "Quá cảnh - thời gian dừng ngắn giữa hai phần của chuyến đi, đặc biệt chuyến bay",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Layover",
+      "examples": [
+        {
+          "english": "We have a 3-hour layover in Dubai.",
+          "vietnamese": "Chúng tôi quá cảnh 3 tiếng ở Dubai."
+        },
+        {
+          "english": "The long layover gave us time to explore the airport.",
+          "vietnamese": "Thời gian quá cảnh dài cho chúng tôi thời gian khám phá sân bay."
+        },
+        {
+          "english": "I prefer direct flights to avoid layovers when possible.",
+          "vietnamese": "Tôi thích chuyến bay thẳng để tránh quá cảnh khi có thể."
+        }
+      ],
+      "collocations": ["long layover", "short layover", "overnight layover"],
+      "synonyms": ["stopover", "connection"],
+      "antonyms": ["direct flight"],
+      "wordFamily": []
+    },
+    {
+      "id": "travel-016",
+      "word": "scenic",
+      "phonetic": "/ˈsiːnɪk/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having beautiful natural scenery",
+      "definitionVietnamese": "Có phong cảnh đẹp - có cảnh thiên nhiên tuyệt đẹp",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Scenic",
+      "examples": [
+        {
+          "english": "We took the scenic route through the mountains.",
+          "vietnamese": "Chúng tôi đi theo đường có phong cảnh đẹp qua núi."
+        },
+        {
+          "english": "The train ride offers scenic views of the coast.",
+          "vietnamese": "Chuyến tàu mang đến tầm nhìn phong cảnh đẹp của bờ biển."
+        },
+        {
+          "english": "This scenic village attracts photographers from around the world.",
+          "vietnamese": "Ngôi làng có phong cảnh đẹp này thu hút nhiếp ảnh gia từ khắp nơi trên thế giới."
+        }
+      ],
+      "collocations": ["scenic route", "scenic view", "scenic drive"],
+      "synonyms": ["picturesque", "beautiful"],
+      "antonyms": ["ugly", "unattractive"],
+      "wordFamily": [
+        { "word": "scenery", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "travel-017",
+      "word": "embark",
+      "phonetic": "/ɪmˈbɑːk/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To get on a ship, plane, or other vehicle to begin a journey",
+      "definitionVietnamese": "Lên tàu - lên tàu, máy bay, hoặc phương tiện khác để bắt đầu chuyến đi",
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Embark",
+      "examples": [
+        {
+          "english": "Passengers will embark at pier 3.",
+          "vietnamese": "Hành khách sẽ lên tàu tại cầu cảng 3."
+        },
+        {
+          "english": "We're about to embark on an exciting adventure.",
+          "vietnamese": "Chúng tôi sắp bắt đầu một cuộc phiêu lưu thú vị."
+        },
+        {
+          "english": "All passengers must show their tickets before embarking.",
+          "vietnamese": "Tất cả hành khách phải xuất trình vé trước khi lên tàu."
+        }
+      ],
+      "collocations": ["embark on a journey", "embark on an adventure", "ready to embark"],
+      "synonyms": ["board", "get on"],
+      "antonyms": ["disembark"],
+      "wordFamily": [
+        { "word": "embarkation", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "travel-018",
+      "word": "wander",
+      "phonetic": "/ˈwɒndə/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To walk slowly around a place without any clear direction or purpose",
+      "definitionVietnamese": "Lang thang - đi chậm quanh một nơi không có hướng hay mục đích rõ ràng",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Wander",
+      "examples": [
+        {
+          "english": "We wandered through the old streets of the city.",
+          "vietnamese": "Chúng tôi lang thang qua những con phố cổ của thành phố."
+        },
+        {
+          "english": "I love to wander around local markets.",
+          "vietnamese": "Tôi thích lang thang quanh các chợ địa phương."
+        },
+        {
+          "english": "Don't wander too far from the hotel at night.",
+          "vietnamese": "Đừng lang thang quá xa khỏi khách sạn vào ban đêm."
+        }
+      ],
+      "collocations": ["wander around", "wander through", "wander aimlessly"],
+      "synonyms": ["stroll", "roam", "meander"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "wanderer", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "travel-019",
+      "word": "postpone",
+      "phonetic": "/pəʊstˈpəʊn/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To delay an event or arrange for it to happen at a later time",
+      "definitionVietnamese": "Hoãn lại - trì hoãn sự kiện hoặc sắp xếp để nó xảy ra sau",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Postpone",
+      "examples": [
+        {
+          "english": "We had to postpone our trip due to bad weather.",
+          "vietnamese": "Chúng tôi phải hoãn chuyến đi do thời tiết xấu."
+        },
+        {
+          "english": "The flight was postponed until tomorrow.",
+          "vietnamese": "Chuyến bay bị hoãn đến ngày mai."
+        },
+        {
+          "english": "They decided to postpone the wedding until next spring.",
+          "vietnamese": "Họ quyết định hoãn đám cưới đến mùa xuân năm sau."
+        }
+      ],
+      "collocations": ["postpone a trip", "postpone indefinitely", "postpone until"],
+      "synonyms": ["delay", "defer", "put off"],
+      "antonyms": ["advance", "bring forward"],
+      "wordFamily": [
+        { "word": "postponement", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "travel-020",
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "partOfSpeech": "adverb",
+      "definitionEnglish": "In or to a foreign country",
+      "definitionVietnamese": "Ở nước ngoài - ở hoặc đến một quốc gia khác",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Abroad",
+      "examples": [
+        {
+          "english": "I've never traveled abroad before.",
+          "vietnamese": "Tôi chưa bao giờ đi nước ngoài trước đây."
+        },
+        {
+          "english": "She studied abroad for two years.",
+          "vietnamese": "Cô ấy học ở nước ngoài hai năm."
+        },
+        {
+          "english": "Working abroad can be a great way to experience different cultures.",
+          "vietnamese": "Làm việc ở nước ngoài có thể là cách tuyệt vời để trải nghiệm các nền văn hóa khác nhau."
+        }
+      ],
+      "collocations": ["travel abroad", "study abroad", "go abroad"],
+      "synonyms": ["overseas", "internationally"],
+      "antonyms": ["domestically", "at home"],
+      "wordFamily": []
+    }
+  ]
+}

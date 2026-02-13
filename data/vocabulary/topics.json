@@ -1,0 +1,152 @@
+[
+  {
+    "id": "animals",
+    "name": "Animals",
+    "nameVietnamese": "Động vật",
+    "description": "Learn vocabulary about common animals and wildlife",
+    "icon": "🦁",
+    "wordCount": 20,
+    "difficulty": "beginner",
+    "createdAt": "2024-01-01T08:00:00"
+  },
+  {
+    "id": "food-drinks",
+    "name": "Food & Drinks",
+    "nameVietnamese": "Đồ ăn & Thức uống",
+    "description": "Essential vocabulary for food, drinks, and dining",
+    "icon": "🍕",
+    "wordCount": 20,
+    "difficulty": "beginner",
+    "createdAt": "2024-01-02T08:00:00"
+  },
+  {
+    "id": "travel",
+    "name": "Travel",
+    "nameVietnamese": "Du lịch",
+    "description": "Words and phrases for traveling and tourism",
+    "icon": "✈️",
+    "wordCount": 20,
+    "difficulty": "intermediate",
+    "createdAt": "2024-01-03T08:00:00"
+  },
+  {
+    "id": "family",
+    "name": "Family",
+    "nameVietnamese": "Gia đình",
+    "description": "Vocabulary about family members and relationships",
+    "icon": "👨‍👩‍👧‍👦",
+    "wordCount": 20,
+    "difficulty": "beginner",
+    "createdAt": "2024-01-04T08:00:00"
+  },
+  {
+    "id": "weather",
+    "name": "Weather",
+    "nameVietnamese": "Thời tiết",
+    "description": "Words to describe weather and climate conditions",
+    "icon": "🌤️",
+    "wordCount": 20,
+    "difficulty": "beginner",
+    "createdAt": "2024-01-05T08:00:00"
+  },
+  {
+    "id": "colors",
+    "name": "Colors",
+    "nameVietnamese": "Màu sắc",
+    "description": "Learn different colors and shades in English",
+    "icon": "🎨",
+    "wordCount": 20,
+    "difficulty": "beginner",
+    "createdAt": "2024-01-06T08:00:00"
+  },
+  {
+    "id": "day_56",
+    "name": "Day 56",
+    "nameVietnamese": "Ngày 56",
+    "description": "Learned vocabulary for Day 56",
+    "icon": "🌟",
+    "wordCount": 20,
+    "difficulty": "intermediate",
+    "createdAt": "2025-01-26T10:30:00"
+  },
+  {
+    "id": "day_57",
+    "name": "Day 57",
+    "nameVietnamese": "Ngày 57",
+    "description": "Learned vocabulary for Day 57",
+    "icon": "🌟",
+    "wordCount": 20,
+    "difficulty": "intermediate",
+    "createdAt": "2025-01-27T09:15:00"
+  },
+  {
+    "id": "day_58",
+    "name": "Day 58",
+    "nameVietnamese": "Ngày 58",
+    "description": "Learned vocabulary for Day 58",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-05T06:01:22"
+  },
+  {
+    "id": "day_59",
+    "name": "Day 59",
+    "nameVietnamese": "Ngày 59",
+    "description": "Vocabulary about Different kinds of jobs - Day 59",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-05T08:28:35.068Z"
+  },
+  {
+    "id": "day_60",
+    "name": "Day 60",
+    "nameVietnamese": "Ngày 60",
+    "description": "Vocabulary about Day 60",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-06T08:28:35.068Z"
+  },
+  {
+    "id": "day_61",
+    "name": "Day 61",
+    "nameVietnamese": "Ngày 61",
+    "description": "Vocabulary about Day 61",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-07T08:28:35.068Z"
+  },
+  {
+    "id": "day_62",
+    "name": "Day 62",
+    "nameVietnamese": "Ngày 62",
+    "description": "Vocabulary about Day 62",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-08T08:28:35.068Z"
+  },
+  {
+    "id": "day_63",
+    "name": "Day 63",
+    "nameVietnamese": "Ngày 63",
+    "description": "Vocabulary about Day 63",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-09T08:28:35.068Z"
+  },
+  {
+    "id": "day_64",
+    "name": "Day 64",
+    "nameVietnamese": "Ngày 64",
+    "description": "Vocabulary about Day 64",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-10T08:28:35.068Z"
+  }
+]

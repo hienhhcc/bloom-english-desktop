@@ -1,0 +1,311 @@
+{
+  "topicId": "vocabulary",
+  "items": [
+    {
+      "id": "scattered",
+      "word": "scattered",
+      "phonetic": "/ˈskæt.ərd/",
+      "partOfSpeech": "verb; adjective",
+      "definitionEnglish": "to send out in different directions; distributed in a haphazard way;",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "tràn lan; phân tán không đều"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=SCATTERED",
+      "examples": [
+        {
+          "english": "The seeds were scattered on the ground.",
+          "vietnamese": "Các hạt mầm được rải trên mặt đất."
+        },
+        {
+          "english": "Her thoughts were scattered during the meeting.",
+          "vietnamese": "Suống tâm lý cô bị phân tán trong cuộc họp."
+        },
+        {
+          "english": "The letters are scattered throughout the drawer.",
+          "vietnamese": "Các lá thư được phân tán trong ngăn kéo."
+        }
+      ],
+      "collocations": [
+        "scattered about",
+        "scattered randomly"
+      ],
+      "synonyms": [
+        "dispersed",
+        "distribute"
+      ],
+      "antonyms": [
+        "gathered",
+        "concentrated"
+      ],
+      "wordFamily": [
+        {
+          "word": "scatter",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "neat",
+      "word": "neat",
+      "phonetic": "/niːt/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "tidy; well-arranged;",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "đẹp đẽ; ngăn nắp"
+        }
+      ],
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=NEAT",
+      "examples": [
+        {
+          "english": "She likes to keep her desk neat and tidy.",
+          "vietnamese": "Cô thích để bàn của mình ngăn nắp và sạch sẽ."
+        },
+        {
+          "english": "The neat arrangement of the chairs made it easy for everyone to find a seat.",
+          "vietnamese": "Lưu ý cách sắp xếp các ghế một cách ngăn nắp giúp mọi người dễ dàng tìm chỗ ngồi."
+        },
+        {
+          "english": "He always wears his suit neatly ironed.",
+          "vietnamese": "Anh ấy luôn mặc bộ vest được mua phẳng cẩn thận."
+        }
+      ],
+      "collocations": [
+        "a neat appearance",
+        "keep things neat"
+      ],
+      "synonyms": [
+        "tidy",
+        "clean"
+      ],
+      "antonyms": [
+        "messy",
+        "untidy"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "accommodate",
+      "word": "accommodate",
+      "phonetic": "/əˈkɒm.ə.deɪt/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "to provide a room or other accommodation; to make space for; to adjust oneself to;",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "cho ở; cung cấp chỗ ở; điều chỉnh để phù hợp"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=ACCOMMODATE",
+      "examples": [
+        {
+          "english": "The hotel can accommodate up to 100 guests.",
+          "vietnamese": "Nhà hàng có thể tiếp nhận tối đa 100 khách."
+        },
+        {
+          "english": "She accommodated the changes in her schedule.",
+          "vietnamese": "Cô ấy đã điều chỉnh lịch trình của mình để phù hợp với các thay đổi."
+        },
+        {
+          "english": "We need to find a way to accommodate everyone's needs.",
+          "vietnamese": "Chúng ta cần tìm cách đáp ứng được nhu cầu của tất cả mọi người."
+        }
+      ],
+      "collocations": [
+        "accommodate guests",
+        "accommodate the new rules"
+      ],
+      "synonyms": [
+        "house",
+        "shelter"
+      ],
+      "antonyms": [
+        "reject",
+        "exclude"
+      ],
+      "wordFamily": [
+        {
+          "word": "accommodation",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "undergo",
+      "word": "undergo",
+      "phonetic": "/ˈʌndəɡəʊ/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "to experience a change or suffer an unpleasant condition; to go through;",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "trải qua; chịu đựng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=UNDERGO",
+      "examples": [
+        {
+          "english": "She underwent surgery yesterday.",
+          "vietnamese": "Cô ấy đã trải qua ca phẫu thuật hôm qua."
+        },
+        {
+          "english": "The company will undergo a major restructuring next month.",
+          "vietnamese": "Công ty sẽ phải trải qua một đợt tái cấu trúc lớn vào tháng tới."
+        },
+        {
+          "english": "Students often undergo stress during exam season.",
+          "vietnamese": "Học sinh thường chịu đựng áp lực trong mùa thi."
+        }
+      ],
+      "collocations": [
+        "undergo treatment",
+        "undergo a change"
+      ],
+      "synonyms": [
+        "experience",
+        "endure"
+      ],
+      "antonyms": [
+        "avoid",
+        "escape"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "former",
+      "word": "former",
+      "phonetic": "/ˈfɔː.mər/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "previously existing; earlier of two or more alternatives;",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "cũ hơn; trước đây, cũ"
+        }
+      ],
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=FORMER",
+      "examples": [
+        {
+          "english": "He worked for the former employer.",
+          "vietnamese": "Anh ấy đã làm việc cho công ty cũ của mình."
+        },
+        {
+          "english": "The former president has returned to power.",
+          "vietnamese": "Tổng thống trước đây lại nắm quyền."
+        },
+        {
+          "english": "We have two former students who are now professors.",
+          "vietnamese": "Chúng ta có hai cựu sinh viên hiện giờ đã là giáo sư."
+        }
+      ],
+      "collocations": [
+        "former days",
+        "former colleagues"
+      ],
+      "synonyms": [
+        "previous",
+        "prior"
+      ],
+      "antonyms": [
+        "latter",
+        "recent"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "strip",
+      "word": "strip",
+      "phonetic": "/strɪp/",
+      "partOfSpeech": "verb; noun",
+      "definitionEnglish": "to remove clothing or covering; a long narrow piece of material;",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "trừ bỏ; miếng vải dài"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=STRIP",
+      "examples": [
+        {
+          "english": "She stripped the wallpaper from the walls.",
+          "vietnamese": "Cô ấy đã gỡ giấy dán tường ra khỏi các bức tường."
+        },
+        {
+          "english": "He was asked to strip before entering the swimming pool.",
+          "vietnamese": "Anh ta được yêu cầu thay đồ trước khi bước vào hồ bơi."
+        },
+        {
+          "english": "The old man wrapped himself in a thin strip of cloth.",
+          "vietnamese": "Cụ ông quấn mình bằng một miếng vải mỏng."
+        }
+      ],
+      "collocations": [
+        "strip naked",
+        "strip the furniture"
+      ],
+      "synonyms": [
+        "remove",
+        "take off"
+      ],
+      "antonyms": [
+        "cover",
+        "dress up"
+      ],
+      "wordFamily": [
+        {
+          "word": "stripped",
+          "partOfSpeech": "verb (past tense)"
+        }
+      ]
+    },
+    {
+      "id": "Elsewhere",
+      "word": "elsewhere",
+      "phonetic": "/ɪlˈswɛər/",
+      "partOfSpeech": "adverb; adjective",
+      "definitionEnglish": "in or to some other place; somewhere else;",
+      "definitionVietnamese": [
+        {
+          "type": "adverb",
+          "definition": "ở đâu khác; ở nơi xa"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=ELSEWHERE",
+      "examples": [
+        {
+          "english": "She decided to go elsewhere for her vacation.",
+          "vietnamese": "Cô ấy quyết định đi nghỉ ở đâu đó khác."
+        },
+        {
+          "english": "The treasure is believed to be hidden somewhere else.",
+          "vietnamese": "Vật phẩm quý giá được cho là đang bị giấu ở đâu đó."
+        },
+        {
+          "english": "Elsewhere in the world, people live different lives.",
+          "vietnamese": "Ở một số nơi khác trên thế giới, con người sống cuộc sống khác biệt."
+        }
+      ],
+      "collocations": [
+        "elsewhere on the map",
+        "elsewhere in the country"
+      ],
+      "synonyms": [
+        "somewhere else",
+        "in another place"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    }
+  ]
+}

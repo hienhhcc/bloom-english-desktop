@@ -1,0 +1,801 @@
+{
+  "topicId": "weather",
+  "items": [
+    {
+      "id": "weather-001",
+      "word": "temperature",
+      "phonetic": "/ˈtemprətʃə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A measure of how hot or cold a place or thing is",
+      "definitionVietnamese": "Nhiệt độ - đơn vị đo độ nóng hoặc lạnh của một nơi hoặc vật",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Temperature",
+      "examples": [
+        {
+          "english": "The temperature today is 25 degrees Celsius.",
+          "vietnamese": "Nhiệt độ hôm nay là 25 độ C."
+        },
+        {
+          "english": "The temperature drops significantly at night.",
+          "vietnamese": "Nhiệt độ giảm đáng kể vào ban đêm."
+        },
+        {
+          "english": "Please keep the medicine at room temperature.",
+          "vietnamese": "Vui lòng giữ thuốc ở nhiệt độ phòng."
+        }
+      ],
+      "collocations": [
+        "high temperature",
+        "low temperature",
+        "room temperature"
+      ],
+      "synonyms": [
+        "heat",
+        "warmth"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "weather-002",
+      "word": "forecast",
+      "phonetic": "/ˈfɔːkɑːst/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A prediction of what the weather will be like",
+      "definitionVietnamese": "Dự báo - sự dự đoán thời tiết sẽ như thế nào",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Forecast",
+      "examples": [
+        {
+          "english": "The weather forecast says it will rain tomorrow.",
+          "vietnamese": "Dự báo thời tiết nói ngày mai sẽ mưa."
+        },
+        {
+          "english": "Check the forecast before going out.",
+          "vietnamese": "Kiểm tra dự báo trước khi ra ngoài."
+        },
+        {
+          "english": "The five-day forecast shows sunny weather ahead.",
+          "vietnamese": "Dự báo năm ngày cho thấy thời tiết nắng sắp tới."
+        }
+      ],
+      "collocations": [
+        "weather forecast",
+        "accurate forecast",
+        "five-day forecast"
+      ],
+      "synonyms": [
+        "prediction",
+        "outlook"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "forecast",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "weather-003",
+      "word": "humidity",
+      "phonetic": "/hjuːˈmɪdəti/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The amount of water in the air",
+      "definitionVietnamese": "Độ ẩm - lượng nước trong không khí",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Humidity",
+      "examples": [
+        {
+          "english": "The humidity is very high today.",
+          "vietnamese": "Độ ẩm hôm nay rất cao."
+        },
+        {
+          "english": "High humidity makes the heat feel worse.",
+          "vietnamese": "Độ ẩm cao làm cho cái nóng cảm thấy tệ hơn."
+        },
+        {
+          "english": "The relative humidity in the rainforest is often above 80 percent.",
+          "vietnamese": "Độ ẩm tương đối trong rừng nhiệt đới thường trên 80 phần trăm."
+        }
+      ],
+      "collocations": [
+        "high humidity",
+        "low humidity",
+        "relative humidity"
+      ],
+      "synonyms": [
+        "moisture",
+        "dampness"
+      ],
+      "antonyms": [
+        "dryness"
+      ],
+      "wordFamily": [
+        {
+          "word": "humid",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "weather-004",
+      "word": "breeze",
+      "phonetic": "/briːz/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A light and gentle wind",
+      "definitionVietnamese": "Gió nhẹ - luồng gió nhẹ và dịu",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Breeze",
+      "examples": [
+        {
+          "english": "A cool breeze came from the sea.",
+          "vietnamese": "Một làn gió mát thổi từ biển."
+        },
+        {
+          "english": "The gentle breeze rustled the leaves.",
+          "vietnamese": "Làn gió nhẹ làm xào xạc lá cây."
+        },
+        {
+          "english": "We opened the windows to let in the morning breeze.",
+          "vietnamese": "Chúng tôi mở cửa sổ để đón gió sáng."
+        }
+      ],
+      "collocations": [
+        "cool breeze",
+        "gentle breeze",
+        "sea breeze"
+      ],
+      "synonyms": [
+        "wind",
+        "draft"
+      ],
+      "antonyms": [
+        "gale",
+        "storm"
+      ],
+      "wordFamily": [
+        {
+          "word": "breezy",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "weather-005",
+      "word": "drought",
+      "phonetic": "/draʊt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A long period of time when there is little or no rain",
+      "definitionVietnamese": "Hạn hán - thời gian dài khi có ít hoặc không có mưa",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Drought",
+      "examples": [
+        {
+          "english": "The region is suffering from a severe drought.",
+          "vietnamese": "Vùng này đang chịu hạn hán nghiêm trọng."
+        },
+        {
+          "english": "The drought destroyed many crops.",
+          "vietnamese": "Hạn hán đã phá hủy nhiều mùa màng."
+        },
+        {
+          "english": "Farmers are worried about the prolonged drought affecting their harvest.",
+          "vietnamese": "Nông dân lo lắng về hạn hán kéo dài ảnh hưởng đến mùa màng của họ."
+        }
+      ],
+      "collocations": [
+        "severe drought",
+        "prolonged drought",
+        "drought conditions"
+      ],
+      "synonyms": [
+        "dry spell"
+      ],
+      "antonyms": [
+        "flood"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "weather-006",
+      "word": "thunderstorm",
+      "phonetic": "/ˈθʌndəstɔːm/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A storm with thunder and lightning, often with heavy rain",
+      "definitionVietnamese": "Dông bão - bão với sấm sét, thường kèm mưa lớn",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Thunderstorm",
+      "examples": [
+        {
+          "english": "A thunderstorm is expected this afternoon.",
+          "vietnamese": "Dự kiến sẽ có dông bão chiều nay."
+        },
+        {
+          "english": "We stayed inside during the thunderstorm.",
+          "vietnamese": "Chúng tôi ở trong nhà trong suốt cơn dông."
+        },
+        {
+          "english": "The dog hid under the bed because it was scared of the thunderstorm.",
+          "vietnamese": "Con chó trốn dưới gầm giường vì nó sợ cơn dông."
+        }
+      ],
+      "collocations": [
+        "severe thunderstorm",
+        "thunderstorm warning",
+        "heavy thunderstorm"
+      ],
+      "synonyms": [
+        "electrical storm"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "thunder",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "weather-007",
+      "word": "overcast",
+      "phonetic": "/ˈəʊvəkɑːst/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Covered with clouds; not sunny",
+      "definitionVietnamese": "Âm u - bị mây che phủ; không có nắng",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Overcast",
+      "examples": [
+        {
+          "english": "The sky was overcast all day.",
+          "vietnamese": "Bầu trời âm u cả ngày."
+        },
+        {
+          "english": "It's overcast but it might not rain.",
+          "vietnamese": "Trời âm u nhưng có thể không mưa."
+        },
+        {
+          "english": "The overcast weather is perfect for taking photos without harsh shadows.",
+          "vietnamese": "Thời tiết âm u hoàn hảo để chụp ảnh mà không có bóng đổ gắt."
+        }
+      ],
+      "collocations": [
+        "overcast sky",
+        "overcast weather",
+        "become overcast"
+      ],
+      "synonyms": [
+        "cloudy",
+        "gloomy"
+      ],
+      "antonyms": [
+        "sunny",
+        "clear"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "weather-008",
+      "word": "mild",
+      "phonetic": "/maɪld/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Not too hot and not too cold; pleasantly warm",
+      "definitionVietnamese": "Ôn hòa - không quá nóng và không quá lạnh; ấm áp dễ chịu",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Mild",
+      "examples": [
+        {
+          "english": "The weather is mild in spring.",
+          "vietnamese": "Thời tiết ôn hòa vào mùa xuân."
+        },
+        {
+          "english": "We're expecting a mild winter this year.",
+          "vietnamese": "Năm nay chúng tôi dự kiến một mùa đông ôn hòa."
+        },
+        {
+          "english": "The mild climate makes this city a popular destination for tourists.",
+          "vietnamese": "Khí hậu ôn hòa khiến thành phố này trở thành điểm đến phổ biến cho du khách."
+        }
+      ],
+      "collocations": [
+        "mild weather",
+        "mild climate",
+        "mild temperature"
+      ],
+      "synonyms": [
+        "moderate",
+        "temperate"
+      ],
+      "antonyms": [
+        "extreme",
+        "harsh"
+      ],
+      "wordFamily": [
+        {
+          "word": "mildness",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "weather-009",
+      "word": "drizzle",
+      "phonetic": "/ˈdrɪzl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Light rain falling in very fine drops",
+      "definitionVietnamese": "Mưa phùn - mưa nhẹ rơi thành giọt rất nhỏ",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Drizzle",
+      "examples": [
+        {
+          "english": "There was a light drizzle this morning.",
+          "vietnamese": "Sáng nay có mưa phùn nhẹ."
+        },
+        {
+          "english": "The drizzle continued throughout the day.",
+          "vietnamese": "Mưa phùn kéo dài suốt cả ngày."
+        },
+        {
+          "english": "You don't need an umbrella for this drizzle, just a hood will do.",
+          "vietnamese": "Bạn không cần ô cho mưa phùn này, chỉ cần mũ trùm đầu là đủ."
+        }
+      ],
+      "collocations": [
+        "light drizzle",
+        "steady drizzle",
+        "fine drizzle"
+      ],
+      "synonyms": [
+        "sprinkle",
+        "mist"
+      ],
+      "antonyms": [
+        "downpour"
+      ],
+      "wordFamily": [
+        {
+          "word": "drizzle",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "drizzly",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "weather-010",
+      "word": "scorching",
+      "phonetic": "/ˈskɔːtʃɪŋ/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Extremely hot",
+      "definitionVietnamese": "Nóng như thiêu - cực kỳ nóng",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Scorching",
+      "examples": [
+        {
+          "english": "It was a scorching hot day yesterday.",
+          "vietnamese": "Hôm qua là một ngày nóng như thiêu."
+        },
+        {
+          "english": "The scorching heat made it hard to go outside.",
+          "vietnamese": "Cái nóng như thiêu khiến khó ra ngoài."
+        },
+        {
+          "english": "We stayed in the shade to escape the scorching sun.",
+          "vietnamese": "Chúng tôi ở trong bóng râm để tránh nắng nóng như thiêu."
+        }
+      ],
+      "collocations": [
+        "scorching heat",
+        "scorching hot",
+        "scorching sun"
+      ],
+      "synonyms": [
+        "sweltering",
+        "blazing",
+        "burning"
+      ],
+      "antonyms": [
+        "freezing",
+        "cold"
+      ],
+      "wordFamily": [
+        {
+          "word": "scorch",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "weather-011",
+      "word": "freezing",
+      "phonetic": "/ˈfriːzɪŋ/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Extremely cold",
+      "definitionVietnamese": "Lạnh cóng - cực kỳ lạnh",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Freezing",
+      "examples": [
+        {
+          "english": "It's freezing outside today.",
+          "vietnamese": "Hôm nay bên ngoài lạnh cóng."
+        },
+        {
+          "english": "The freezing temperatures caused the pipes to burst.",
+          "vietnamese": "Nhiệt độ lạnh cóng làm vỡ ống nước."
+        },
+        {
+          "english": "I forgot my gloves and my hands are freezing.",
+          "vietnamese": "Tôi quên găng tay và tay tôi đang lạnh cóng."
+        }
+      ],
+      "collocations": [
+        "freezing cold",
+        "freezing point",
+        "freezing temperatures"
+      ],
+      "synonyms": [
+        "icy",
+        "frigid"
+      ],
+      "antonyms": [
+        "boiling",
+        "scorching"
+      ],
+      "wordFamily": [
+        {
+          "word": "freeze",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "weather-012",
+      "word": "foggy",
+      "phonetic": "/ˈfɒɡi/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Full of fog; difficult to see through",
+      "definitionVietnamese": "Sương mù - đầy sương; khó nhìn xuyên qua",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Foggy",
+      "examples": [
+        {
+          "english": "The roads are very foggy this morning.",
+          "vietnamese": "Đường rất nhiều sương mù sáng nay."
+        },
+        {
+          "english": "It was too foggy to see the mountains.",
+          "vietnamese": "Sương mù quá dày để nhìn thấy núi."
+        },
+        {
+          "english": "Drivers should slow down and turn on their headlights in foggy conditions.",
+          "vietnamese": "Người lái xe nên giảm tốc độ và bật đèn pha trong điều kiện sương mù."
+        }
+      ],
+      "collocations": [
+        "foggy weather",
+        "foggy morning",
+        "thick foggy"
+      ],
+      "synonyms": [
+        "misty",
+        "hazy"
+      ],
+      "antonyms": [
+        "clear"
+      ],
+      "wordFamily": [
+        {
+          "word": "fog",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "weather-013",
+      "word": "heatwave",
+      "phonetic": "/ˈhiːtweɪv/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A period of unusually hot weather",
+      "definitionVietnamese": "Đợt nắng nóng - thời kỳ thời tiết nóng bất thường",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Heatwave",
+      "examples": [
+        {
+          "english": "The heatwave lasted for two weeks.",
+          "vietnamese": "Đợt nắng nóng kéo dài hai tuần."
+        },
+        {
+          "english": "Many people got sick during the heatwave.",
+          "vietnamese": "Nhiều người bị ốm trong đợt nắng nóng."
+        },
+        {
+          "english": "During the heatwave, the city opened cooling centers for residents.",
+          "vietnamese": "Trong đợt nắng nóng, thành phố mở các trung tâm làm mát cho cư dân."
+        }
+      ],
+      "collocations": [
+        "severe heatwave",
+        "summer heatwave",
+        "heatwave warning"
+      ],
+      "synonyms": [
+        "hot spell"
+      ],
+      "antonyms": [
+        "cold snap"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "weather-014",
+      "word": "chilly",
+      "phonetic": "/ˈtʃɪli/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Unpleasantly cold",
+      "definitionVietnamese": "Se lạnh - lạnh khó chịu",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Chilly",
+      "examples": [
+        {
+          "english": "It's getting chilly in the evenings now.",
+          "vietnamese": "Trời đang trở nên se lạnh vào buổi tối."
+        },
+        {
+          "english": "Take a jacket, it might be chilly later.",
+          "vietnamese": "Mang theo áo khoác, có thể se lạnh sau đó."
+        },
+        {
+          "english": "The autumn mornings are getting a bit chilly lately.",
+          "vietnamese": "Những buổi sáng mùa thu gần đây hơi se lạnh."
+        }
+      ],
+      "collocations": [
+        "chilly weather",
+        "chilly morning",
+        "a bit chilly"
+      ],
+      "synonyms": [
+        "cool",
+        "cold"
+      ],
+      "antonyms": [
+        "warm",
+        "hot"
+      ],
+      "wordFamily": [
+        {
+          "word": "chill",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "weather-015",
+      "word": "downpour",
+      "phonetic": "/ˈdaʊnpɔː/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A heavy fall of rain",
+      "definitionVietnamese": "Mưa như trút - cơn mưa nặng hạt",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Downpour",
+      "examples": [
+        {
+          "english": "We got caught in a sudden downpour.",
+          "vietnamese": "Chúng tôi bị mắc kẹt trong cơn mưa như trút bất ngờ."
+        },
+        {
+          "english": "The downpour flooded the streets.",
+          "vietnamese": "Cơn mưa như trút làm ngập đường phố."
+        },
+        {
+          "english": "We had to wait in the cafe until the downpour stopped.",
+          "vietnamese": "Chúng tôi phải đợi trong quán cà phê cho đến khi cơn mưa như trút dừng lại."
+        }
+      ],
+      "collocations": [
+        "heavy downpour",
+        "sudden downpour",
+        "torrential downpour"
+      ],
+      "synonyms": [
+        "deluge",
+        "cloudburst"
+      ],
+      "antonyms": [
+        "drizzle"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "weather-016",
+      "word": "gloomy",
+      "phonetic": "/ˈɡluːmi/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Dark and lacking light, especially in a way that makes you feel sad",
+      "definitionVietnamese": "Ảm đạm - tối và thiếu ánh sáng, đặc biệt theo cách khiến bạn buồn",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Gloomy",
+      "examples": [
+        {
+          "english": "The weather has been gloomy all week.",
+          "vietnamese": "Thời tiết ảm đạm cả tuần."
+        },
+        {
+          "english": "It was a cold, gloomy day.",
+          "vietnamese": "Đó là một ngày lạnh lẽo, ảm đạm."
+        },
+        {
+          "english": "The gloomy sky matched my sad mood perfectly.",
+          "vietnamese": "Bầu trời ảm đạm phù hợp hoàn hảo với tâm trạng buồn của tôi."
+        }
+      ],
+      "collocations": [
+        "gloomy weather",
+        "gloomy sky",
+        "gloomy day"
+      ],
+      "synonyms": [
+        "dreary",
+        "dull",
+        "overcast"
+      ],
+      "antonyms": [
+        "bright",
+        "sunny"
+      ],
+      "wordFamily": [
+        {
+          "word": "gloom",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "weather-017",
+      "word": "hail",
+      "phonetic": "/heɪl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Small balls of ice that fall from the sky like rain",
+      "definitionVietnamese": "Mưa đá - những viên băng nhỏ rơi từ trời như mưa",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Hail",
+      "examples": [
+        {
+          "english": "The hail damaged many cars.",
+          "vietnamese": "Mưa đá làm hỏng nhiều xe."
+        },
+        {
+          "english": "We heard hail hitting the roof.",
+          "vietnamese": "Chúng tôi nghe tiếng mưa đá đập vào mái nhà."
+        },
+        {
+          "english": "The farmers covered their crops to protect them from the hail.",
+          "vietnamese": "Nông dân che phủ hoa màu để bảo vệ chúng khỏi mưa đá."
+        }
+      ],
+      "collocations": [
+        "heavy hail",
+        "hailstorm",
+        "hail stones"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "hailstorm",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "weather-018",
+      "word": "sunshine",
+      "phonetic": "/ˈsʌnʃaɪn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The light and warmth from the sun",
+      "definitionVietnamese": "Ánh nắng - ánh sáng và sự ấm áp từ mặt trời",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Sunshine",
+      "examples": [
+        {
+          "english": "We enjoyed the warm sunshine.",
+          "vietnamese": "Chúng tôi tận hưởng ánh nắng ấm áp."
+        },
+        {
+          "english": "The forecast predicts plenty of sunshine this weekend.",
+          "vietnamese": "Dự báo dự đoán nhiều nắng cuối tuần này."
+        },
+        {
+          "english": "The cat loves to sleep in the sunshine by the window.",
+          "vietnamese": "Con mèo thích ngủ trong ánh nắng bên cửa sổ."
+        }
+      ],
+      "collocations": [
+        "bright sunshine",
+        "warm sunshine",
+        "hours of sunshine"
+      ],
+      "synonyms": [
+        "sunlight"
+      ],
+      "antonyms": [
+        "shade",
+        "darkness"
+      ],
+      "wordFamily": [
+        {
+          "word": "sunny",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "weather-019",
+      "word": "blizzard",
+      "phonetic": "/ˈblɪzəd/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A severe snowstorm with strong winds",
+      "definitionVietnamese": "Bão tuyết - bão tuyết nghiêm trọng với gió mạnh",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Blizzard",
+      "examples": [
+        {
+          "english": "The blizzard closed all the roads.",
+          "vietnamese": "Bão tuyết đóng cửa tất cả các con đường."
+        },
+        {
+          "english": "We were trapped at home during the blizzard.",
+          "vietnamese": "Chúng tôi bị kẹt ở nhà trong suốt trận bão tuyết."
+        },
+        {
+          "english": "Schools were closed for three days because of the blizzard.",
+          "vietnamese": "Trường học đóng cửa ba ngày vì trận bão tuyết."
+        }
+      ],
+      "collocations": [
+        "severe blizzard",
+        "winter blizzard",
+        "blizzard conditions"
+      ],
+      "synonyms": [
+        "snowstorm"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "weather-020",
+      "word": "rainbow",
+      "phonetic": "/ˈreɪnbəʊ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An arch of colors visible in the sky after rain",
+      "definitionVietnamese": "Cầu vồng - vòng cung màu sắc nhìn thấy trên trời sau mưa",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Rainbow",
+      "examples": [
+        {
+          "english": "A beautiful rainbow appeared after the rain.",
+          "vietnamese": "Một cầu vồng đẹp xuất hiện sau mưa."
+        },
+        {
+          "english": "The children were excited to see the rainbow.",
+          "vietnamese": "Trẻ em hào hứng khi nhìn thấy cầu vồng."
+        },
+        {
+          "english": "We saw a double rainbow stretching across the entire sky.",
+          "vietnamese": "Chúng tôi nhìn thấy cầu vồng đôi trải dài khắp bầu trời."
+        }
+      ],
+      "collocations": [
+        "beautiful rainbow",
+        "double rainbow",
+        "rainbow colors"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    }
+  ]
+}

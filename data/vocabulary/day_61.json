@@ -1,0 +1,731 @@
+{
+  "topicId": "The media",
+  "items": [
+    {
+      "id": "media-001",
+      "word": "Journalism",
+      "phonetic": "/ˈdʒɜːnəlɪzəm/ (BrE) | /ˈdʒɝːnəlɪzəm/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The activity of collecting, writing, and publishing news and information",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "ngành báo chí"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Journalism",
+      "examples": [
+        {
+          "english": "Journalism plays a vital role in society.",
+          "vietnamese": "Báo chí đóng vai trò quan trọng trong xã hội."
+        },
+        {
+          "english": "She studied journalism at university.",
+          "vietnamese": "Cô ấy học ngành báo chí ở đại học."
+        },
+        {
+          "english": "Investigative journalism exposes corruption.",
+          "vietnamese": "Báo chí điều tra phanh phui tham nhũng."
+        }
+      ],
+      "collocations": [
+        "investigative journalism",
+        "independent journalism"
+      ],
+      "synonyms": [
+        "reporting"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "journalist",
+          "partOfSpeech": "noun",
+          "definition": "nhà báo"
+        }
+      ]
+    },
+    {
+      "id": "media-002",
+      "word": "Broadcast",
+      "phonetic": "/ˈbrɔːdkɑːst/ (BrE) | /ˈbrɔːdkæst/ (AmE)",
+      "partOfSpeech": "noun/verb",
+      "definitionEnglish": "To transmit information or programs by radio, television, or online media",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "phát sóng"
+        },
+        {
+          "type": "noun",
+          "definition": "chương trình phát sóng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Broadcast",
+      "examples": [
+        {
+          "english": "The event was broadcast live.",
+          "vietnamese": "Sự kiện được phát sóng trực tiếp."
+        },
+        {
+          "english": "The news broadcast starts at 7 p.m.",
+          "vietnamese": "Bản tin bắt đầu lúc 7 giờ tối."
+        },
+        {
+          "english": "They broadcast the announcement nationwide.",
+          "vietnamese": "Họ phát sóng thông báo trên toàn quốc."
+        }
+      ],
+      "collocations": [
+        "live broadcast",
+        "television broadcast"
+      ],
+      "synonyms": [
+        "air"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "broadcaster",
+          "partOfSpeech": "noun",
+          "definition": "đài phát sóng; người phát sóng"
+        }
+      ]
+    },
+    {
+      "id": "media-003",
+      "word": "Editorial",
+      "phonetic": "/ˌedɪˈtɔːriəl/ (BrE) | /ˌedɪˈtɔːriəl/ (AmE)",
+      "partOfSpeech": "noun/adjective",
+      "definitionEnglish": "An article or opinion expressing the views of a media organization",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "bài xã luận"
+        },
+        {
+          "type": "adjective",
+          "definition": "thuộc biên tập"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Editorial",
+      "examples": [
+        {
+          "english": "The editorial criticized the new policy.",
+          "vietnamese": "Bài xã luận chỉ trích chính sách mới."
+        },
+        {
+          "english": "She works on the editorial team.",
+          "vietnamese": "Cô ấy làm việc trong nhóm biên tập."
+        },
+        {
+          "english": "Editorial opinions may influence readers.",
+          "vietnamese": "Ý kiến xã luận có thể ảnh hưởng đến độc giả."
+        }
+      ],
+      "collocations": [
+        "editorial board",
+        "editorial stance"
+      ],
+      "synonyms": [
+        "opinion piece"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "editor",
+          "partOfSpeech": "noun",
+          "definition": "biên tập viên"
+        }
+      ]
+    },
+    {
+      "id": "media-004",
+      "word": "Censorship",
+      "phonetic": "/ˈsensəʃɪp/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The suppression or restriction of information by an authority",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "sự kiểm duyệt"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Censorship",
+      "examples": [
+        {
+          "english": "The media opposed government censorship.",
+          "vietnamese": "Truyền thông phản đối sự kiểm duyệt của chính phủ."
+        },
+        {
+          "english": "Censorship limits freedom of expression.",
+          "vietnamese": "Kiểm duyệt hạn chế tự do ngôn luận."
+        },
+        {
+          "english": "Online censorship is widely debated.",
+          "vietnamese": "Kiểm duyệt trực tuyến được tranh luận rộng rãi."
+        }
+      ],
+      "collocations": [
+        "media censorship",
+        "state censorship"
+      ],
+      "synonyms": [
+        "suppression"
+      ],
+      "antonyms": [
+        "freedom"
+      ],
+      "wordFamily": [
+        {
+          "word": "censor",
+          "partOfSpeech": "verb",
+          "definition": "kiểm duyệt"
+        }
+      ]
+    },
+    {
+      "id": "media-005",
+      "word": "Propaganda",
+      "phonetic": "/ˌprɒpəˈɡændə/ (BrE) | /ˌprɑːpəˈɡændə/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Information used to influence public opinion, often in a biased way",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tuyên truyền (mang tính định hướng)"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Propaganda",
+      "examples": [
+        {
+          "english": "The film was accused of being propaganda.",
+          "vietnamese": "Bộ phim bị cáo buộc là tuyên truyền."
+        },
+        {
+          "english": "Propaganda can distort the truth.",
+          "vietnamese": "Tuyên truyền có thể bóp méo sự thật."
+        },
+        {
+          "english": "The media rejected political propaganda.",
+          "vietnamese": "Truyền thông bác bỏ tuyên truyền chính trị."
+        }
+      ],
+      "collocations": [
+        "political propaganda",
+        "state propaganda"
+      ],
+      "synonyms": [
+        "disinformation"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "propagandist",
+          "partOfSpeech": "noun",
+          "definition": "người tuyên truyền"
+        }
+      ]
+    },
+    {
+      "id": "media-006",
+      "word": "Objectivity",
+      "phonetic": "/ˌɒbdʒekˈtɪvɪti/ (BrE) | /ˌɑːbdʒekˈtɪvɪti/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The practice of being neutral and unbiased in reporting",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tính khách quan"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Objectivity",
+      "examples": [
+        {
+          "english": "Journalists strive for objectivity.",
+          "vietnamese": "Nhà báo cố gắng giữ tính khách quan."
+        },
+        {
+          "english": "Complete objectivity is hard to achieve.",
+          "vietnamese": "Hoàn toàn khách quan là điều khó đạt được."
+        },
+        {
+          "english": "Objectivity builds public trust.",
+          "vietnamese": "Tính khách quan xây dựng niềm tin công chúng."
+        }
+      ],
+      "collocations": [
+        "journalistic objectivity"
+      ],
+      "synonyms": [
+        "neutrality"
+      ],
+      "antonyms": [
+        "bias"
+      ],
+      "wordFamily": [
+        {
+          "word": "objective",
+          "partOfSpeech": "adjective",
+          "definition": "khách quan"
+        }
+      ]
+    },
+    {
+      "id": "media-007",
+      "word": "Sensationalism",
+      "phonetic": "/senˈseɪʃənəlɪzəm/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The use of shocking or exaggerated stories to attract attention",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "giật gân (trong truyền thông)"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Sensationalism",
+      "examples": [
+        {
+          "english": "The article was criticized for sensationalism.",
+          "vietnamese": "Bài báo bị chỉ trích vì tính giật gân."
+        },
+        {
+          "english": "Sensationalism can mislead audiences.",
+          "vietnamese": "Giật gân có thể gây hiểu lầm cho công chúng."
+        },
+        {
+          "english": "The channel avoids sensationalism.",
+          "vietnamese": "Kênh này tránh đưa tin giật gân."
+        }
+      ],
+      "collocations": [
+        "media sensationalism"
+      ],
+      "synonyms": [
+        "exaggeration"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "sensational",
+          "partOfSpeech": "adjective",
+          "definition": "giật gân"
+        }
+      ]
+    },
+    {
+      "id": "media-008",
+      "word": "Coverage",
+      "phonetic": "/ˈkʌvərɪdʒ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The reporting of events or issues by the media",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "sự đưa tin"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Coverage",
+      "examples": [
+        {
+          "english": "The event received wide media coverage.",
+          "vietnamese": "Sự kiện nhận được sự đưa tin rộng rãi."
+        },
+        {
+          "english": "News coverage focused on the election.",
+          "vietnamese": "Việc đưa tin tập trung vào cuộc bầu cử."
+        },
+        {
+          "english": "The coverage was balanced and fair.",
+          "vietnamese": "Cách đưa tin cân bằng và công bằng."
+        }
+      ],
+      "collocations": [
+        "media coverage",
+        "extensive coverage"
+      ],
+      "synonyms": [
+        "reporting"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "cover",
+          "partOfSpeech": "verb",
+          "definition": "đưa tin"
+        }
+      ]
+    },
+    {
+      "id": "media-009",
+      "word": "Press freedom",
+      "phonetic": "/pres ˈfriːdəm/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The right of the media to report without censorship or restraint",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tự do báo chí"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Press+Freedom",
+      "examples": [
+        {
+          "english": "Press freedom is essential to democracy.",
+          "vietnamese": "Tự do báo chí là yếu tố thiết yếu của dân chủ."
+        },
+        {
+          "english": "Journalists fight for press freedom.",
+          "vietnamese": "Các nhà báo đấu tranh cho tự do báo chí."
+        },
+        {
+          "english": "Press freedom varies by country.",
+          "vietnamese": "Tự do báo chí khác nhau tùy theo quốc gia."
+        }
+      ],
+      "collocations": [
+        "protect press freedom"
+      ],
+      "synonyms": [
+        "media freedom"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "media-010",
+      "word": "Disinformation",
+      "phonetic": "/ˌdɪsˌɪnfəˈmeɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "False information deliberately spread to mislead the public",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "thông tin sai lệch có chủ ý"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Disinformation",
+      "examples": [
+        {
+          "english": "Disinformation spreads quickly online.",
+          "vietnamese": "Thông tin sai lệch lan truyền nhanh trên mạng."
+        },
+        {
+          "english": "The campaign aimed to counter disinformation.",
+          "vietnamese": "Chiến dịch nhằm chống lại thông tin sai lệch."
+        },
+        {
+          "english": "Media literacy helps identify disinformation.",
+          "vietnamese": "Hiểu biết truyền thông giúp nhận diện thông tin sai lệch."
+        }
+      ],
+      "collocations": [
+        "online disinformation",
+        "combat disinformation"
+      ],
+      "synonyms": [
+        "fake news"
+      ],
+      "antonyms": [
+        "truth"
+      ],
+      "wordFamily": [
+        {
+          "word": "misinformation",
+          "partOfSpeech": "noun",
+          "definition": "thông tin sai (không chủ ý)"
+        }
+      ]
+    },
+    {
+      "id": "noun-002",
+      "word": "Landlady",
+      "phonetic": "/ˈlændˌleɪdi/ (BrE) | /ˈlændˌleɪdi/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A woman who owns and rents out a house, flat, or room to others",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "bà chủ nhà (cho thuê nhà hoặc phòng)"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Landlady",
+      "examples": [
+        {
+          "english": "The landlady lives on the ground floor of the building.",
+          "vietnamese": "Bà chủ nhà sống ở tầng trệt của tòa nhà."
+        },
+        {
+          "english": "Our landlady agreed to fix the heating system.",
+          "vietnamese": "Bà chủ nhà đã đồng ý sửa hệ thống sưởi."
+        },
+        {
+          "english": "He pays the rent directly to the landlady every month.",
+          "vietnamese": "Anh ấy trả tiền thuê trực tiếp cho bà chủ nhà mỗi tháng."
+        }
+      ],
+      "collocations": [
+        "live-in landlady",
+        "strict landlady",
+        "complain to the landlady",
+        "pay rent to the landlady"
+      ],
+      "synonyms": [
+        "female landlord",
+        "property owner"
+      ],
+      "antonyms": [
+        "tenant",
+        "lodger"
+      ],
+      "wordFamily": [
+        {
+          "word": "landlord",
+          "partOfSpeech": "noun",
+          "definition": "ông chủ nhà (cho thuê nhà hoặc phòng)"
+        },
+        {
+          "word": "tenancy",
+          "partOfSpeech": "noun",
+          "definition": "việc thuê nhà; thời hạn thuê"
+        }
+      ]
+    },
+    {
+      "id": "noun-003",
+      "word": "Purse",
+      "phonetic": "/pɜːs/ (BrE) | /pɜːrs/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A small bag used especially by women to carry money and personal items",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "ví tiền (thường của phụ nữ)"
+        },
+        {
+          "type": "noun",
+          "definition": "ngân khố; nguồn tiền (nghĩa bóng)"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Purse",
+      "examples": [
+        {
+          "english": "She put her phone back into her purse.",
+          "vietnamese": "Cô ấy bỏ điện thoại lại vào ví."
+        },
+        {
+          "english": "The thief stole her purse on the bus.",
+          "vietnamese": "Tên trộm đã lấy cắp ví của cô ấy trên xe buýt."
+        },
+        {
+          "english": "The project was funded from the public purse.",
+          "vietnamese": "Dự án được tài trợ từ ngân khố nhà nước."
+        }
+      ],
+      "collocations": [
+        "leather purse",
+        "handbag and purse",
+        "public purse",
+        "keep money in a purse"
+      ],
+      "synonyms": [
+        "handbag",
+        "wallet",
+        "pocketbook"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "purse",
+          "partOfSpeech": "verb",
+          "definition": "mím chặt (môi); thắt chặt (chi tiêu)"
+        },
+        {
+          "word": "purse-string",
+          "partOfSpeech": "noun",
+          "definition": "nguồn chi tiêu; quyền kiểm soát tiền bạc"
+        }
+      ]
+    },
+    {
+      "id": "noun-004",
+      "word": "Miser",
+      "phonetic": "/ˈmaɪzə/ (BrE) | /ˈmaɪzər/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who is extremely unwilling to spend money",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "người keo kiệt, người bủn xỉn"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Miser",
+      "examples": [
+        {
+          "english": "He was such a miser that he never turned on the heating.",
+          "vietnamese": "Ông ta keo kiệt đến mức không bao giờ bật lò sưởi."
+        },
+        {
+          "english": "The character is portrayed as a lonely old miser.",
+          "vietnamese": "Nhân vật được khắc họa là một ông già keo kiệt và cô độc."
+        },
+        {
+          "english": "People avoided him because of his reputation as a miser.",
+          "vietnamese": "Mọi người tránh xa ông ta vì tiếng xấu là người bủn xỉn."
+        }
+      ],
+      "collocations": [
+        "old miser",
+        "mean miser",
+        "rich miser",
+        "behave like a miser"
+      ],
+      "synonyms": [
+        "cheapskate",
+        "skinflint",
+        "penny-pincher"
+      ],
+      "antonyms": [
+        "spender",
+        "philanthropist"
+      ],
+      "wordFamily": [
+        {
+          "word": "miserly",
+          "partOfSpeech": "adjective",
+          "definition": "keo kiệt, bủn xỉn"
+        },
+        {
+          "word": "misery",
+          "partOfSpeech": "noun",
+          "definition": "sự khốn khổ; sự đau khổ"
+        }
+      ]
+    },
+    {
+      "id": "press-003",
+      "word": "Headline",
+      "phonetic": "/ˈhedlaɪn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The title of a news article printed in large letters",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tiêu đề báo"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Headline",
+      "examples": [
+        {
+          "english": "The headline caught public attention.",
+          "vietnamese": "Tiêu đề thu hút sự chú ý của công chúng."
+        },
+        {
+          "english": "I only read the headlines today.",
+          "vietnamese": "Hôm nay tôi chỉ đọc tiêu đề."
+        },
+        {
+          "english": "The headline was misleading.",
+          "vietnamese": "Tiêu đề gây hiểu lầm."
+        }
+      ],
+      "collocations": [
+        "front-page headline",
+        "catchy headline"
+      ],
+      "synonyms": [
+        "title"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "press-004",
+      "word": "Tabloid",
+      "phonetic": "/ˈtæblɔɪd/",
+      "partOfSpeech": "noun/adjective",
+      "definitionEnglish": "A type of newspaper with smaller pages and sensational stories",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "báo lá cải"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Tabloid",
+      "examples": [
+        {
+          "english": "Tabloids often focus on celebrity gossip.",
+          "vietnamese": "Báo lá cải thường tập trung vào tin người nổi tiếng."
+        },
+        {
+          "english": "He works for a tabloid newspaper.",
+          "vietnamese": "Anh ấy làm việc cho một tờ báo lá cải."
+        },
+        {
+          "english": "The story felt tabloid in tone.",
+          "vietnamese": "Câu chuyện mang giọng điệu lá cải."
+        }
+      ],
+      "collocations": [
+        "tabloid press",
+        "tabloid journalism"
+      ],
+      "synonyms": [
+        "gossip paper"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "press-005",
+      "word": "Broadsheet",
+      "phonetic": "/ˈbrɔːdʃiːt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A large-format newspaper associated with serious journalism",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "báo chính thống, nghiêm túc"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Broadsheet",
+      "examples": [
+        {
+          "english": "Broadsheets focus on in-depth analysis.",
+          "vietnamese": "Báo chính thống tập trung vào phân tích chuyên sâu."
+        },
+        {
+          "english": "She prefers reading broadsheets.",
+          "vietnamese": "Cô ấy thích đọc báo chính thống."
+        },
+        {
+          "english": "The broadsheet criticized the policy.",
+          "vietnamese": "Tờ báo chính thống chỉ trích chính sách."
+        }
+      ],
+      "collocations": [
+        "national broadsheet"
+      ],
+      "synonyms": [
+        "quality newspaper"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    }
+  ]
+}

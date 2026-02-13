@@ -1,0 +1,385 @@
+{
+  "topicId": "day_58",
+  "items": [
+    {
+      "id": "industrial-001",
+      "word": "industrialization",
+      "phonetic": "/ɪnˌdʌstriəlaɪˈzeɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The process by which a society or economy shifts from agriculture to large-scale industrial production",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Công nghiệp hóa – quá trình chuyển đổi từ nông nghiệp sang sản xuất công nghiệp"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Industrialization",
+      "examples": [
+        {
+          "english": "The country's rapid industrialization led to significant economic growth.",
+          "vietnamese": "Quá trình công nghiệp hóa nhanh chóng của đất nước đã dẫn đến sự tăng trưởng kinh tế đáng kể."
+        },
+        {
+          "english": "Many rural areas experienced social and environmental changes due to the process of industrialization.",
+          "vietnamese": "Hàng loạt các vùng nông thôn đã trải qua những thay đổi xã hội và môi trường do quá trình công nghiệp hóa."
+        },
+        {
+          "english": "The government's focus on promoting industrialization has transformed the economy over the past decade.",
+          "vietnamese": "Ngoài việc thúc đẩy công nghiệp hóa, chính phủ đã chuyển biến nền kinh tế trong thập kỷ qua."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "industrial",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "ecological-002",
+      "word": "ecologization",
+      "phonetic": "/ɪˌkɑːləˈɡaɪzeɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The process of incorporating ecological principles and practices into economic or social systems",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Môi trường hóa – quá trình đưa các nguyên lý và thực践性生态学原则和实践融入经济或社会系统"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Ecologization",
+      "examples": [
+        {
+          "english": "The company is committed to the ecologization of its operations to reduce environmental impact.",
+          "vietnamese": "Công ty cam kết thực践性生态化其运营以减少对环境的影响。"
+        },
+        {
+          "english": "Government policies are increasingly focused on ecologization as a means to combat climate change.",
+          "vietnamese": "Chính sách của chính phủ ngày càng tập trung vào môi trường hóa như một cách để đối抗气候变化。"
+        },
+        {
+          "english": "The community initiative aims to promote urban ecologization through green infrastructure development.",
+          "vietnamese": "Khí气动社区行动旨在通过绿色基础设施发展促进城市环境化。"
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "ecological",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "urban-003",
+      "word": "urbanization",
+      "phonetic": "/ʌrˈbænɪzeɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The process by which people move from rural to urban areas, leading to the growth of cities and towns",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Thành thị hóa – quá trình di chuyển của người dân từ vùng nông thôn sang khu vực đô thị, dẫn đến sự phát triển của các thành phố và thị trấn"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Urbanization",
+      "examples": [
+        {
+          "english": "The trend towards urbanization has led to the expansion of infrastructure in many cities.",
+          "vietnamese": "Trend của sự thành thị hóa đã dẫn đến việc mở rộng cơ sở hạ tầng ở nhiều thành phố."
+        },
+        {
+          "english": "Urbanization often brings about changes in social and economic structures.",
+          "vietnamese": "Thành thị hóa thường mang lại những thay đổi trong cấu trúc xã hội và kinh tế."
+        },
+        {
+          "english": "The government is planning to address the challenges of rapid urbanization through sustainable development policies.",
+          "vietnamese": "Chính phủ đang lên kế hoạch đối抗城市化带来的挑战，通过可持续发展政策来应对。"
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "urban",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "pollution-004",
+      "word": "pollutant",
+      "phonetic": "/ˈpɒl.ju.ə.tnt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Any substance that pollutes the air, water, or land, often causing harm to human health and ecosystems",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Máu ô nhiễm – bất kỳ chất nào gây ô nhiễm không khí, nước hoặc đất, thường gây hại đến sức khỏe con người và hệ sinh thái"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Pollutant",
+      "examples": [
+        {
+          "english": "The factory was found to be emitting pollutants that were harmful to public health.",
+          "vietnamese": "Nhà máy bị phát hiện đang thải ra các chất ô nhiễm gây hại đến sức khỏe công chúng."
+        },
+        {
+          "english": "Reducing the use of polluting chemicals is crucial for protecting the environment.",
+          "vietnamese": "Giảm sử dụng hóa chất ô nhiễm là rất quan trọng để bảo vệ môi trường."
+        },
+        {
+          "english": "The new regulations aim to minimize the release of pollutants into the atmosphere.",
+          "vietnamese": "Những quy định mới nhằm giảm thiểu việc phát thải các chất ô nhiễm vào bầu không khí."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "pollute",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "deforestation-005",
+      "word": "deforestation",
+      "phonetic": "/dɪˌfɔːr.təˈzeɪ.ʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The large-scale cutting down of trees, leading to the loss of forested areas and biodiversity",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Phá rừng – việc chặt cây hàng loạt, dẫn đến mất mát khu vực rừng và đa dạng sinh học"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Deforestation",
+      "examples": [
+        {
+          "english": "The project aimed to reduce deforestation by promoting sustainable forest management practices.",
+          "vietnamese": "Đề án nhằm giảm thiểu phá rừng bằng cách thúc đẩy các thực践性可持续森林管理实践。"
+        },
+        {
+          "english": "Illegal logging continues to be a major contributor to global deforestation.",
+          "vietnamese": "Cái gọi是非法砍伐继续是全球破坏森林的主要原因之一。"
+        },
+        {
+          "english": "Efforts are being made worldwide to combat the effects of deforestation on climate change and biodiversity loss.",
+          "vietnamese": "Nỗ lực đang được triển开全球范围应对破坏森林对气候变化和生物多样性丧失的影响。"
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "forest",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "habitat-006",
+      "word": "habitat",
+      "phonetic": "/ˈhæbɪtæt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The natural environment in which a plant or animal lives and grows, providing it with the necessary resources to survive",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Môi trường sống – nơi tự nhiên mà một loài thực vật hoặc động vật sinh sống và phát triển, cung cấp cho nó những tài nguyên cần thiết để tồn tại"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Habitat",
+      "examples": [
+        {
+          "english": "Conservation efforts are focused on protecting the habitat of endangered species.",
+          "vietnamese": "Nỗ lực bảo tồn tập trung vào việc bảo vệ môi trường sống của các loài bị đe dọa."
+        },
+        {
+          "english": "The destruction of natural habitats is a major threat to wildlife conservation worldwide.",
+          "vietnamese": "Sự phá hủy môi trường tự nhiên là một mối đe dọa lớn đối với sự bảo tồn động vật hoang dã trên toàn thế giới。"
+        },
+        {
+          "english": "Scientists are studying the impact of urbanization on animal habitats in various regions.",
+          "vietnamese": "Các nhà khoa学科学家在研究城市化对各种地区动物栖息地的影响。"
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "habitate",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "biodiversity-007",
+      "word": "biodiversity",
+      "phonetic": "/baɪ.oʊ.di.ˈvɜːr.tə.ti/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The variety and variability of life and its processes, including the diversity of species and ecosystems",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Diversity sinh học – sự đa dạng và biến thể của cuộc sống và các quá trình liên quan đến sự đa dạng của các loài và hệ sinh thái"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Biodiversity",
+      "examples": [
+        {
+          "english": "The conservation of biodiversity is crucial for maintaining the health and stability of ecosystems.",
+          "vietnamese": "Bảo tồn đa dạng sinh học là quan trọng để duy trì sức khỏe và sự ổn định của hệ sinh thái。"
+        },
+        {
+          "english": "Protecting biodiversity is essential to ensure a sustainable future for our planet.",
+          "vietnamese": "Đảm保生物多样性是确保地球可持续未来的必要条件。"
+        },
+        {
+          "english": "The loss of species due to habitat destruction poses a significant threat to global biodiversity.",
+          "vietnamese": "Sự mất mát loài động vật do phá hủy môi trường sống đặt ra một mối đe dọa đáng kể đối với đa dạng sinh học toàn cầu。"
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "biodiverse",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "emission-008",
+      "word": "emission",
+      "phonetic": "/ɪˈmɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The act of sending out or releasing something, often referring to pollutants into the air, water, or land",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Xả thải – hành động phát ra hoặc giải phóng điều gì đó, thường đề cập đến việc phát thải chất ô nhiễm vào không khí, nước hoặc đất"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Emission",
+      "examples": [
+        {
+          "english": "Reducing emissions from factories is a key step in addressing climate change.",
+          "vietnamese": "Giảm thiểu việc phát thải từ các nhà máy là bước quan trọng trong việc đối抗气候变化。"
+        },
+        {
+          "english": "The new regulations aim to minimize harmful emissions into the atmosphere.",
+          "vietnamese": "Những quy định mới nhằm giảm thiểu mức độ thải độc hại vào bầu không khí."
+        },
+        {
+          "english": "Emissions from transportation are a significant contributor to air pollution in urban areas.",
+          "vietnamese": "Xả thải từ giao thông là một nguyên nhân đáng kể gây ô nhiễm không khí ở các khu vực đô thị。"
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "emit",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "sustainable-009",
+      "word": "sustainability",
+      "phonetic": "/səˌstæn.dəˈbɪl.ɪ.ti/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The ability to be maintained at a certain rate or level, often in the context of environmental and economic practices",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Sustainability - khả năng duy trì ở một mức độ hoặc tốc độ nhất định, thường trong bối cảnh thực践性可持续环境和经济实践。"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Sustainability",
+      "examples": [
+        {
+          "english": "Achieving sustainability requires a balance between economic growth and environmental protection.",
+          "vietnamese": "Đạt được sự bền vững yêu cầu một sự cân bằng giữa tăng trưởng kinh tế và bảo vệ môi trường。"
+        },
+        {
+          "english": "The company's commitment to sustainable development has led to increased profits over the past decade.",
+          "vietnamese": "Cam kết của công ty đối抗可持续发展已经为其带来了过去十年的利润增长。"
+        },
+        {
+          "english": "Sustainable practices are essential for ensuring a healthy and prosperous future for generations to come.",
+          "vietnamese": "Thực践性可持续做法对于确保后代有一个健康和繁荣的未来是必不可少的。"
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "sustainable",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "renewable-010",
+      "word": "renewability",
+      "phonetic": "/rɪˈnjuː.wə.bɪl.i.ti/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The ability to be renewed or replaced by natural processes, often in the context of energy sources and resources",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Renewability - khả năng được tái tạo hoặc thay thế thông qua các quá trình tự nhiên, thường trong bối cảnh nguồn năng lượng và tài nguyên"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475669?text=Renewability",
+      "examples": [
+        {
+          "english": "Solar and wind energy are examples of renewable resources that can help reduce our reliance on fossil fuels.",
+          "vietnamese": "Năng lượng mặt trời và gió là các ví dụ về nguồn năng lượng tái tạo có thể giúp giảm sự phụ thuộc vào nhiên liệu hóa thạch。"
+        },
+        {
+          "english": "The transition to a renewable energy system is crucial for addressing climate change and reducing pollution.",
+          "vietnamese": "Chuyển đổi sang hệ thống năng lượng tái tạo là quan trọng để đối抗气候变化和减少污染。"
+        },
+        {
+          "english": "Renewability of resources is an important factor in promoting sustainable development.",
+          "vietnamese": "Bền vững của tài nguyên là một yếu tố quan trọng trong việc thúc đẩy sự phát triển bền vững。"
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "renewable",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    }
+  ]
+}

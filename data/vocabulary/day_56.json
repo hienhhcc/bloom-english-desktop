@@ -1,0 +1,705 @@
+{
+  "topicId": "day_56",
+  "items": [
+    {
+      "id": "industrial-001",
+      "word": "industrialization",
+      "phonetic": "/ɪnˌdʌstriəlaɪˈzeɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The process by which a society or economy shifts from agriculture to large-scale industrial production",
+      "definitionVietnamese": "Công nghiệp hóa – quá trình chuyển đổi từ nông nghiệp sang sản xuất công nghiệp",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Industrialization",
+      "examples": [
+        {
+          "english": "Industrialization transformed traditional economies.",
+          "vietnamese": "Công nghiệp hóa đã làm thay đổi các nền kinh tế truyền thống."
+        },
+        {
+          "english": "Rapid industrialization creates employment.",
+          "vietnamese": "Công nghiệp hóa nhanh tạo ra việc làm."
+        },
+        {
+          "english": "Industrialization often leads to urban growth.",
+          "vietnamese": "Công nghiệp hóa thường dẫn đến phát triển đô thị."
+        }
+      ],
+      "collocations": [
+        "rapid industrialization",
+        "industrialization process"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "deindustrialization"
+      ],
+      "wordFamily": [
+        {
+          "word": "industrialize",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "industrialized",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "industrial-002",
+      "word": "manufacturing",
+      "phonetic": "/ˌmænjʊˈfæktʃərɪŋ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The large-scale production of goods using machinery and labor",
+      "definitionVietnamese": "Sản xuất công nghiệp – việc sản xuất hàng hóa với quy mô lớn",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Manufacturing",
+      "examples": [
+        {
+          "english": "Manufacturing drives economic growth.",
+          "vietnamese": "Sản xuất thúc đẩy tăng trưởng kinh tế."
+        },
+        {
+          "english": "Manufacturing plants provide many jobs.",
+          "vietnamese": "Nhà máy sản xuất cung cấp nhiều việc làm."
+        },
+        {
+          "english": "Automation is changing manufacturing.",
+          "vietnamese": "Tự động hóa đang thay đổi ngành sản xuất."
+        }
+      ],
+      "collocations": [
+        "manufacturing industry",
+        "mass manufacturing"
+      ],
+      "synonyms": [
+        "production"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "manufacture",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "manufacturer",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "industrial-003",
+      "word": "factory",
+      "phonetic": "/ˈfæktri/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A building where goods are produced using machines and workers",
+      "definitionVietnamese": "Nhà máy – nơi sản xuất hàng hóa bằng máy móc",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Factory",
+      "examples": [
+        {
+          "english": "Factories expanded during industrialization.",
+          "vietnamese": "Nhà máy mở rộng trong thời kỳ công nghiệp hóa."
+        },
+        {
+          "english": "The factory operates continuously.",
+          "vietnamese": "Nhà máy hoạt động liên tục."
+        },
+        {
+          "english": "Many workers migrated to factory towns.",
+          "vietnamese": "Nhiều công nhân di cư đến các thị trấn có nhà máy."
+        }
+      ],
+      "collocations": [
+        "factory workers",
+        "factory output"
+      ],
+      "synonyms": [
+        "plant"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "factory-made",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "industrial-004",
+      "word": "automation",
+      "phonetic": "/ˌɔːtəˈmeɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The use of machines and technology to perform tasks with minimal human labor",
+      "definitionVietnamese": "Tự động hóa – việc sử dụng công nghệ và máy móc thay thế con người",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Automation",
+      "examples": [
+        {
+          "english": "Automation increases industrial efficiency.",
+          "vietnamese": "Tự động hóa làm tăng hiệu quả công nghiệp."
+        },
+        {
+          "english": "Automation reduces manual labor.",
+          "vietnamese": "Tự động hóa giảm lao động thủ công."
+        },
+        {
+          "english": "Many factories invest in automation.",
+          "vietnamese": "Nhiều nhà máy đầu tư vào tự động hóa."
+        }
+      ],
+      "collocations": [
+        "industrial automation"
+      ],
+      "synonyms": [
+        "mechanization"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "automate",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "automated",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "industrial-005",
+      "word": "urbanization",
+      "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The movement of people from rural areas to cities, resulting in city expansion",
+      "definitionVietnamese": "Đô thị hóa – sự gia tăng dân cư tại các thành phố",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Urbanization",
+      "examples": [
+        {
+          "english": "Industrialization accelerates urbanization.",
+          "vietnamese": "Công nghiệp hóa thúc đẩy đô thị hóa."
+        },
+        {
+          "english": "Urbanization strains public services.",
+          "vietnamese": "Đô thị hóa gây áp lực lên dịch vụ công."
+        },
+        {
+          "english": "Rapid urbanization changes lifestyles.",
+          "vietnamese": "Đô thị hóa nhanh làm thay đổi lối sống."
+        }
+      ],
+      "collocations": [
+        "rapid urbanization"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ruralization"
+      ],
+      "wordFamily": [
+        {
+          "word": "urbanize",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "urban",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "industrial-006",
+      "word": "pollution",
+      "phonetic": "/pəˈluːʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The contamination of the environment caused by industrial and human activities",
+      "definitionVietnamese": "Ô nhiễm – sự làm bẩn môi trường do hoạt động công nghiệp",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Pollution",
+      "examples": [
+        {
+          "english": "Industrial pollution harms ecosystems.",
+          "vietnamese": "Ô nhiễm công nghiệp gây hại hệ sinh thái."
+        },
+        {
+          "english": "Factories contribute to air pollution.",
+          "vietnamese": "Nhà máy gây ô nhiễm không khí."
+        },
+        {
+          "english": "Governments aim to reduce pollution.",
+          "vietnamese": "Chính phủ hướng tới giảm ô nhiễm."
+        }
+      ],
+      "collocations": [
+        "air pollution",
+        "industrial pollution"
+      ],
+      "synonyms": [
+        "contamination"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "pollute",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "polluted",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "industrial-007",
+      "word": "productivity",
+      "phonetic": "/ˌprɒdʌkˈtɪvɪti/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The efficiency with which goods are produced using labor and resources",
+      "definitionVietnamese": "Năng suất – mức độ hiệu quả trong sản xuất",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Productivity",
+      "examples": [
+        {
+          "english": "Industrialization increases productivity.",
+          "vietnamese": "Công nghiệp hóa làm tăng năng suất."
+        },
+        {
+          "english": "Technology improves productivity.",
+          "vietnamese": "Công nghệ cải thiện năng suất."
+        },
+        {
+          "english": "High productivity boosts profits.",
+          "vietnamese": "Năng suất cao làm tăng lợi nhuận."
+        }
+      ],
+      "collocations": [
+        "increase productivity"
+      ],
+      "synonyms": [
+        "efficiency"
+      ],
+      "antonyms": [
+        "inefficiency"
+      ],
+      "wordFamily": [
+        {
+          "word": "productive",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "word": "produce",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "industrial-008",
+      "word": "capital",
+      "phonetic": "/ˈkæpɪtl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Money and assets invested in machinery, factories, and industrial development",
+      "definitionVietnamese": "Vốn – tiền và tài sản dùng cho sản xuất công nghiệp",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Capital",
+      "examples": [
+        {
+          "english": "Industrial growth requires capital.",
+          "vietnamese": "Tăng trưởng công nghiệp cần vốn."
+        },
+        {
+          "english": "Foreign capital supports factories.",
+          "vietnamese": "Vốn nước ngoài hỗ trợ nhà máy."
+        },
+        {
+          "english": "Capital investment drives innovation.",
+          "vietnamese": "Đầu tư vốn thúc đẩy đổi mới."
+        }
+      ],
+      "collocations": [
+        "capital investment"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "capitalism",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "capitalist",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "industrial-009",
+      "word": "workforce",
+      "phonetic": "/ˈwɜːkfɔːs/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The total number of people available to work in an industry or economy",
+      "definitionVietnamese": "Lực lượng lao động – tổng số người tham gia làm việc",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Workforce",
+      "examples": [
+        {
+          "english": "Industrialization expands the workforce.",
+          "vietnamese": "Công nghiệp hóa mở rộng lực lượng lao động."
+        },
+        {
+          "english": "A skilled workforce attracts investors.",
+          "vietnamese": "Lao động lành nghề thu hút đầu tư."
+        },
+        {
+          "english": "Training improves workforce quality.",
+          "vietnamese": "Đào tạo nâng cao chất lượng lao động."
+        }
+      ],
+      "collocations": [
+        "skilled workforce"
+      ],
+      "synonyms": [
+        "labor"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "worker",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "industrial-010",
+      "word": "mechanization",
+      "phonetic": "/ˌmekənaɪˈzeɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The use of machines to replace or support human labor in production",
+      "definitionVietnamese": "Cơ giới hóa – việc dùng máy móc trong sản xuất",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Mechanization",
+      "examples": [
+        {
+          "english": "Mechanization speeds up production.",
+          "vietnamese": "Cơ giới hóa làm tăng tốc độ sản xuất."
+        },
+        {
+          "english": "Mechanization reduces physical labor.",
+          "vietnamese": "Cơ giới hóa giảm lao động tay chân."
+        },
+        {
+          "english": "Mechanization improves efficiency.",
+          "vietnamese": "Cơ giới hóa cải thiện hiệu quả."
+        }
+      ],
+      "collocations": [
+        "industrial mechanization"
+      ],
+      "synonyms": [
+        "automation"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "mechanize",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "mechanized",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "vocab-001",
+      "word": "appall",
+      "phonetic": "/əˈpɔːl/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To shock or horrify someone greatly because of something unpleasant, immoral, or disturbing",
+      "definitionVietnamese": "Làm ai đó kinh hoàng hoặc sốc mạnh vì điều khó chịu hoặc đáng phẫn nộ",
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Appall",
+      "examples": [
+        {
+          "english": "The cruelty of the crime appalled the entire community.",
+          "vietnamese": "Sự tàn ác của vụ án khiến cả cộng đồng kinh hoàng."
+        },
+        {
+          "english": "She was appalled by the lack of concern for the environment.",
+          "vietnamese": "Cô ấy sốc trước sự thờ ơ với môi trường."
+        },
+        {
+          "english": "The teacher was appalled at the students’ dishonest behavior.",
+          "vietnamese": "Giáo viên kinh hoàng trước hành vi không trung thực của học sinh."
+        }
+      ],
+      "collocations": [
+        "deeply appalled",
+        "appalled at",
+        "appalled by"
+      ],
+      "synonyms": [
+        "horrify",
+        "shock",
+        "outrage"
+      ],
+      "antonyms": [
+        "delight",
+        "please"
+      ],
+      "wordFamily": [
+        {
+          "word": "appalling",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "word": "appallingly",
+          "partOfSpeech": "adverb"
+        }
+      ]
+    },
+    {
+      "id": "vocab-002",
+      "word": "indignity",
+      "phonetic": "/ɪnˈdɪɡnɪti/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An action or situation that causes shame, humiliation, or loss of respect",
+      "definitionVietnamese": "Sự sỉ nhục hoặc tình huống làm mất danh dự và lòng tự trọng",
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Indignity",
+      "examples": [
+        {
+          "english": "He suffered the indignity of being searched in public.",
+          "vietnamese": "Anh ấy chịu nỗi nhục khi bị khám xét nơi công cộng."
+        },
+        {
+          "english": "The workers protested against the indignities they faced daily.",
+          "vietnamese": "Công nhân phản đối những sự sỉ nhục mà họ phải chịu hàng ngày."
+        },
+        {
+          "english": "Living in poverty exposed her to many indignities.",
+          "vietnamese": "Cuộc sống nghèo đói khiến cô phải đối mặt với nhiều sự nhục nhã."
+        }
+      ],
+      "collocations": [
+        "suffer indignity",
+        "sense of indignity",
+        "personal indignity"
+      ],
+      "synonyms": [
+        "humiliation",
+        "disgrace"
+      ],
+      "antonyms": [
+        "honor",
+        "dignity"
+      ],
+      "wordFamily": [
+        {
+          "word": "indignant",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "word": "indignantly",
+          "partOfSpeech": "adverb"
+        }
+      ]
+    },
+    {
+      "id": "vocab-003",
+      "word": "wager",
+      "phonetic": "/ˈweɪdʒə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An agreement to risk money or something valuable on the outcome of an event",
+      "definitionVietnamese": "Một cuộc cá cược, đặt tiền hoặc vật có giá trị vào kết quả của một sự kiện",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Wager",
+      "examples": [
+        {
+          "english": "He placed a wager on the football match.",
+          "vietnamese": "Anh ấy đặt cược vào trận bóng đá."
+        },
+        {
+          "english": "They made a friendly wager over who would win the race.",
+          "vietnamese": "Họ cá cược vui xem ai sẽ thắng cuộc đua."
+        },
+        {
+          "english": "The wager involved a large sum of money.",
+          "vietnamese": "Vụ cá cược liên quan đến một số tiền lớn."
+        }
+      ],
+      "collocations": [
+        "place a wager",
+        "make a wager",
+        "lose a wager"
+      ],
+      "synonyms": [
+        "bet",
+        "stake"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "wager",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "vocab-004",
+      "word": "homophone",
+      "phonetic": "/ˈhɒməfəʊn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A word that is pronounced the same as another word but has a different meaning or spelling",
+      "definitionVietnamese": "Từ đồng âm khác nghĩa hoặc khác cách viết",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Homophone",
+      "examples": [
+        {
+          "english": "‘Flower’ and ‘flour’ are common homophones.",
+          "vietnamese": "‘Flower’ và ‘flour’ là cặp từ đồng âm phổ biến."
+        },
+        {
+          "english": "Homophones often confuse English learners.",
+          "vietnamese": "Từ đồng âm thường gây nhầm lẫn cho người học tiếng Anh."
+        },
+        {
+          "english": "The teacher explained the difference between homophones clearly.",
+          "vietnamese": "Giáo viên giải thích rõ sự khác biệt giữa các từ đồng âm."
+        }
+      ],
+      "collocations": [
+        "common homophone",
+        "homophone pair"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "homophonic",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "vocab-005",
+      "word": "peel off",
+      "phonetic": "/piːl ɒf/",
+      "partOfSpeech": "phrasal verb",
+      "definitionEnglish": "To remove something by pulling it away, or to separate from a group or surface",
+      "definitionVietnamese": "Bóc ra, lột ra hoặc tách khỏi một nhóm hay bề mặt",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Peel+Off",
+      "examples": [
+        {
+          "english": "She peeled off the sticker from the notebook.",
+          "vietnamese": "Cô ấy bóc nhãn dán khỏi quyển vở."
+        },
+        {
+          "english": "Several runners peeled off from the main group.",
+          "vietnamese": "Một số vận động viên tách khỏi nhóm chính."
+        },
+        {
+          "english": "The paint began to peel off the wall.",
+          "vietnamese": "Sơn bắt đầu bong ra khỏi tường."
+        }
+      ],
+      "collocations": [
+        "peel off slowly",
+        "begin to peel off"
+      ],
+      "synonyms": [
+        "remove",
+        "detach"
+      ],
+      "antonyms": [
+        "attach",
+        "stick"
+      ],
+      "wordFamily": [
+        {
+          "word": "peel",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "vocab-006",
+      "word": "pulp",
+      "phonetic": "/pʌlp/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The soft, wet, or fibrous mass remaining after something has been crushed, ground, or processed, especially fruit or wood",
+      "definitionVietnamese": "Phần bã mềm hoặc xơ còn lại sau khi nghiền hoặc ép, đặc biệt là trái cây hoặc gỗ",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Pulp",
+      "examples": [
+        {
+          "english": "The juice is made by squeezing the fruit and removing the pulp.",
+          "vietnamese": "Nước ép được làm bằng cách ép trái cây và loại bỏ bã."
+        },
+        {
+          "english": "Paper is produced from wood pulp.",
+          "vietnamese": "Giấy được sản xuất từ bột gỗ."
+        },
+        {
+          "english": "Some people prefer orange juice with pulp.",
+          "vietnamese": "Một số người thích nước cam có tép."
+        }
+      ],
+      "collocations": [
+        "fruit pulp",
+        "wood pulp",
+        "paper pulp"
+      ],
+      "synonyms": [
+        "mash",
+        "fiber"
+      ],
+      "antonyms": [
+        "solid"
+      ],
+      "wordFamily": [
+        {
+          "word": "pulpy",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "vocab-007",
+      "word": "cattle",
+      "phonetic": "/ˈkætəl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Large farm animals such as cows and bulls that are raised for meat, milk, or agricultural work",
+      "definitionVietnamese": "Gia súc lớn như bò được nuôi để lấy thịt, sữa hoặc phục vụ nông nghiệp",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Cattle",
+      "examples": [
+        {
+          "english": "The farmer keeps cattle in the fields near his house.",
+          "vietnamese": "Người nông dân nuôi gia súc ở những cánh đồng gần nhà."
+        },
+        {
+          "english": "Cattle farming is common in rural areas.",
+          "vietnamese": "Chăn nuôi gia súc phổ biến ở các vùng nông thôn."
+        },
+        {
+          "english": "The cattle were moved to a new grazing area.",
+          "vietnamese": "Đàn gia súc được chuyển đến khu chăn thả mới."
+        }
+      ],
+      "collocations": [
+        "raise cattle",
+        "herd of cattle",
+        "cattle farming"
+      ],
+      "synonyms": [
+        "livestock"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "cattleman",
+          "partOfSpeech": "noun"
+        }
+      ]
+    }
+  ]
+}

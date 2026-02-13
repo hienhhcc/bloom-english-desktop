@@ -1,0 +1,565 @@
+{
+  "topicId": "animals",
+  "items": [
+    {
+      "id": "animals-001",
+      "word": "elephant",
+      "phonetic": "/ˈelɪfənt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A very large animal with thick grey skin, large ears, tusks and a long trunk",
+      "definitionVietnamese": "Con voi - loài động vật rất to với da xám dày, tai lớn, ngà và vòi dài",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Elephant",
+      "examples": [
+        {
+          "english": "The elephant sprayed water with its trunk.",
+          "vietnamese": "Con voi phun nước bằng vòi của nó."
+        },
+        {
+          "english": "African elephants are larger than Asian elephants.",
+          "vietnamese": "Voi châu Phi to hơn voi châu Á."
+        },
+        {
+          "english": "Elephants have excellent memories and can remember friends for many years.",
+          "vietnamese": "Voi có trí nhớ tuyệt vời và có thể nhớ bạn bè trong nhiều năm."
+        }
+      ],
+      "collocations": ["elephant herd", "baby elephant", "wild elephant"],
+      "synonyms": ["pachyderm", "jumbo"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-002",
+      "word": "butterfly",
+      "phonetic": "/ˈbʌtəflaɪ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A flying insect with large colorful wings",
+      "definitionVietnamese": "Con bướm - loài côn trùng biết bay với đôi cánh lớn nhiều màu sắc",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Butterfly",
+      "examples": [
+        {
+          "english": "The butterfly landed gently on the flower.",
+          "vietnamese": "Con bướm đậu nhẹ nhàng trên bông hoa."
+        },
+        {
+          "english": "Children love chasing butterflies in the garden.",
+          "vietnamese": "Trẻ em thích đuổi bắt bướm trong vườn."
+        },
+        {
+          "english": "A caterpillar transforms into a beautiful butterfly.",
+          "vietnamese": "Sâu bướm biến thành một con bướm xinh đẹp."
+        }
+      ],
+      "collocations": ["beautiful butterfly", "monarch butterfly", "butterfly wings"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-003",
+      "word": "dolphin",
+      "phonetic": "/ˈdɒlfɪn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A highly intelligent sea mammal that breathes air and is known for its playful behavior",
+      "definitionVietnamese": "Cá heo - động vật có vú sống ở biển rất thông minh, thở bằng không khí và nổi tiếng vì tính vui đùa",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Dolphin",
+      "examples": [
+        {
+          "english": "Dolphins can swim at speeds of up to 20 miles per hour.",
+          "vietnamese": "Cá heo có thể bơi với tốc độ lên đến 20 dặm một giờ."
+        },
+        {
+          "english": "We watched dolphins jumping out of the water.",
+          "vietnamese": "Chúng tôi xem cá heo nhảy lên khỏi mặt nước."
+        },
+        {
+          "english": "Dolphins use sounds and clicks to communicate with each other.",
+          "vietnamese": "Cá heo sử dụng âm thanh và tiếng click để giao tiếp với nhau."
+        }
+      ],
+      "collocations": ["bottlenose dolphin", "wild dolphin", "dolphin show"],
+      "synonyms": ["porpoise"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-004",
+      "word": "eagle",
+      "phonetic": "/ˈiːɡl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A large bird of prey with excellent eyesight and powerful talons",
+      "definitionVietnamese": "Đại bàng - loài chim săn mồi lớn với thị lực tuyệt vời và móng vuốt mạnh mẽ",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Eagle",
+      "examples": [
+        {
+          "english": "The eagle soared high above the mountains.",
+          "vietnamese": "Đại bàng bay cao trên những ngọn núi."
+        },
+        {
+          "english": "Eagles have incredible vision for spotting prey.",
+          "vietnamese": "Đại bàng có thị lực đáng kinh ngạc để phát hiện con mồi."
+        },
+        {
+          "english": "The bald eagle is the national bird of the United States.",
+          "vietnamese": "Đại bàng đầu trắng là loài chim quốc gia của Hoa Kỳ."
+        }
+      ],
+      "collocations": ["bald eagle", "golden eagle", "eagle's nest"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-005",
+      "word": "giraffe",
+      "phonetic": "/dʒɪˈrɑːf/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The tallest living animal with a very long neck and legs, and spotted coat",
+      "definitionVietnamese": "Hươu cao cổ - động vật cao nhất còn sống với cổ và chân rất dài, có bộ lông đốm",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Giraffe",
+      "examples": [
+        {
+          "english": "The giraffe stretched its long neck to eat leaves from the tree.",
+          "vietnamese": "Hươu cao cổ vươn cổ dài để ăn lá từ cây."
+        },
+        {
+          "english": "Giraffes can run at speeds of up to 35 miles per hour.",
+          "vietnamese": "Hươu cao cổ có thể chạy với tốc độ lên đến 35 dặm một giờ."
+        },
+        {
+          "english": "Each giraffe has a unique pattern of spots, like a fingerprint.",
+          "vietnamese": "Mỗi con hươu cao cổ có một hoa văn đốm độc đáo, giống như dấu vân tay."
+        }
+      ],
+      "collocations": ["baby giraffe", "tall giraffe", "giraffe pattern"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-006",
+      "word": "penguin",
+      "phonetic": "/ˈpeŋɡwɪn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A black and white seabird that cannot fly but is an excellent swimmer",
+      "definitionVietnamese": "Chim cánh cụt - loài chim biển đen trắng không biết bay nhưng bơi rất giỏi",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Penguin",
+      "examples": [
+        {
+          "english": "Penguins waddle across the ice to reach the ocean.",
+          "vietnamese": "Chim cánh cụt lạch bạch đi qua băng để ra biển."
+        },
+        {
+          "english": "Emperor penguins can dive to depths of 500 meters.",
+          "vietnamese": "Chim cánh cụt hoàng đế có thể lặn sâu đến 500 mét."
+        },
+        {
+          "english": "Father penguins keep their eggs warm on their feet during winter.",
+          "vietnamese": "Chim cánh cụt bố giữ ấm trứng trên chân trong suốt mùa đông."
+        }
+      ],
+      "collocations": ["emperor penguin", "baby penguin", "penguin colony"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-007",
+      "word": "tiger",
+      "phonetic": "/ˈtaɪɡə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A large wild cat with orange fur and black stripes",
+      "definitionVietnamese": "Con hổ - loài mèo hoang dã lớn với bộ lông cam và sọc đen",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Tiger",
+      "examples": [
+        {
+          "english": "The tiger silently stalked its prey through the jungle.",
+          "vietnamese": "Con hổ lặng lẽ rình mồi xuyên qua rừng rậm."
+        },
+        {
+          "english": "Tigers are endangered due to habitat loss.",
+          "vietnamese": "Hổ đang bị đe dọa do mất môi trường sống."
+        },
+        {
+          "english": "Unlike most cats, tigers enjoy swimming in rivers and lakes.",
+          "vietnamese": "Không giống hầu hết các loài mèo, hổ thích bơi trong sông và hồ."
+        }
+      ],
+      "collocations": ["Bengal tiger", "wild tiger", "tiger cub"],
+      "synonyms": ["big cat"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-008",
+      "word": "whale",
+      "phonetic": "/weɪl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A very large sea mammal that breathes air through a blowhole on top of its head",
+      "definitionVietnamese": "Cá voi - động vật có vú rất lớn sống ở biển, thở không khí qua lỗ thở trên đầu",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Whale",
+      "examples": [
+        {
+          "english": "Blue whales are the largest animals on Earth.",
+          "vietnamese": "Cá voi xanh là động vật lớn nhất trên Trái Đất."
+        },
+        {
+          "english": "We went whale watching off the coast of California.",
+          "vietnamese": "Chúng tôi đi xem cá voi ngoài khơi bờ biển California."
+        },
+        {
+          "english": "Humpback whales sing beautiful songs that can be heard miles away.",
+          "vietnamese": "Cá voi lưng gù hát những bài hát đẹp có thể nghe thấy từ cách xa nhiều dặm."
+        }
+      ],
+      "collocations": ["blue whale", "humpback whale", "whale watching"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-009",
+      "word": "crocodile",
+      "phonetic": "/ˈkrɒkədaɪl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A large reptile with a long body, short legs, and powerful jaws that lives in tropical rivers",
+      "definitionVietnamese": "Cá sấu - loài bò sát lớn với thân dài, chân ngắn và hàm mạnh, sống ở các con sông nhiệt đới",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Crocodile",
+      "examples": [
+        {
+          "english": "The crocodile lay motionless in the water, waiting for prey.",
+          "vietnamese": "Con cá sấu nằm bất động trong nước, chờ đợi con mồi."
+        },
+        {
+          "english": "Crocodiles can live for over 70 years.",
+          "vietnamese": "Cá sấu có thể sống hơn 70 năm."
+        },
+        {
+          "english": "The crocodile opened its massive jaws to catch the fish.",
+          "vietnamese": "Con cá sấu mở hàm khổng lồ của nó để bắt cá."
+        }
+      ],
+      "collocations": ["saltwater crocodile", "crocodile attack", "crocodile tears"],
+      "synonyms": ["croc"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-010",
+      "word": "kangaroo",
+      "phonetic": "/ˌkæŋɡəˈruː/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A large Australian animal that moves by jumping on its strong back legs and carries its young in a pouch",
+      "definitionVietnamese": "Chuột túi - động vật lớn của Úc di chuyển bằng cách nhảy trên đôi chân sau khỏe và mang con trong túi",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Kangaroo",
+      "examples": [
+        {
+          "english": "The kangaroo hopped across the Australian outback.",
+          "vietnamese": "Con chuột túi nhảy qua vùng hẻo lánh nước Úc."
+        },
+        {
+          "english": "A baby kangaroo is called a joey.",
+          "vietnamese": "Chuột túi con được gọi là joey."
+        },
+        {
+          "english": "Kangaroos can jump up to 9 meters in a single leap.",
+          "vietnamese": "Chuột túi có thể nhảy xa đến 9 mét trong một bước nhảy."
+        }
+      ],
+      "collocations": ["red kangaroo", "baby kangaroo", "kangaroo pouch"],
+      "synonyms": ["roo"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-011",
+      "word": "bear",
+      "phonetic": "/beə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A large, heavy mammal with thick fur and sharp claws",
+      "definitionVietnamese": "Con gấu - động vật có vú to lớn với bộ lông dày và móng vuốt sắc",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Bear",
+      "examples": [
+        {
+          "english": "The bear caught a salmon from the river.",
+          "vietnamese": "Con gấu bắt được một con cá hồi từ sông."
+        },
+        {
+          "english": "Bears hibernate during the winter months.",
+          "vietnamese": "Gấu ngủ đông trong những tháng mùa đông."
+        },
+        {
+          "english": "The mother bear protected her cubs from danger.",
+          "vietnamese": "Gấu mẹ bảo vệ các con của mình khỏi nguy hiểm."
+        }
+      ],
+      "collocations": ["polar bear", "grizzly bear", "teddy bear"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-012",
+      "word": "monkey",
+      "phonetic": "/ˈmʌŋki/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A small to medium-sized primate with a long tail that lives in trees",
+      "definitionVietnamese": "Con khỉ - linh trưởng cỡ nhỏ đến trung bình với đuôi dài, sống trên cây",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Monkey",
+      "examples": [
+        {
+          "english": "The monkey swung from branch to branch.",
+          "vietnamese": "Con khỉ đu từ cành này sang cành khác."
+        },
+        {
+          "english": "Monkeys are known for their intelligence and curiosity.",
+          "vietnamese": "Khỉ được biết đến với trí thông minh và sự tò mò."
+        },
+        {
+          "english": "The monkeys at the zoo love to eat bananas and fruits.",
+          "vietnamese": "Những con khỉ ở sở thú thích ăn chuối và trái cây."
+        }
+      ],
+      "collocations": ["spider monkey", "baby monkey", "monkey business"],
+      "synonyms": ["primate", "ape"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-013",
+      "word": "shark",
+      "phonetic": "/ʃɑːk/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A large fish with sharp teeth and a pointed fin on its back",
+      "definitionVietnamese": "Cá mập - loài cá lớn với răng sắc và vây nhọn trên lưng",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Shark",
+      "examples": [
+        {
+          "english": "Great white sharks can sense blood from miles away.",
+          "vietnamese": "Cá mập trắng lớn có thể cảm nhận máu từ cách xa nhiều dặm."
+        },
+        {
+          "english": "Sharks have been around for over 400 million years.",
+          "vietnamese": "Cá mập đã tồn tại hơn 400 triệu năm."
+        },
+        {
+          "english": "The shark swam quickly through the deep blue ocean.",
+          "vietnamese": "Con cá mập bơi nhanh qua đại dương xanh thẳm."
+        }
+      ],
+      "collocations": ["great white shark", "shark attack", "shark fin"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-014",
+      "word": "rabbit",
+      "phonetic": "/ˈræbɪt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A small furry animal with long ears and a short fluffy tail",
+      "definitionVietnamese": "Con thỏ - động vật nhỏ có lông với tai dài và đuôi ngắn bông xù",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Rabbit",
+      "examples": [
+        {
+          "english": "The rabbit hopped across the field.",
+          "vietnamese": "Con thỏ nhảy qua cánh đồng."
+        },
+        {
+          "english": "Rabbits love to eat carrots and lettuce.",
+          "vietnamese": "Thỏ thích ăn cà rốt và rau diếp."
+        },
+        {
+          "english": "My sister keeps a white rabbit as a pet at home.",
+          "vietnamese": "Chị gái tôi nuôi một con thỏ trắng làm thú cưng ở nhà."
+        }
+      ],
+      "collocations": ["white rabbit", "pet rabbit", "rabbit hole"],
+      "synonyms": ["bunny", "hare"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-015",
+      "word": "snake",
+      "phonetic": "/sneɪk/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A long reptile without legs that moves by sliding on the ground",
+      "definitionVietnamese": "Con rắn - loài bò sát dài không có chân, di chuyển bằng cách trườn trên mặt đất",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Snake",
+      "examples": [
+        {
+          "english": "The snake slithered silently through the grass.",
+          "vietnamese": "Con rắn trườn lặng lẽ qua đám cỏ."
+        },
+        {
+          "english": "Some snakes are venomous and can be dangerous.",
+          "vietnamese": "Một số loài rắn có nọc độc và có thể nguy hiểm."
+        },
+        {
+          "english": "Snakes shed their skin several times a year as they grow.",
+          "vietnamese": "Rắn lột da nhiều lần trong năm khi chúng lớn lên."
+        }
+      ],
+      "collocations": ["poisonous snake", "snake bite", "snake charmer"],
+      "synonyms": ["serpent"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-016",
+      "word": "horse",
+      "phonetic": "/hɔːs/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A large animal with four legs that people ride or use for pulling vehicles",
+      "definitionVietnamese": "Con ngựa - động vật lớn có bốn chân mà con người cưỡi hoặc dùng để kéo xe",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Horse",
+      "examples": [
+        {
+          "english": "She learned to ride a horse when she was seven.",
+          "vietnamese": "Cô ấy học cưỡi ngựa khi lên bảy tuổi."
+        },
+        {
+          "english": "Wild horses roam freely across the plains.",
+          "vietnamese": "Ngựa hoang đi lang thang tự do khắp đồng bằng."
+        },
+        {
+          "english": "The horse galloped fast across the open field.",
+          "vietnamese": "Con ngựa phi nhanh qua cánh đồng rộng."
+        }
+      ],
+      "collocations": ["wild horse", "race horse", "horse riding"],
+      "synonyms": ["steed", "mare", "stallion"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-017",
+      "word": "owl",
+      "phonetic": "/aʊl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A bird with large eyes that hunts at night",
+      "definitionVietnamese": "Con cú - loài chim với mắt to săn mồi vào ban đêm",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Owl",
+      "examples": [
+        {
+          "english": "The owl hooted in the darkness of the forest.",
+          "vietnamese": "Con cú hú trong bóng tối của khu rừng."
+        },
+        {
+          "english": "Owls can rotate their heads almost 270 degrees.",
+          "vietnamese": "Cú có thể xoay đầu gần 270 độ."
+        },
+        {
+          "english": "The owl has excellent hearing to catch mice in the dark.",
+          "vietnamese": "Cú có thính giác tuyệt vời để bắt chuột trong bóng tối."
+        }
+      ],
+      "collocations": ["barn owl", "snowy owl", "night owl"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-018",
+      "word": "fox",
+      "phonetic": "/fɒks/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A wild animal similar to a dog with red-orange fur and a bushy tail",
+      "definitionVietnamese": "Con cáo - động vật hoang dã giống chó với bộ lông cam đỏ và đuôi xù",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Fox",
+      "examples": [
+        {
+          "english": "The clever fox escaped from the hunters.",
+          "vietnamese": "Con cáo thông minh trốn thoát khỏi những người thợ săn."
+        },
+        {
+          "english": "Foxes are known for their cunning nature.",
+          "vietnamese": "Cáo được biết đến với bản tính khôn ngoan."
+        },
+        {
+          "english": "The fox dug a hole under the fence to enter the farm.",
+          "vietnamese": "Con cáo đào một cái lỗ dưới hàng rào để vào trang trại."
+        }
+      ],
+      "collocations": ["red fox", "arctic fox", "sly fox"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-019",
+      "word": "parrot",
+      "phonetic": "/ˈpærət/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A tropical bird with colorful feathers that can learn to copy human speech",
+      "definitionVietnamese": "Con vẹt - chim nhiệt đới với lông nhiều màu có thể học bắt chước giọng nói của người",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Parrot",
+      "examples": [
+        {
+          "english": "The parrot repeated everything I said.",
+          "vietnamese": "Con vẹt nhắc lại mọi thứ tôi nói."
+        },
+        {
+          "english": "Parrots can live for over 80 years.",
+          "vietnamese": "Vẹt có thể sống hơn 80 năm."
+        },
+        {
+          "english": "The colorful parrot sat on the branch and sang loudly.",
+          "vietnamese": "Con vẹt nhiều màu đậu trên cành và hót to."
+        }
+      ],
+      "collocations": ["talking parrot", "pet parrot", "parrot cage"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "animals-020",
+      "word": "wolf",
+      "phonetic": "/wʊlf/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A wild animal that looks like a large dog and lives and hunts in groups",
+      "definitionVietnamese": "Con sói - động vật hoang dã trông giống chó lớn, sống và săn mồi theo bầy",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Wolf",
+      "examples": [
+        {
+          "english": "Wolves howl to communicate with their pack.",
+          "vietnamese": "Sói hú để giao tiếp với bầy của chúng."
+        },
+        {
+          "english": "The wolf pack hunted together for deer.",
+          "vietnamese": "Bầy sói cùng nhau săn hươu."
+        },
+        {
+          "english": "The gray wolf is one of the most studied animals in the world.",
+          "vietnamese": "Sói xám là một trong những loài động vật được nghiên cứu nhiều nhất trên thế giới."
+        }
+      ],
+      "collocations": ["wolf pack", "lone wolf", "gray wolf"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    }
+  ]
+}

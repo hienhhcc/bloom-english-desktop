@@ -1,0 +1,787 @@
+{
+  "topicId": "The Arts",
+  "items": [
+    {
+      "id": "arts-001",
+      "word": "Art",
+      "phonetic": "/ɑːt/ (BrE) | /ɑːrt/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Creative activity that expresses ideas, emotions, or beauty through visual, musical, or written forms",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "nghệ thuật"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Art",
+      "examples": [
+        {
+          "english": "Art plays an important role in human culture.",
+          "vietnamese": "Nghệ thuật đóng vai trò quan trọng trong văn hóa nhân loại."
+        },
+        {
+          "english": "She studies art at college.",
+          "vietnamese": "Cô ấy học nghệ thuật ở trường cao đẳng."
+        },
+        {
+          "english": "Art can reflect social issues.",
+          "vietnamese": "Nghệ thuật có thể phản ánh các vấn đề xã hội."
+        }
+      ],
+      "collocations": [
+        "modern art",
+        "visual art"
+      ],
+      "synonyms": [
+        "creative work"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "artist",
+          "partOfSpeech": "noun",
+          "definition": "nghệ sĩ"
+        }
+      ]
+    },
+    {
+      "id": "arts-002",
+      "word": "Painting",
+      "phonetic": "/ˈpeɪntɪŋ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A picture created using paint on a surface such as canvas or paper",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "bức tranh; hội họa"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Painting",
+      "examples": [
+        {
+          "english": "The painting hangs in the gallery.",
+          "vietnamese": "Bức tranh được treo trong phòng trưng bày."
+        },
+        {
+          "english": "She enjoys oil painting.",
+          "vietnamese": "Cô ấy thích vẽ tranh sơn dầu."
+        },
+        {
+          "english": "This painting is over a hundred years old.",
+          "vietnamese": "Bức tranh này đã hơn một trăm năm tuổi."
+        }
+      ],
+      "collocations": [
+        "oil painting",
+        "abstract painting"
+      ],
+      "synonyms": [
+        "artwork"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "paint",
+          "partOfSpeech": "verb",
+          "definition": "vẽ; sơn"
+        }
+      ]
+    },
+    {
+      "id": "arts-003",
+      "word": "Sculpture",
+      "phonetic": "/ˈskʌlptʃə(r)/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A three-dimensional work of art made by carving or shaping materials",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tác phẩm điêu khắc"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Sculpture",
+      "examples": [
+        {
+          "english": "The sculpture is made of marble.",
+          "vietnamese": "Tác phẩm điêu khắc được làm từ đá cẩm thạch."
+        },
+        {
+          "english": "Ancient sculptures are displayed in the museum.",
+          "vietnamese": "Các tác phẩm điêu khắc cổ được trưng bày trong bảo tàng."
+        },
+        {
+          "english": "He specializes in modern sculpture.",
+          "vietnamese": "Anh ấy chuyên về điêu khắc hiện đại."
+        }
+      ],
+      "collocations": [
+        "stone sculpture",
+        "public sculpture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "sculptor",
+          "partOfSpeech": "noun",
+          "definition": "nhà điêu khắc"
+        }
+      ]
+    },
+    {
+      "id": "arts-004",
+      "word": "Gallery",
+      "phonetic": "/ˈɡæləri/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A place where works of art are displayed for the public",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "phòng trưng bày nghệ thuật"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Gallery",
+      "examples": [
+        {
+          "english": "The gallery features contemporary art.",
+          "vietnamese": "Phòng trưng bày giới thiệu nghệ thuật đương đại."
+        },
+        {
+          "english": "We visited an art gallery downtown.",
+          "vietnamese": "Chúng tôi thăm một phòng tranh ở trung tâm thành phố."
+        },
+        {
+          "english": "The gallery opens to the public tomorrow.",
+          "vietnamese": "Phòng trưng bày mở cửa cho công chúng vào ngày mai."
+        }
+      ],
+      "collocations": [
+        "art gallery",
+        "public gallery"
+      ],
+      "synonyms": [
+        "exhibition space"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "arts-005",
+      "word": "Performance",
+      "phonetic": "/pəˈfɔːməns/ (BrE) | /pərˈfɔːrməns/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A live artistic presentation such as music, dance, or drama",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "buổi biểu diễn"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Performance",
+      "examples": [
+        {
+          "english": "The performance received a standing ovation.",
+          "vietnamese": "Buổi biểu diễn nhận được tràng pháo tay đứng."
+        },
+        {
+          "english": "She gave an impressive performance.",
+          "vietnamese": "Cô ấy có màn trình diễn ấn tượng."
+        },
+        {
+          "english": "Live performances attract large audiences.",
+          "vietnamese": "Biểu diễn trực tiếp thu hút đông khán giả."
+        }
+      ],
+      "collocations": [
+        "live performance",
+        "stage performance"
+      ],
+      "synonyms": [
+        "show"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "perform",
+          "partOfSpeech": "verb",
+          "definition": "biểu diễn"
+        }
+      ]
+    },
+    {
+      "id": "arts-006",
+      "word": "Aesthetic",
+      "phonetic": "/iːsˈθetɪk/",
+      "partOfSpeech": "adjective, noun",
+      "definitionEnglish": "Concerned with beauty or the appreciation of beauty",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "thuộc thẩm mỹ"
+        },
+        {
+          "type": "noun",
+          "definition": "tính thẩm mỹ"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Aesthetic",
+      "examples": [
+        {
+          "english": "The building has a modern aesthetic.",
+          "vietnamese": "Tòa nhà mang tính thẩm mỹ hiện đại."
+        },
+        {
+          "english": "Artists care deeply about aesthetics.",
+          "vietnamese": "Các nghệ sĩ rất quan tâm đến thẩm mỹ."
+        },
+        {
+          "english": "The aesthetic appeal attracts visitors.",
+          "vietnamese": "Sức hấp dẫn thẩm mỹ thu hút khách tham quan."
+        }
+      ],
+      "collocations": [
+        "aesthetic value",
+        "visual aesthetic"
+      ],
+      "synonyms": [
+        "artistic"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "aesthetics",
+          "partOfSpeech": "noun",
+          "definition": "mỹ học"
+        }
+      ]
+    },
+    {
+      "id": "arts-007",
+      "word": "Creativity",
+      "phonetic": "/ˌkriːeɪˈtɪvɪti/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The ability to produce original and imaginative ideas",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "sự sáng tạo"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Creativity",
+      "examples": [
+        {
+          "english": "Creativity is essential in the arts.",
+          "vietnamese": "Sự sáng tạo là yếu tố thiết yếu trong nghệ thuật."
+        },
+        {
+          "english": "The course encourages creativity.",
+          "vietnamese": "Khóa học khuyến khích sự sáng tạo."
+        },
+        {
+          "english": "Children express creativity through drawing.",
+          "vietnamese": "Trẻ em thể hiện sự sáng tạo qua vẽ tranh."
+        }
+      ],
+      "collocations": [
+        "artistic creativity"
+      ],
+      "synonyms": [
+        "originality"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "creative",
+          "partOfSpeech": "adjective",
+          "definition": "sáng tạo"
+        }
+      ]
+    },
+    {
+      "id": "arts-008",
+      "word": "Exhibition",
+      "phonetic": "/ˌeksɪˈbɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A public display of artworks or artistic objects",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "triển lãm"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Exhibition",
+      "examples": [
+        {
+          "english": "The exhibition opens next week.",
+          "vietnamese": "Triển lãm sẽ khai mạc vào tuần tới."
+        },
+        {
+          "english": "She attended an art exhibition.",
+          "vietnamese": "Cô ấy tham dự một buổi triển lãm nghệ thuật."
+        },
+        {
+          "english": "The exhibition attracted many visitors.",
+          "vietnamese": "Triển lãm thu hút nhiều khách tham quan."
+        }
+      ],
+      "collocations": [
+        "art exhibition",
+        "public exhibition"
+      ],
+      "synonyms": [
+        "display"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "arts-009",
+      "word": "Masterpiece",
+      "phonetic": "/ˈmɑːstəpiːs/ (BrE) | /ˈmæstərpiːs/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A work of outstanding artistic quality",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "kiệt tác"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Masterpiece",
+      "examples": [
+        {
+          "english": "The painting is considered a masterpiece.",
+          "vietnamese": "Bức tranh được coi là một kiệt tác."
+        },
+        {
+          "english": "This novel is a literary masterpiece.",
+          "vietnamese": "Cuốn tiểu thuyết này là một kiệt tác văn học."
+        },
+        {
+          "english": "The artist created his masterpiece late in life.",
+          "vietnamese": "Nghệ sĩ tạo ra kiệt tác của mình khi về già."
+        }
+      ],
+      "collocations": [
+        "artistic masterpiece"
+      ],
+      "synonyms": [
+        "classic"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "arts-010",
+      "word": "Avant-garde",
+      "phonetic": "/ˌævɒ̃ˈɡɑːd/ (BrE) | /ˌævɑːnˈɡɑːrd/ (AmE)",
+      "partOfSpeech": "adjective, noun",
+      "definitionEnglish": "Innovative and experimental ideas or works in the arts",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "tiên phong, thử nghiệm"
+        },
+        {
+          "type": "noun",
+          "definition": "trường phái nghệ thuật tiên phong"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Avant-garde",
+      "examples": [
+        {
+          "english": "The artist is known for avant-garde style.",
+          "vietnamese": "Nghệ sĩ nổi tiếng với phong cách tiên phong."
+        },
+        {
+          "english": "Avant-garde art challenges tradition.",
+          "vietnamese": "Nghệ thuật tiên phong thách thức truyền thống."
+        },
+        {
+          "english": "The gallery promotes avant-garde works.",
+          "vietnamese": "Phòng tranh quảng bá các tác phẩm tiên phong."
+        }
+      ],
+      "collocations": [
+        "avant-garde art",
+        "avant-garde movement"
+      ],
+      "synonyms": [
+        "experimental"
+      ],
+      "antonyms": [
+        "traditional"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-005",
+      "word": "Literacy",
+      "phonetic": "/ˈlɪtərəsi/ (BrE) | /ˈlɪtərəsi/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The ability to read and write",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "khả năng đọc và viết"
+        },
+        {
+          "type": "noun",
+          "definition": "trình độ hiểu biết (trong một lĩnh vực cụ thể)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Literacy",
+      "examples": [
+        {
+          "english": "The program aims to improve literacy among adults.",
+          "vietnamese": "Chương trình nhằm nâng cao khả năng đọc viết cho người lớn."
+        },
+        {
+          "english": "Digital literacy is essential in modern workplaces.",
+          "vietnamese": "Hiểu biết về kỹ thuật số là điều cần thiết trong môi trường làm việc hiện đại."
+        },
+        {
+          "english": "Literacy rates have increased significantly over the past decade.",
+          "vietnamese": "Tỷ lệ biết chữ đã tăng đáng kể trong thập kỷ qua."
+        }
+      ],
+      "collocations": [
+        "basic literacy",
+        "digital literacy",
+        "literacy rate",
+        "promote literacy"
+      ],
+      "synonyms": [
+        "reading ability",
+        "education"
+      ],
+      "antonyms": [
+        "illiteracy"
+      ],
+      "wordFamily": [
+        {
+          "word": "literate",
+          "partOfSpeech": "adjective",
+          "definition": "biết đọc biết viết"
+        },
+        {
+          "word": "illiterate",
+          "partOfSpeech": "adjective",
+          "definition": "mù chữ"
+        }
+      ]
+    },
+    {
+      "id": "adj-002",
+      "word": "Acquainted",
+      "phonetic": "/əˈkweɪntɪd/ (BrE) | /əˈkweɪntɪd/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having knowledge or experience of something or someone",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "quen biết; có hiểu biết về"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Acquainted",
+      "examples": [
+        {
+          "english": "I am well acquainted with the new software.",
+          "vietnamese": "Tôi khá quen thuộc với phần mềm mới."
+        },
+        {
+          "english": "She became acquainted with him at the conference.",
+          "vietnamese": "Cô ấy quen biết anh ta tại hội nghị."
+        },
+        {
+          "english": "He is acquainted with local customs.",
+          "vietnamese": "Anh ấy có hiểu biết về phong tục địa phương."
+        }
+      ],
+      "collocations": [
+        "well acquainted",
+        "become acquainted with",
+        "closely acquainted"
+      ],
+      "synonyms": [
+        "familiar",
+        "aware"
+      ],
+      "antonyms": [
+        "unfamiliar"
+      ],
+      "wordFamily": [
+        {
+          "word": "acquaint",
+          "partOfSpeech": "verb",
+          "definition": "làm cho quen biết, giới thiệu"
+        },
+        {
+          "word": "acquaintance",
+          "partOfSpeech": "noun",
+          "definition": "người quen; sự quen biết"
+        }
+      ]
+    },
+    {
+      "id": "adj-003",
+      "word": "Accustomed",
+      "phonetic": "/əˈkʌstəmd/ (BrE) | /əˈkʌstəmd/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Familiar with something through frequent experience",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "quen với, đã quen"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Accustomed",
+      "examples": [
+        {
+          "english": "She is accustomed to working long hours.",
+          "vietnamese": "Cô ấy đã quen với việc làm việc nhiều giờ."
+        },
+        {
+          "english": "He quickly became accustomed to the cold weather.",
+          "vietnamese": "Anh ấy nhanh chóng quen với thời tiết lạnh."
+        },
+        {
+          "english": "They are accustomed to city life.",
+          "vietnamese": "Họ đã quen với cuộc sống thành phố."
+        }
+      ],
+      "collocations": [
+        "be accustomed to",
+        "become accustomed to",
+        "accustomed practice"
+      ],
+      "synonyms": [
+        "used to",
+        "familiar"
+      ],
+      "antonyms": [
+        "unaccustomed"
+      ],
+      "wordFamily": [
+        {
+          "word": "accustom",
+          "partOfSpeech": "verb",
+          "definition": "làm cho quen với"
+        }
+      ]
+    },
+    {
+      "id": "noun-006",
+      "word": "Balcony",
+      "phonetic": "/ˈbælkəni/ (BrE) | /ˈbælkəni/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A platform that projects from the wall of a building and is enclosed by a railing",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "ban công"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Balcony",
+      "examples": [
+        {
+          "english": "She stepped out onto the balcony to get some fresh air.",
+          "vietnamese": "Cô ấy bước ra ban công để hít thở không khí trong lành."
+        },
+        {
+          "english": "The apartment has a small balcony overlooking the street.",
+          "vietnamese": "Căn hộ có một ban công nhỏ nhìn ra đường."
+        },
+        {
+          "english": "Plants were placed along the balcony railing.",
+          "vietnamese": "Cây được đặt dọc theo lan can ban công."
+        }
+      ],
+      "collocations": [
+        "private balcony",
+        "balcony door",
+        "balcony view"
+      ],
+      "synonyms": [
+        "terrace"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "balustrade",
+          "partOfSpeech": "noun",
+          "definition": "lan can"
+        }
+      ]
+    },
+    {
+      "id": "adj-004",
+      "word": "Modest",
+      "phonetic": "/ˈmɒdɪst/ (BrE) | /ˈmɑːdɪst/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Not large in size, amount, or importance; not boasting about abilities or achievements",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "khiêm tốn"
+        },
+        {
+          "type": "adjective",
+          "definition": "vừa phải, không lớn"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Modest",
+      "examples": [
+        {
+          "english": "He lives in a modest house near the river.",
+          "vietnamese": "Anh ấy sống trong một ngôi nhà giản dị gần sông."
+        },
+        {
+          "english": "She was modest about her achievements.",
+          "vietnamese": "Cô ấy khiêm tốn về những thành tựu của mình."
+        },
+        {
+          "english": "They made a modest profit this year.",
+          "vietnamese": "Họ thu được lợi nhuận vừa phải trong năm nay."
+        }
+      ],
+      "collocations": [
+        "modest income",
+        "modest house",
+        "modest achievement"
+      ],
+      "synonyms": [
+        "humble",
+        "simple"
+      ],
+      "antonyms": [
+        "arrogant",
+        "extravagant"
+      ],
+      "wordFamily": [
+        {
+          "word": "modesty",
+          "partOfSpeech": "noun",
+          "definition": "sự khiêm tốn"
+        }
+      ]
+    },
+    {
+      "id": "adj-005",
+      "word": "Formidable",
+      "phonetic": "/ˈfɔːmɪdəbl/ (BrE) | /ˈfɔːrmɪdəbl/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Inspiring fear or respect because of strength, size, or difficulty",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "đáng sợ; đáng gờm"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Formidable",
+      "examples": [
+        {
+          "english": "She is a formidable opponent in any debate.",
+          "vietnamese": "Cô ấy là một đối thủ đáng gờm trong bất kỳ cuộc tranh luận nào."
+        },
+        {
+          "english": "They faced a formidable challenge.",
+          "vietnamese": "Họ phải đối mặt với một thử thách đáng sợ."
+        },
+        {
+          "english": "The fortress looked formidable from a distance.",
+          "vietnamese": "Pháo đài trông rất đáng sợ khi nhìn từ xa."
+        }
+      ],
+      "collocations": [
+        "formidable opponent",
+        "formidable task",
+        "formidable reputation"
+      ],
+      "synonyms": [
+        "intimidating",
+        "daunting"
+      ],
+      "antonyms": [
+        "weak",
+        "easy"
+      ],
+      "wordFamily": [
+        {
+          "word": "formidably",
+          "partOfSpeech": "adverb",
+          "definition": "một cách đáng gờm"
+        }
+      ]
+    },
+    {
+      "id": "verb-002",
+      "word": "Sought out",
+      "phonetic": "/sɔːt aʊt/ (BrE) | /sɔːt aʊt/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "Past tense of seek out; to search for and find someone or something deliberately",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "tìm kiếm kỹ lưỡng; chủ động tìm đến"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Sought+Out",
+      "examples": [
+        {
+          "english": "She sought out expert advice before making a decision.",
+          "vietnamese": "Cô ấy chủ động tìm đến lời khuyên của chuyên gia trước khi đưa ra quyết định."
+        },
+        {
+          "english": "The village is a quiet place sought out by artists.",
+          "vietnamese": "Ngôi làng là nơi yên tĩnh được các nghệ sĩ tìm đến."
+        },
+        {
+          "english": "He was sought out for his rare skills.",
+          "vietnamese": "Anh ấy được tìm đến vì những kỹ năng hiếm có."
+        }
+      ],
+      "collocations": [
+        "sought out advice",
+        "sought out expert",
+        "widely sought out"
+      ],
+      "synonyms": [
+        "looked for",
+        "tracked down"
+      ],
+      "antonyms": [
+        "avoid",
+        "ignore"
+      ],
+      "wordFamily": [
+        {
+          "word": "seek out",
+          "partOfSpeech": "verb",
+          "definition": "tìm kiếm một cách chủ động"
+        },
+        {
+          "word": "seeker",
+          "partOfSpeech": "noun",
+          "definition": "người tìm kiếm"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "topicId": "colors",
+  "items": [
+    {
+      "id": "colors-001",
+      "word": "scarlet",
+      "phonetic": "/ˈskɑːlət/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A bright red color",
+      "definitionVietnamese": "Màu đỏ tươi - màu đỏ sáng",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/dc2626/ffffff?text=Scarlet",
+      "examples": [
+        {
+          "english": "She wore a beautiful scarlet dress.",
+          "vietnamese": "Cô ấy mặc một chiếc váy đỏ tươi đẹp."
+        },
+        {
+          "english": "The autumn leaves turned scarlet.",
+          "vietnamese": "Lá mùa thu chuyển sang màu đỏ tươi."
+        },
+        {
+          "english": "The cardinal bird has scarlet feathers.",
+          "vietnamese": "Chim hồng y có lông màu đỏ tươi."
+        }
+      ],
+      "collocations": ["scarlet red", "scarlet letter", "scarlet fever"],
+      "synonyms": ["crimson", "red", "vermilion"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-002",
+      "word": "turquoise",
+      "phonetic": "/ˈtɜːkwɔɪz/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A blue-green color like the gemstone",
+      "definitionVietnamese": "Màu ngọc lam - màu xanh lục lam như đá quý",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/06b6d4/ffffff?text=Turquoise",
+      "examples": [
+        {
+          "english": "The sea was a stunning turquoise color.",
+          "vietnamese": "Biển có màu ngọc lam tuyệt đẹp."
+        },
+        {
+          "english": "She painted the walls turquoise.",
+          "vietnamese": "Cô ấy sơn tường màu ngọc lam."
+        },
+        {
+          "english": "My grandmother gave me a turquoise necklace.",
+          "vietnamese": "Bà tôi tặng tôi một chiếc vòng cổ màu ngọc lam."
+        }
+      ],
+      "collocations": ["turquoise blue", "turquoise water", "turquoise jewelry"],
+      "synonyms": ["aqua", "teal", "cyan"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-003",
+      "word": "crimson",
+      "phonetic": "/ˈkrɪmzn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A deep red color",
+      "definitionVietnamese": "Màu đỏ thẫm - màu đỏ sâu",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/be123c/ffffff?text=Crimson",
+      "examples": [
+        {
+          "english": "The sunset sky turned crimson.",
+          "vietnamese": "Bầu trời hoàng hôn chuyển sang màu đỏ thẫm."
+        },
+        {
+          "english": "Crimson roses are my favorite.",
+          "vietnamese": "Hoa hồng đỏ thẫm là loại tôi yêu thích."
+        },
+        {
+          "english": "Her cheeks flushed crimson with embarrassment.",
+          "vietnamese": "Má cô ấy đỏ ửng lên vì ngượng ngùng."
+        }
+      ],
+      "collocations": ["deep crimson", "crimson red", "crimson lips"],
+      "synonyms": ["scarlet", "maroon", "burgundy"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-004",
+      "word": "beige",
+      "phonetic": "/beɪʒ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A pale yellowish-brown color",
+      "definitionVietnamese": "Màu be - màu nâu vàng nhạt",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/d4c4a8/475569?text=Beige",
+      "examples": [
+        {
+          "english": "The carpet is a light beige color.",
+          "vietnamese": "Thảm có màu be nhạt."
+        },
+        {
+          "english": "Beige is a neutral color that goes with everything.",
+          "vietnamese": "Màu be là màu trung tính hợp với mọi thứ."
+        },
+        {
+          "english": "I prefer beige furniture for my living room.",
+          "vietnamese": "Tôi thích đồ nội thất màu be cho phòng khách."
+        }
+      ],
+      "collocations": ["light beige", "dark beige", "beige walls"],
+      "synonyms": ["tan", "cream", "khaki"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-005",
+      "word": "chartreuse",
+      "phonetic": "/ʃɑːˈtrɜːz/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A color between yellow and green",
+      "definitionVietnamese": "Màu xanh vàng - màu giữa vàng và xanh lá",
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/84cc16/ffffff?text=Chartreuse",
+      "examples": [
+        {
+          "english": "The designer used chartreuse accents in the room.",
+          "vietnamese": "Nhà thiết kế dùng điểm nhấn màu xanh vàng trong phòng."
+        },
+        {
+          "english": "Chartreuse is a trendy color this season.",
+          "vietnamese": "Màu xanh vàng là màu thịnh hành mùa này."
+        },
+        {
+          "english": "The tennis balls are a bright chartreuse color.",
+          "vietnamese": "Những quả bóng tennis có màu xanh vàng sáng."
+        }
+      ],
+      "collocations": ["bright chartreuse", "chartreuse green", "chartreuse yellow"],
+      "synonyms": ["lime green", "yellow-green"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-006",
+      "word": "navy",
+      "phonetic": "/ˈneɪvi/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A very dark blue color",
+      "definitionVietnamese": "Màu xanh đậm - màu xanh dương rất đậm",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/1e3a5f/ffffff?text=Navy",
+      "examples": [
+        {
+          "english": "He wore a navy blue suit to the interview.",
+          "vietnamese": "Anh ấy mặc bộ vest xanh đậm đi phỏng vấn."
+        },
+        {
+          "english": "Navy is a classic color for formal wear.",
+          "vietnamese": "Màu xanh đậm là màu cổ điển cho trang phục trang trọng."
+        },
+        {
+          "english": "The school uniform includes a navy blazer.",
+          "vietnamese": "Đồng phục trường bao gồm áo khoác màu xanh đậm."
+        }
+      ],
+      "collocations": ["navy blue", "navy suit", "navy dress"],
+      "synonyms": ["dark blue", "midnight blue"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-007",
+      "word": "maroon",
+      "phonetic": "/məˈruːn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A dark brownish-red color",
+      "definitionVietnamese": "Màu nâu đỏ - màu nâu đỏ sẫm",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/7f1d1d/ffffff?text=Maroon",
+      "examples": [
+        {
+          "english": "The school's colors are maroon and gold.",
+          "vietnamese": "Màu của trường là nâu đỏ và vàng."
+        },
+        {
+          "english": "She bought a maroon leather bag.",
+          "vietnamese": "Cô ấy mua một túi da màu nâu đỏ."
+        },
+        {
+          "english": "The team plays in maroon jerseys.",
+          "vietnamese": "Đội bóng thi đấu với áo đấu màu nâu đỏ."
+        }
+      ],
+      "collocations": ["deep maroon", "maroon color", "dark maroon"],
+      "synonyms": ["burgundy", "crimson"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-008",
+      "word": "ivory",
+      "phonetic": "/ˈaɪvəri/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A creamy white color like elephant tusks",
+      "definitionVietnamese": "Màu ngà - màu trắng kem như ngà voi",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/fffff0/475569?text=Ivory",
+      "examples": [
+        {
+          "english": "The bride wore an ivory wedding dress.",
+          "vietnamese": "Cô dâu mặc váy cưới màu ngà."
+        },
+        {
+          "english": "The walls are painted in a soft ivory shade.",
+          "vietnamese": "Tường được sơn màu ngà nhạt."
+        },
+        {
+          "english": "The piano keys were made of real ivory long ago.",
+          "vietnamese": "Phím đàn piano ngày xưa được làm từ ngà thật."
+        }
+      ],
+      "collocations": ["ivory white", "ivory color", "ivory tower"],
+      "synonyms": ["cream", "off-white"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-009",
+      "word": "coral",
+      "phonetic": "/ˈkɒrəl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A pinkish-orange color like sea coral",
+      "definitionVietnamese": "Màu san hô - màu hồng cam như san hô biển",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/f97316/ffffff?text=Coral",
+      "examples": [
+        {
+          "english": "Coral is a popular color for summer clothes.",
+          "vietnamese": "Màu san hô là màu phổ biến cho quần áo mùa hè."
+        },
+        {
+          "english": "She chose coral lipstick for the party.",
+          "vietnamese": "Cô ấy chọn son màu san hô cho bữa tiệc."
+        },
+        {
+          "english": "The coral walls make the room feel warm and inviting.",
+          "vietnamese": "Những bức tường màu san hô làm căn phòng ấm áp và thân thiện."
+        }
+      ],
+      "collocations": ["coral pink", "coral reef", "coral color"],
+      "synonyms": ["salmon", "peach"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-010",
+      "word": "lavender",
+      "phonetic": "/ˈlævəndə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A pale purple color like the lavender flower",
+      "definitionVietnamese": "Màu oải hương - màu tím nhạt như hoa oải hương",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/a78bfa/ffffff?text=Lavender",
+      "examples": [
+        {
+          "english": "The bedroom was decorated in lavender tones.",
+          "vietnamese": "Phòng ngủ được trang trí với tông màu oải hương."
+        },
+        {
+          "english": "Lavender is a calming color for relaxation.",
+          "vietnamese": "Màu oải hương là màu êm dịu để thư giãn."
+        },
+        {
+          "english": "She planted lavender flowers along the garden path.",
+          "vietnamese": "Cô ấy trồng hoa oải hương dọc theo lối đi trong vườn."
+        }
+      ],
+      "collocations": ["lavender purple", "lavender field", "lavender scent"],
+      "synonyms": ["lilac", "mauve", "violet"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-011",
+      "word": "teal",
+      "phonetic": "/tiːl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A blue-green color like the color of teal duck feathers",
+      "definitionVietnamese": "Màu xanh mòng két - màu xanh lục lam như lông vịt mòng két",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/0d9488/ffffff?text=Teal",
+      "examples": [
+        {
+          "english": "Teal is a sophisticated color for home decor.",
+          "vietnamese": "Màu xanh mòng két là màu tinh tế cho trang trí nhà."
+        },
+        {
+          "english": "She painted her nails teal.",
+          "vietnamese": "Cô ấy sơn móng tay màu xanh mòng két."
+        },
+        {
+          "english": "The company logo features a vibrant teal color.",
+          "vietnamese": "Logo công ty có màu xanh mòng két rực rỡ."
+        }
+      ],
+      "collocations": ["teal blue", "teal green", "dark teal"],
+      "synonyms": ["turquoise", "cyan", "aqua"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-012",
+      "word": "olive",
+      "phonetic": "/ˈɒlɪv/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A yellowish-green color like unripe olives",
+      "definitionVietnamese": "Màu ô liu - màu xanh vàng như quả ô liu chưa chín",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/65a30d/ffffff?text=Olive",
+      "examples": [
+        {
+          "english": "He wore an olive green jacket.",
+          "vietnamese": "Anh ấy mặc áo khoác màu xanh ô liu."
+        },
+        {
+          "english": "Olive is a earthy, natural color.",
+          "vietnamese": "Màu ô liu là màu tự nhiên, gần gũi với đất."
+        },
+        {
+          "english": "Military uniforms are often olive colored.",
+          "vietnamese": "Quân phục thường có màu ô liu."
+        }
+      ],
+      "collocations": ["olive green", "olive skin", "olive branch"],
+      "synonyms": ["khaki", "army green"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-013",
+      "word": "burgundy",
+      "phonetic": "/ˈbɜːɡəndi/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A dark purplish-red color like red wine",
+      "definitionVietnamese": "Màu rượu vang - màu đỏ tím sẫm như rượu vang đỏ",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/881337/ffffff?text=Burgundy",
+      "examples": [
+        {
+          "english": "Burgundy is an elegant color for formal events.",
+          "vietnamese": "Màu rượu vang là màu sang trọng cho sự kiện trang trọng."
+        },
+        {
+          "english": "The curtains are a deep burgundy shade.",
+          "vietnamese": "Rèm cửa có màu rượu vang đậm."
+        },
+        {
+          "english": "He drives a burgundy sports car.",
+          "vietnamese": "Anh ấy lái một chiếc xe thể thao màu rượu vang."
+        }
+      ],
+      "collocations": ["burgundy red", "burgundy wine", "deep burgundy"],
+      "synonyms": ["maroon", "wine red", "oxblood"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-014",
+      "word": "indigo",
+      "phonetic": "/ˈɪndɪɡəʊ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A deep blue-purple color",
+      "definitionVietnamese": "Màu chàm - màu xanh tím đậm",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/4338ca/ffffff?text=Indigo",
+      "examples": [
+        {
+          "english": "Indigo is one of the colors of the rainbow.",
+          "vietnamese": "Màu chàm là một trong các màu của cầu vồng."
+        },
+        {
+          "english": "Traditional jeans are dyed with indigo.",
+          "vietnamese": "Quần jeans truyền thống được nhuộm bằng chàm."
+        },
+        {
+          "english": "The night sky deepened to an indigo shade.",
+          "vietnamese": "Bầu trời đêm chuyển sang màu chàm đậm."
+        }
+      ],
+      "collocations": ["indigo blue", "indigo dye", "deep indigo"],
+      "synonyms": ["navy", "dark blue"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-015",
+      "word": "magenta",
+      "phonetic": "/məˈdʒentə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A bright purplish-red color",
+      "definitionVietnamese": "Màu hồng cánh sen - màu đỏ tím sáng",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/c026d3/ffffff?text=Magenta",
+      "examples": [
+        {
+          "english": "Magenta flowers bloom in the garden.",
+          "vietnamese": "Hoa màu hồng cánh sen nở trong vườn."
+        },
+        {
+          "english": "She highlighted her hair with magenta streaks.",
+          "vietnamese": "Cô ấy nhuộm highlight tóc với lọn màu hồng cánh sen."
+        },
+        {
+          "english": "The printer uses magenta ink as one of its primary colors.",
+          "vietnamese": "Máy in sử dụng mực màu hồng cánh sen như một trong những màu cơ bản."
+        }
+      ],
+      "collocations": ["bright magenta", "hot magenta", "magenta pink"],
+      "synonyms": ["fuchsia", "hot pink"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-016",
+      "word": "amber",
+      "phonetic": "/ˈæmbə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A yellowish-orange color like the gemstone",
+      "definitionVietnamese": "Màu hổ phách - màu vàng cam như đá hổ phách",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/f59e0b/ffffff?text=Amber",
+      "examples": [
+        {
+          "english": "The traffic light turned amber.",
+          "vietnamese": "Đèn giao thông chuyển sang màu vàng hổ phách."
+        },
+        {
+          "english": "She has beautiful amber eyes.",
+          "vietnamese": "Cô ấy có đôi mắt màu hổ phách đẹp."
+        },
+        {
+          "english": "Ancient insects were preserved in amber for millions of years.",
+          "vietnamese": "Côn trùng cổ đại được bảo quản trong hổ phách hàng triệu năm."
+        }
+      ],
+      "collocations": ["amber light", "amber eyes", "amber color"],
+      "synonyms": ["golden", "honey"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-017",
+      "word": "slate",
+      "phonetic": "/sleɪt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A dark bluish-gray color",
+      "definitionVietnamese": "Màu xám đá - màu xám xanh đậm",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/475569/ffffff?text=Slate",
+      "examples": [
+        {
+          "english": "The roof tiles are a slate gray color.",
+          "vietnamese": "Ngói mái có màu xám đá."
+        },
+        {
+          "english": "Slate blue is a popular color for bathrooms.",
+          "vietnamese": "Màu xanh xám đá phổ biến cho phòng tắm."
+        },
+        {
+          "english": "The cloudy sky turned a dull slate color before the storm.",
+          "vietnamese": "Bầu trời u ám chuyển sang màu xám đá trước cơn bão."
+        }
+      ],
+      "collocations": ["slate gray", "slate blue", "dark slate"],
+      "synonyms": ["charcoal", "gray"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-018",
+      "word": "fuchsia",
+      "phonetic": "/ˈfjuːʃə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A vivid purplish-red color named after the flower",
+      "definitionVietnamese": "Màu hồng tím - màu đỏ tím rực rỡ đặt theo tên loài hoa",
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/d946ef/ffffff?text=Fuchsia",
+      "examples": [
+        {
+          "english": "The fuchsia dress stood out at the party.",
+          "vietnamese": "Chiếc váy màu hồng tím nổi bật tại bữa tiệc."
+        },
+        {
+          "english": "Fuchsia is a bold, eye-catching color.",
+          "vietnamese": "Màu hồng tím là màu táo bạo, bắt mắt."
+        },
+        {
+          "english": "The neon fuchsia sign attracted many customers.",
+          "vietnamese": "Biển hiệu màu hồng tím neon thu hút nhiều khách hàng."
+        }
+      ],
+      "collocations": ["bright fuchsia", "hot fuchsia", "fuchsia pink"],
+      "synonyms": ["magenta", "hot pink"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-019",
+      "word": "mustard",
+      "phonetic": "/ˈmʌstəd/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A dark yellow color like the condiment",
+      "definitionVietnamese": "Màu mù tạt - màu vàng đậm như gia vị mù tạt",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/ca8a04/ffffff?text=Mustard",
+      "examples": [
+        {
+          "english": "Mustard yellow is trendy this autumn.",
+          "vietnamese": "Màu vàng mù tạt đang thịnh hành mùa thu này."
+        },
+        {
+          "english": "She wore a mustard-colored sweater.",
+          "vietnamese": "Cô ấy mặc áo len màu mù tạt."
+        },
+        {
+          "english": "The mustard cushions add warmth to the gray sofa.",
+          "vietnamese": "Những chiếc gối màu mù tạt thêm sự ấm áp cho ghế sofa xám."
+        }
+      ],
+      "collocations": ["mustard yellow", "mustard color", "dark mustard"],
+      "synonyms": ["gold", "ochre"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "colors-020",
+      "word": "aquamarine",
+      "phonetic": "/ˌækwəməˈriːn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A light blue-green color like sea water",
+      "definitionVietnamese": "Màu xanh ngọc biển - màu xanh lục lam nhạt như nước biển",
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/22d3d3/ffffff?text=Aquamarine",
+      "examples": [
+        {
+          "english": "The tropical ocean has an aquamarine color.",
+          "vietnamese": "Đại dương nhiệt đới có màu xanh ngọc biển."
+        },
+        {
+          "english": "She has an aquamarine birthstone ring.",
+          "vietnamese": "Cô ấy có nhẫn đá sinh màu xanh ngọc biển."
+        },
+        {
+          "english": "The swimming pool sparkled with aquamarine water.",
+          "vietnamese": "Hồ bơi lấp lánh với làn nước màu xanh ngọc biển."
+        }
+      ],
+      "collocations": ["aquamarine blue", "aquamarine stone", "light aquamarine"],
+      "synonyms": ["turquoise", "sea green", "cyan"],
+      "antonyms": [],
+      "wordFamily": []
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "topicId": "day_64",
+  "items": [
+    {
+      "id": "noun-008",
+      "word": "Heir",
+      "phonetic": "/eə/ (BrE) | /er/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who is legally entitled to inherit property or a title after someone’s death",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "người thừa kế"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Heir",
+      "examples": [
+        {
+          "english": "He is the sole heir to the family fortune.",
+          "vietnamese": "Anh ấy là người thừa kế duy nhất của gia sản gia đình."
+        },
+        {
+          "english": "The prince is the heir to the throne.",
+          "vietnamese": "Hoàng tử là người kế vị ngai vàng."
+        },
+        {
+          "english": "She was named heir in the will.",
+          "vietnamese": "Cô ấy được chỉ định là người thừa kế trong di chúc."
+        }
+      ],
+      "collocations": [
+        "sole heir",
+        "rightful heir",
+        "heir to the throne"
+      ],
+      "synonyms": [
+        "successor",
+        "beneficiary"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "inherit",
+          "partOfSpeech": "verb",
+          "definition": "thừa kế"
+        },
+        {
+          "word": "inheritance",
+          "partOfSpeech": "noun",
+          "definition": "tài sản thừa kế"
+        }
+      ]
+    },
+    {
+      "id": "adj-011",
+      "word": "Herbal",
+      "phonetic": "/ˈhɜːbəl/ (BrE) | /ˈɜːrbəl/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Relating to or made from herbs, especially for medicine or health",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "thuộc thảo dược"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Herbal",
+      "examples": [
+        {
+          "english": "She prefers herbal remedies to chemical medicine.",
+          "vietnamese": "Cô ấy thích các phương thuốc thảo dược hơn thuốc hóa học."
+        },
+        {
+          "english": "Herbal tea can help with digestion.",
+          "vietnamese": "Trà thảo mộc có thể giúp tiêu hóa."
+        },
+        {
+          "english": "The shop sells herbal supplements.",
+          "vietnamese": "Cửa hàng bán các thực phẩm bổ sung thảo dược."
+        }
+      ],
+      "collocations": [
+        "herbal medicine",
+        "herbal tea",
+        "herbal remedy"
+      ],
+      "synonyms": [
+        "medicinal"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "herb",
+          "partOfSpeech": "noun",
+          "definition": "thảo mộc"
+        }
+      ]
+    },
+    {
+      "id": "verb-003",
+      "word": "Captivate",
+      "phonetic": "/ˈkæptɪveɪt/ (BrE) | /ˈkæptɪveɪt/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To attract and hold someone’s attention completely",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "làm say mê, cuốn hút"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Captivate",
+      "examples": [
+        {
+          "english": "The speaker captivated the audience.",
+          "vietnamese": "Diễn giả đã cuốn hút khán giả."
+        },
+        {
+          "english": "She was captivated by the view.",
+          "vietnamese": "Cô ấy bị mê hoặc bởi quang cảnh."
+        },
+        {
+          "english": "The story quickly captivated readers.",
+          "vietnamese": "Câu chuyện nhanh chóng cuốn hút người đọc."
+        }
+      ],
+      "collocations": [
+        "captivate an audience",
+        "fully captivate"
+      ],
+      "synonyms": [
+        "fascinate",
+        "enchant"
+      ],
+      "antonyms": [
+        "bore"
+      ],
+      "wordFamily": [
+        {
+          "word": "captivating",
+          "partOfSpeech": "adjective",
+          "definition": "quyến rũ, cuốn hút"
+        }
+      ]
+    },
+    {
+      "id": "adv-001",
+      "word": "Mournfully",
+      "phonetic": "/ˈmɔːn.fəli/ (BrE) | /ˈmɔːrn.fəli/ (AmE)",
+      "partOfSpeech": "adverb",
+      "definitionEnglish": "In a sad and sorrowful manner",
+      "definitionVietnamese": [
+        {
+          "type": "adverb",
+          "definition": "một cách buồn bã, đau buồn"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Mournfully",
+      "examples": [
+        {
+          "english": "She looked at him mournfully.",
+          "vietnamese": "Cô ấy nhìn anh ta với vẻ buồn bã."
+        },
+        {
+          "english": "The dog howled mournfully.",
+          "vietnamese": "Con chó tru lên một cách đau buồn."
+        },
+        {
+          "english": "He spoke mournfully about the loss.",
+          "vietnamese": "Anh ấy nói về mất mát với giọng buồn."
+        }
+      ],
+      "collocations": [
+        "look mournfully",
+        "speak mournfully"
+      ],
+      "synonyms": [
+        "sadly",
+        "sorrowfully"
+      ],
+      "antonyms": [
+        "cheerfully"
+      ],
+      "wordFamily": [
+        {
+          "word": "mournful",
+          "partOfSpeech": "adjective",
+          "definition": "buồn thảm"
+        },
+        {
+          "word": "mourn",
+          "partOfSpeech": "verb",
+          "definition": "than khóc, thương tiếc"
+        }
+      ]
+    },
+    {
+      "id": "noun-009",
+      "word": "Succession",
+      "phonetic": "/səkˈseʃn/ (BrE) | /səkˈseʃn/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The act or process of following one after another, especially the transfer of power or property",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "sự kế tiếp; sự kế vị"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Succession",
+      "examples": [
+        {
+          "english": "The law governs royal succession.",
+          "vietnamese": "Luật pháp điều chỉnh việc kế vị hoàng gia."
+        },
+        {
+          "english": "A succession of events followed.",
+          "vietnamese": "Một chuỗi sự kiện tiếp diễn."
+        },
+        {
+          "english": "She took over the business by succession.",
+          "vietnamese": "Cô ấy tiếp quản doanh nghiệp theo quyền kế vị."
+        }
+      ],
+      "collocations": [
+        "line of succession",
+        "order of succession"
+      ],
+      "synonyms": [
+        "series",
+        "inheritance"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "successor",
+          "partOfSpeech": "noun",
+          "definition": "người kế nhiệm"
+        }
+      ]
+    },
+    {
+      "id": "adj-012",
+      "word": "Miraculous",
+      "phonetic": "/mɪˈrækjələs/ (BrE) | /mɪˈrækjələs/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Extremely surprising or difficult to believe, often seen as caused by a miracle",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "kỳ diệu, phép màu"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Miraculous",
+      "examples": [
+        {
+          "english": "He made a miraculous recovery.",
+          "vietnamese": "Anh ấy hồi phục một cách kỳ diệu."
+        },
+        {
+          "english": "The rescue was nothing short of miraculous.",
+          "vietnamese": "Cuộc cứu hộ thật sự là một phép màu."
+        },
+        {
+          "english": "It was a miraculous escape.",
+          "vietnamese": "Đó là một cuộc thoát hiểm kỳ diệu."
+        }
+      ],
+      "collocations": [
+        "miraculous recovery",
+        "miraculous escape"
+      ],
+      "synonyms": [
+        "extraordinary",
+        "amazing"
+      ],
+      "antonyms": [
+        "ordinary"
+      ],
+      "wordFamily": [
+        {
+          "word": "miracle",
+          "partOfSpeech": "noun",
+          "definition": "phép màu"
+        }
+      ]
+    },
+    {
+      "id": "noun-010",
+      "word": "Acquaintance",
+      "phonetic": "/əˈkweɪntəns/ (BrE) | /əˈkweɪntəns/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person one knows slightly but is not a close friend",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "người quen"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Acquaintance",
+      "examples": [
+        {
+          "english": "She is a casual acquaintance from work.",
+          "vietnamese": "Cô ấy là một người quen xã giao ở chỗ làm."
+        },
+        {
+          "english": "He has many acquaintances but few friends.",
+          "vietnamese": "Anh ấy có nhiều người quen nhưng ít bạn thân."
+        },
+        {
+          "english": "They renewed their acquaintance.",
+          "vietnamese": "Họ làm quen lại với nhau."
+        }
+      ],
+      "collocations": [
+        "casual acquaintance",
+        "close acquaintance"
+      ],
+      "synonyms": [
+        "contact",
+        "associate"
+      ],
+      "antonyms": [
+        "stranger"
+      ],
+      "wordFamily": [
+        {
+          "word": "acquaint",
+          "partOfSpeech": "verb",
+          "definition": "làm quen"
+        }
+      ]
+    },
+    {
+      "id": "adj-013",
+      "word": "Obsolete",
+      "phonetic": "/ˈɒbsəliːt/ (BrE) | /ˌɑːbsəˈliːt/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "No longer used because something newer exists",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "lỗi thời, lạc hậu"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Obsolete",
+      "examples": [
+        {
+          "english": "This technology is now obsolete.",
+          "vietnamese": "Công nghệ này giờ đã lỗi thời."
+        },
+        {
+          "english": "The law has become obsolete.",
+          "vietnamese": "Luật này đã trở nên lạc hậu."
+        },
+        {
+          "english": "DVD players are almost obsolete.",
+          "vietnamese": "Đầu DVD gần như đã lỗi thời."
+        }
+      ],
+      "collocations": [
+        "become obsolete",
+        "obsolete technology"
+      ],
+      "synonyms": [
+        "outdated"
+      ],
+      "antonyms": [
+        "modern"
+      ],
+      "wordFamily": [
+        {
+          "word": "obsolescence",
+          "partOfSpeech": "noun",
+          "definition": "sự lỗi thời"
+        }
+      ]
+    },
+    {
+      "id": "noun-011",
+      "word": "Vacancy",
+      "phonetic": "/ˈveɪkənsi/ (BrE) | /ˈveɪkənsi/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An available position or empty space",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "chỗ trống; vị trí còn trống"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Vacancy",
+      "examples": [
+        {
+          "english": "There is a vacancy for a manager.",
+          "vietnamese": "Có một vị trí quản lý đang trống."
+        },
+        {
+          "english": "The hotel has no vacancy.",
+          "vietnamese": "Khách sạn không còn phòng trống."
+        },
+        {
+          "english": "They advertised the job vacancy.",
+          "vietnamese": "Họ quảng cáo vị trí tuyển dụng."
+        }
+      ],
+      "collocations": [
+        "job vacancy",
+        "fill a vacancy"
+      ],
+      "synonyms": [
+        "opening"
+      ],
+      "antonyms": [
+        "occupation"
+      ],
+      "wordFamily": [
+        {
+          "word": "vacant",
+          "partOfSpeech": "adjective",
+          "definition": "trống"
+        }
+      ]
+    },
+    {
+      "id": "adj-014",
+      "word": "Monetary",
+      "phonetic": "/ˈmʌnɪtəri/ (BrE) | /ˈmʌnɪteri/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Relating to money or currency",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "thuộc tiền tệ"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Monetary",
+      "examples": [
+        {
+          "english": "The policy focuses on monetary stability.",
+          "vietnamese": "Chính sách tập trung vào ổn định tiền tệ."
+        },
+        {
+          "english": "They offered monetary compensation.",
+          "vietnamese": "Họ đưa ra sự bồi thường bằng tiền."
+        },
+        {
+          "english": "Monetary issues were discussed.",
+          "vietnamese": "Các vấn đề tiền tệ đã được thảo luận."
+        }
+      ],
+      "collocations": [
+        "monetary policy",
+        "monetary value"
+      ],
+      "synonyms": [
+        "financial"
+      ],
+      "antonyms": [
+        "non-monetary"
+      ],
+      "wordFamily": [
+        {
+          "word": "money",
+          "partOfSpeech": "noun",
+          "definition": "tiền"
+        }
+      ]
+    },
+    {
+      "id": "verb-004",
+      "word": "Enclose",
+      "phonetic": "/ɪnˈkləʊz/ (BrE) | /ɪnˈkloʊz/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To surround or close off on all sides; to include something inside",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "bao quanh; đính kèm"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Enclose",
+      "examples": [
+        {
+          "english": "The garden is enclosed by a wall.",
+          "vietnamese": "Khu vườn được bao quanh bởi một bức tường."
+        },
+        {
+          "english": "Please enclose a copy of your ID.",
+          "vietnamese": "Vui lòng đính kèm bản sao giấy tờ tùy thân."
+        },
+        {
+          "english": "The fence encloses the field.",
+          "vietnamese": "Hàng rào bao quanh cánh đồng."
+        }
+      ],
+      "collocations": [
+        "fully enclosed",
+        "enclose a document"
+      ],
+      "synonyms": [
+        "surround",
+        "attach"
+      ],
+      "antonyms": [
+        "open"
+      ],
+      "wordFamily": [
+        {
+          "word": "enclosure",
+          "partOfSpeech": "noun",
+          "definition": "sự bao quanh"
+        }
+      ]
+    },
+    {
+      "id": "noun-012",
+      "word": "Intimacy",
+      "phonetic": "/ˈɪntɪməsi/ (BrE) | /ˈɪntɪməsi/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Close familiarity or friendship; a close personal relationship",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "sự thân mật, gần gũi"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Intimacy",
+      "examples": [
+        {
+          "english": "Trust is essential for intimacy.",
+          "vietnamese": "Niềm tin là điều cần thiết cho sự thân mật."
+        },
+        {
+          "english": "They shared a deep sense of intimacy.",
+          "vietnamese": "Họ chia sẻ một sự gắn bó sâu sắc."
+        },
+        {
+          "english": "Emotional intimacy matters.",
+          "vietnamese": "Sự thân mật về cảm xúc rất quan trọng."
+        }
+      ],
+      "collocations": [
+        "emotional intimacy",
+        "sense of intimacy"
+      ],
+      "synonyms": [
+        "closeness"
+      ],
+      "antonyms": [
+        "distance"
+      ],
+      "wordFamily": [
+        {
+          "word": "intimate",
+          "partOfSpeech": "adjective",
+          "definition": "thân mật"
+        }
+      ]
+    },
+    {
+      "id": "adj-015",
+      "word": "Clinical",
+      "phonetic": "/ˈklɪnɪkəl/ (BrE) | /ˈklɪnɪkəl/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Relating to medical treatment or showing little emotion",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "thuộc lâm sàng; lạnh lùng, khách quan"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Clinical",
+      "examples": [
+        {
+          "english": "Clinical trials are ongoing.",
+          "vietnamese": "Các thử nghiệm lâm sàng đang được tiến hành."
+        },
+        {
+          "english": "His tone was cold and clinical.",
+          "vietnamese": "Giọng điệu của anh ấy lạnh lùng và khách quan."
+        },
+        {
+          "english": "The diagnosis was purely clinical.",
+          "vietnamese": "Chẩn đoán hoàn toàn mang tính lâm sàng."
+        }
+      ],
+      "collocations": [
+        "clinical trial",
+        "clinical approach"
+      ],
+      "synonyms": [
+        "medical",
+        "detached"
+      ],
+      "antonyms": [
+        "emotional"
+      ],
+      "wordFamily": [
+        {
+          "word": "clinic",
+          "partOfSpeech": "noun",
+          "definition": "phòng khám"
+        }
+      ]
+    },
+    {
+      "id": "noun-013",
+      "word": "Antecedent",
+      "phonetic": "/ˌæntɪˈsiːdənt/ (BrE) | /ˌæntɪˈsiːdənt/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Something that existed or happened before another thing",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tiền đề; điều xảy ra trước"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Antecedent",
+      "examples": [
+        {
+          "english": "There was no historical antecedent for the event.",
+          "vietnamese": "Không có tiền lệ lịch sử cho sự kiện này."
+        },
+        {
+          "english": "Social conditions are antecedents to change.",
+          "vietnamese": "Điều kiện xã hội là tiền đề của sự thay đổi."
+        },
+        {
+          "english": "The theory has clear antecedents.",
+          "vietnamese": "Học thuyết này có những tiền đề rõ ràng."
+        }
+      ],
+      "collocations": [
+        "historical antecedent",
+        "clear antecedent"
+      ],
+      "synonyms": [
+        "precursor"
+      ],
+      "antonyms": [
+        "consequence"
+      ],
+      "wordFamily": [
+        {
+          "word": "antecedent",
+          "partOfSpeech": "adjective",
+          "definition": "xảy ra trước"
+        }
+      ]
+    }
+  ]
+}

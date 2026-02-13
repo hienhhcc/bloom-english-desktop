@@ -1,0 +1,590 @@
+{
+  "topicId": "food-drinks",
+  "items": [
+    {
+      "id": "food-001",
+      "word": "delicious",
+      "phonetic": "/dɪˈlɪʃəs/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having a very pleasant taste or smell",
+      "definitionVietnamese": "Ngon - có vị hoặc mùi rất dễ chịu",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Delicious",
+      "examples": [
+        {
+          "english": "This homemade cake is absolutely delicious!",
+          "vietnamese": "Cái bánh tự làm này ngon tuyệt vời!"
+        },
+        {
+          "english": "The restaurant serves delicious Italian food.",
+          "vietnamese": "Nhà hàng phục vụ đồ ăn Ý ngon."
+        },
+        {
+          "english": "My grandmother makes the most delicious soup I've ever tasted.",
+          "vietnamese": "Bà tôi nấu món súp ngon nhất mà tôi từng nếm."
+        }
+      ],
+      "collocations": ["absolutely delicious", "look delicious", "taste delicious"],
+      "synonyms": ["tasty", "scrumptious", "yummy"],
+      "antonyms": ["disgusting", "tasteless", "bland"],
+      "wordFamily": [
+        { "word": "deliciously", "partOfSpeech": "adverb" }
+      ]
+    },
+    {
+      "id": "food-002",
+      "word": "appetite",
+      "phonetic": "/ˈæpɪtaɪt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A natural desire to satisfy a bodily need, especially for food",
+      "definitionVietnamese": "Sự thèm ăn - ham muốn tự nhiên để thỏa mãn nhu cầu cơ thể, đặc biệt là thức ăn",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Appetite",
+      "examples": [
+        {
+          "english": "I've lost my appetite since I got sick.",
+          "vietnamese": "Tôi đã mất cảm giác thèm ăn kể từ khi bị ốm."
+        },
+        {
+          "english": "Swimming always gives me a big appetite.",
+          "vietnamese": "Bơi lội luôn làm tôi thèm ăn."
+        },
+        {
+          "english": "The children came home from school with huge appetites.",
+          "vietnamese": "Bọn trẻ đi học về với cơn đói lớn."
+        }
+      ],
+      "collocations": ["have an appetite", "lose appetite", "work up an appetite"],
+      "synonyms": ["hunger", "craving"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "appetizing", "partOfSpeech": "adjective" }
+      ]
+    },
+    {
+      "id": "food-003",
+      "word": "beverage",
+      "phonetic": "/ˈbevərɪdʒ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A drink of any type",
+      "definitionVietnamese": "Đồ uống - bất kỳ loại thức uống nào",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Beverage",
+      "examples": [
+        {
+          "english": "Would you like a hot or cold beverage?",
+          "vietnamese": "Bạn muốn dùng đồ uống nóng hay lạnh?"
+        },
+        {
+          "english": "Alcoholic beverages are not allowed in the park.",
+          "vietnamese": "Đồ uống có cồn không được phép trong công viên."
+        },
+        {
+          "english": "The flight attendant offered passengers a choice of beverages.",
+          "vietnamese": "Tiếp viên hàng không mời hành khách chọn đồ uống."
+        }
+      ],
+      "collocations": ["hot beverage", "cold beverage", "alcoholic beverage"],
+      "synonyms": ["drink", "refreshment"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "food-004",
+      "word": "ingredient",
+      "phonetic": "/ɪnˈɡriːdiənt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Any of the foods or substances that are combined to make a particular dish",
+      "definitionVietnamese": "Nguyên liệu - bất kỳ thực phẩm hoặc chất nào được kết hợp để làm một món ăn",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Ingredient",
+      "examples": [
+        {
+          "english": "Fresh ingredients make the dish taste better.",
+          "vietnamese": "Nguyên liệu tươi làm món ăn ngon hơn."
+        },
+        {
+          "english": "What are the main ingredients in this soup?",
+          "vietnamese": "Nguyên liệu chính trong súp này là gì?"
+        },
+        {
+          "english": "I need to buy some ingredients for tonight's dinner.",
+          "vietnamese": "Tôi cần mua một số nguyên liệu cho bữa tối nay."
+        }
+      ],
+      "collocations": ["main ingredient", "fresh ingredient", "secret ingredient"],
+      "synonyms": ["component", "element"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "food-005",
+      "word": "nutritious",
+      "phonetic": "/njuːˈtrɪʃəs/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Containing substances that your body needs to stay healthy",
+      "definitionVietnamese": "Bổ dưỡng - chứa các chất mà cơ thể cần để khỏe mạnh",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Nutritious",
+      "examples": [
+        {
+          "english": "Vegetables are very nutritious.",
+          "vietnamese": "Rau củ rất bổ dưỡng."
+        },
+        {
+          "english": "A nutritious breakfast is important for children.",
+          "vietnamese": "Bữa sáng bổ dưỡng rất quan trọng cho trẻ em."
+        },
+        {
+          "english": "Nuts and seeds are highly nutritious snacks.",
+          "vietnamese": "Các loại hạt là đồ ăn vặt rất bổ dưỡng."
+        }
+      ],
+      "collocations": ["nutritious food", "nutritious meal", "highly nutritious"],
+      "synonyms": ["nourishing", "healthy", "wholesome"],
+      "antonyms": ["unhealthy", "junk"],
+      "wordFamily": [
+        { "word": "nutrition", "partOfSpeech": "noun" },
+        { "word": "nutrient", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "food-006",
+      "word": "vegetarian",
+      "phonetic": "/ˌvedʒəˈteəriən/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who does not eat meat or fish",
+      "definitionVietnamese": "Người ăn chay - người không ăn thịt hoặc cá",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Vegetarian",
+      "examples": [
+        {
+          "english": "My sister has been a vegetarian for five years.",
+          "vietnamese": "Chị tôi đã ăn chay được năm năm."
+        },
+        {
+          "english": "Do you have any vegetarian options on the menu?",
+          "vietnamese": "Quý vị có món chay nào trong thực đơn không?"
+        },
+        {
+          "english": "More people are becoming vegetarian for health reasons.",
+          "vietnamese": "Ngày càng nhiều người ăn chay vì lý do sức khỏe."
+        }
+      ],
+      "collocations": ["vegetarian diet", "vegetarian restaurant", "strict vegetarian"],
+      "synonyms": ["vegan"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "vegetarianism", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "food-007",
+      "word": "recipe",
+      "phonetic": "/ˈresəpi/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A set of instructions for preparing a particular dish",
+      "definitionVietnamese": "Công thức nấu ăn - tập hợp hướng dẫn để chuẩn bị một món ăn",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Recipe",
+      "examples": [
+        {
+          "english": "Can you share your recipe for chocolate cake?",
+          "vietnamese": "Bạn có thể chia sẻ công thức làm bánh sô cô la không?"
+        },
+        {
+          "english": "I found this recipe online.",
+          "vietnamese": "Tôi tìm thấy công thức này trên mạng."
+        },
+        {
+          "english": "This recipe has been passed down in our family for generations.",
+          "vietnamese": "Công thức này đã được truyền lại trong gia đình qua nhiều thế hệ."
+        }
+      ],
+      "collocations": ["family recipe", "follow a recipe", "traditional recipe"],
+      "synonyms": ["formula", "instructions"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "food-008",
+      "word": "cuisine",
+      "phonetic": "/kwɪˈziːn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A style of cooking, especially from a particular country or region",
+      "definitionVietnamese": "Ẩm thực - phong cách nấu ăn, đặc biệt từ một quốc gia hoặc vùng miền",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Cuisine",
+      "examples": [
+        {
+          "english": "Italian cuisine is famous for pasta and pizza.",
+          "vietnamese": "Ẩm thực Ý nổi tiếng với mì ống và pizza."
+        },
+        {
+          "english": "Vietnamese cuisine uses a lot of fresh herbs.",
+          "vietnamese": "Ẩm thực Việt Nam sử dụng nhiều rau thơm tươi."
+        },
+        {
+          "english": "The city has restaurants serving cuisine from all over the world.",
+          "vietnamese": "Thành phố có các nhà hàng phục vụ ẩm thực từ khắp nơi trên thế giới."
+        }
+      ],
+      "collocations": ["local cuisine", "traditional cuisine", "fusion cuisine"],
+      "synonyms": ["cooking", "cookery"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "food-009",
+      "word": "portion",
+      "phonetic": "/ˈpɔːʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An amount of food served to one person",
+      "definitionVietnamese": "Khẩu phần - lượng thức ăn phục vụ cho một người",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Portion",
+      "examples": [
+        {
+          "english": "The portions at this restaurant are very generous.",
+          "vietnamese": "Khẩu phần ở nhà hàng này rất nhiều."
+        },
+        {
+          "english": "Would you like a smaller portion?",
+          "vietnamese": "Bạn có muốn khẩu phần nhỏ hơn không?"
+        },
+        {
+          "english": "Controlling your portion sizes can help with weight management.",
+          "vietnamese": "Kiểm soát khẩu phần ăn có thể giúp quản lý cân nặng."
+        }
+      ],
+      "collocations": ["large portion", "small portion", "portion size"],
+      "synonyms": ["serving", "helping"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "food-010",
+      "word": "spicy",
+      "phonetic": "/ˈspaɪsi/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having a strong hot flavor from spices",
+      "definitionVietnamese": "Cay - có vị nóng mạnh từ gia vị",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Spicy",
+      "examples": [
+        {
+          "english": "Thai food is often very spicy.",
+          "vietnamese": "Đồ ăn Thái thường rất cay."
+        },
+        {
+          "english": "I can't eat anything too spicy.",
+          "vietnamese": "Tôi không thể ăn đồ quá cay."
+        },
+        {
+          "english": "Would you like your curry mild or spicy?",
+          "vietnamese": "Bạn muốn cà ri nhẹ hay cay?"
+        }
+      ],
+      "collocations": ["spicy food", "mildly spicy", "extremely spicy"],
+      "synonyms": ["hot", "peppery"],
+      "antonyms": ["mild", "bland"],
+      "wordFamily": [
+        { "word": "spice", "partOfSpeech": "noun" },
+        { "word": "spiciness", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "food-011",
+      "word": "refreshing",
+      "phonetic": "/rɪˈfreʃɪŋ/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Making you feel less tired or hot",
+      "definitionVietnamese": "Mát mẻ, sảng khoái - làm bạn cảm thấy bớt mệt hoặc bớt nóng",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Refreshing",
+      "examples": [
+        {
+          "english": "A glass of lemonade is so refreshing on a hot day.",
+          "vietnamese": "Một ly nước chanh thật sảng khoái trong ngày nóng."
+        },
+        {
+          "english": "The watermelon juice was cool and refreshing.",
+          "vietnamese": "Nước ép dưa hấu mát và sảng khoái."
+        },
+        {
+          "english": "After the long hike, a cold shower felt incredibly refreshing.",
+          "vietnamese": "Sau chuyến đi bộ dài, một vòi sen lạnh thật sảng khoái."
+        }
+      ],
+      "collocations": ["refreshing drink", "refreshing taste", "cool and refreshing"],
+      "synonyms": ["cooling", "reviving"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "refresh", "partOfSpeech": "verb" },
+        { "word": "refreshment", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "food-012",
+      "word": "savory",
+      "phonetic": "/ˈseɪvəri/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having a salty or spicy taste rather than sweet",
+      "definitionVietnamese": "Mặn/đậm đà - có vị mặn hoặc cay thay vì ngọt",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Savory",
+      "examples": [
+        {
+          "english": "I prefer savory snacks to sweet ones.",
+          "vietnamese": "Tôi thích đồ ăn vặt mặn hơn đồ ngọt."
+        },
+        {
+          "english": "The restaurant offers both sweet and savory crepes.",
+          "vietnamese": "Nhà hàng có cả bánh crepe ngọt và mặn."
+        },
+        {
+          "english": "For breakfast, I enjoy a savory omelette with vegetables.",
+          "vietnamese": "Bữa sáng, tôi thích trứng ốp la mặn với rau củ."
+        }
+      ],
+      "collocations": ["savory dish", "savory flavor", "savory snack"],
+      "synonyms": ["salty", "tasty"],
+      "antonyms": ["sweet"],
+      "wordFamily": []
+    },
+    {
+      "id": "food-013",
+      "word": "roast",
+      "phonetic": "/rəʊst/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To cook food in an oven or over a fire",
+      "definitionVietnamese": "Nướng/quay - nấu thức ăn trong lò hoặc trên lửa",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Roast",
+      "examples": [
+        {
+          "english": "We're going to roast a chicken for dinner.",
+          "vietnamese": "Chúng tôi sẽ quay gà cho bữa tối."
+        },
+        {
+          "english": "Roast the vegetables at 200 degrees for 30 minutes.",
+          "vietnamese": "Nướng rau ở 200 độ trong 30 phút."
+        },
+        {
+          "english": "My family always roasts a turkey for Thanksgiving.",
+          "vietnamese": "Gia đình tôi luôn quay gà tây vào lễ Tạ ơn."
+        }
+      ],
+      "collocations": ["roast chicken", "roast beef", "roast vegetables"],
+      "synonyms": ["bake", "grill"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "roasted", "partOfSpeech": "adjective" }
+      ]
+    },
+    {
+      "id": "food-014",
+      "word": "sour",
+      "phonetic": "/saʊə/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having an acidic taste like lemon or vinegar",
+      "definitionVietnamese": "Chua - có vị chua như chanh hoặc giấm",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Sour",
+      "examples": [
+        {
+          "english": "These green apples are too sour for me.",
+          "vietnamese": "Những quả táo xanh này quá chua với tôi."
+        },
+        {
+          "english": "The milk has gone sour.",
+          "vietnamese": "Sữa đã bị chua."
+        },
+        {
+          "english": "I like to add a squeeze of lemon for a sour flavor.",
+          "vietnamese": "Tôi thích thêm một chút chanh để có vị chua."
+        }
+      ],
+      "collocations": ["sour taste", "sour cream", "go sour"],
+      "synonyms": ["acidic", "tart"],
+      "antonyms": ["sweet"],
+      "wordFamily": [
+        { "word": "sourness", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "food-015",
+      "word": "bitter",
+      "phonetic": "/ˈbɪtə/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having a sharp, pungent taste that is not sweet",
+      "definitionVietnamese": "Đắng - có vị chát, nồng không ngọt",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Bitter",
+      "examples": [
+        {
+          "english": "This coffee tastes too bitter without sugar.",
+          "vietnamese": "Cà phê này quá đắng khi không có đường."
+        },
+        {
+          "english": "Dark chocolate has a slightly bitter taste.",
+          "vietnamese": "Sô cô la đen có vị hơi đắng."
+        },
+        {
+          "english": "Some people enjoy the bitter flavor of black coffee.",
+          "vietnamese": "Một số người thích vị đắng của cà phê đen."
+        }
+      ],
+      "collocations": ["bitter taste", "bitter chocolate", "bitter medicine"],
+      "synonyms": ["sharp", "acrid"],
+      "antonyms": ["sweet"],
+      "wordFamily": [
+        { "word": "bitterness", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "food-016",
+      "word": "stir-fry",
+      "phonetic": "/ˈstɜːfraɪ/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To cook small pieces of food quickly while stirring in hot oil",
+      "definitionVietnamese": "Xào - nấu miếng thức ăn nhỏ nhanh chóng trong dầu nóng và khuấy",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Stir-fry",
+      "examples": [
+        {
+          "english": "Stir-fry the vegetables for about 3 minutes.",
+          "vietnamese": "Xào rau khoảng 3 phút."
+        },
+        {
+          "english": "I love stir-fried noodles with beef.",
+          "vietnamese": "Tôi thích mì xào với thịt bò."
+        },
+        {
+          "english": "Stir-frying is a quick and healthy way to cook vegetables.",
+          "vietnamese": "Xào là cách nấu rau nhanh và lành mạnh."
+        }
+      ],
+      "collocations": ["stir-fry vegetables", "stir-fried rice", "quick stir-fry"],
+      "synonyms": ["sauté", "fry"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "food-017",
+      "word": "simmer",
+      "phonetic": "/ˈsɪmə/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To cook something liquid, or something with liquid in it, at a temperature just below boiling",
+      "definitionVietnamese": "Ninh/hầm - nấu chất lỏng hoặc thứ có chất lỏng ở nhiệt độ ngay dưới điểm sôi",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Simmer",
+      "examples": [
+        {
+          "english": "Let the soup simmer for 20 minutes.",
+          "vietnamese": "Để súp hầm trong 20 phút."
+        },
+        {
+          "english": "Simmer the sauce until it thickens.",
+          "vietnamese": "Ninh nước sốt cho đến khi đặc lại."
+        },
+        {
+          "english": "The stew needs to simmer on low heat for several hours.",
+          "vietnamese": "Món hầm cần được ninh ở lửa nhỏ trong vài giờ."
+        }
+      ],
+      "collocations": ["simmer gently", "let simmer", "simmer for"],
+      "synonyms": ["stew", "cook slowly"],
+      "antonyms": ["boil"],
+      "wordFamily": []
+    },
+    {
+      "id": "food-018",
+      "word": "grill",
+      "phonetic": "/ɡrɪl/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To cook food under or over a very strong heat",
+      "definitionVietnamese": "Nướng - nấu thức ăn dưới hoặc trên nhiệt độ rất cao",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Grill",
+      "examples": [
+        {
+          "english": "Let's grill some burgers in the backyard.",
+          "vietnamese": "Hãy nướng vài cái hamburger ở sân sau."
+        },
+        {
+          "english": "Grilled fish is healthier than fried fish.",
+          "vietnamese": "Cá nướng tốt cho sức khỏe hơn cá chiên."
+        },
+        {
+          "english": "We love to grill steaks during summer barbecues.",
+          "vietnamese": "Chúng tôi thích nướng bít tết trong các bữa tiệc nướng mùa hè."
+        }
+      ],
+      "collocations": ["grill meat", "grilled vegetables", "barbecue grill"],
+      "synonyms": ["barbecue", "broil"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "grilled", "partOfSpeech": "adjective" }
+      ]
+    },
+    {
+      "id": "food-019",
+      "word": "bland",
+      "phonetic": "/blænd/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Not having a strong or interesting taste",
+      "definitionVietnamese": "Nhạt nhẽo - không có vị đậm hoặc thú vị",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Bland",
+      "examples": [
+        {
+          "english": "Hospital food is often quite bland.",
+          "vietnamese": "Đồ ăn bệnh viện thường khá nhạt nhẽo."
+        },
+        {
+          "english": "The rice was a bit bland without any seasoning.",
+          "vietnamese": "Cơm hơi nhạt khi không có gia vị."
+        },
+        {
+          "english": "Add some herbs to make the dish less bland.",
+          "vietnamese": "Thêm một chút rau thơm để món ăn bớt nhạt."
+        }
+      ],
+      "collocations": ["bland food", "bland diet", "bland taste"],
+      "synonyms": ["tasteless", "flavorless", "insipid"],
+      "antonyms": ["flavorful", "tasty", "spicy"],
+      "wordFamily": [
+        { "word": "blandness", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "food-020",
+      "word": "scrumptious",
+      "phonetic": "/ˈskrʌmpʃəs/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Extremely delicious",
+      "definitionVietnamese": "Ngon tuyệt - cực kỳ ngon",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Scrumptious",
+      "examples": [
+        {
+          "english": "The chocolate cake was absolutely scrumptious!",
+          "vietnamese": "Bánh sô cô la ngon tuyệt vời!"
+        },
+        {
+          "english": "She prepared a scrumptious feast for the guests.",
+          "vietnamese": "Cô ấy chuẩn bị một bữa tiệc ngon tuyệt cho khách."
+        },
+        {
+          "english": "The bakery sells scrumptious pastries every morning.",
+          "vietnamese": "Tiệm bánh bán những chiếc bánh ngọt ngon tuyệt mỗi sáng."
+        }
+      ],
+      "collocations": ["scrumptious meal", "absolutely scrumptious", "scrumptious dessert"],
+      "synonyms": ["delicious", "delectable", "mouthwatering"],
+      "antonyms": ["disgusting", "unappetizing"],
+      "wordFamily": []
+    }
+  ]
+}

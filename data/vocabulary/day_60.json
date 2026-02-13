@@ -1,0 +1,721 @@
+{
+  "topicId": "Day 60",
+  "items": [
+    {
+      "id": "adj-001",
+      "word": "Chancy",
+      "phonetic": "/ˈtʃɑːnsi/ (BrE) | /ˈtʃænsi/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Involving risk or uncertainty; not safe or reliable",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "có rủi ro, đầy may rủi"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Chancy",
+      "examples": [
+        {
+          "english": "It was a chancy decision to invest all his savings in that startup.",
+          "vietnamese": "Đó là một quyết định đầy rủi ro khi đầu tư toàn bộ tiền tiết kiệm vào công ty khởi nghiệp đó."
+        },
+        {
+          "english": "The weather made the mountain climb rather chancy.",
+          "vietnamese": "Thời tiết khiến chuyến leo núi trở nên khá nguy hiểm."
+        },
+        {
+          "english": "Depending on public transport at that hour is a bit chancy.",
+          "vietnamese": "Phụ thuộc vào phương tiện công cộng vào giờ đó thì hơi may rủi."
+        }
+      ],
+      "collocations": [
+        "chancy move",
+        "chancy decision",
+        "chancy business",
+        "rather chancy"
+      ],
+      "synonyms": [
+        "risky",
+        "uncertain",
+        "hazardous"
+      ],
+      "antonyms": [
+        "safe",
+        "secure"
+      ],
+      "wordFamily": [
+        {
+          "word": "chance",
+          "partOfSpeech": "noun",
+          "definition": "cơ hội; sự may rủi"
+        },
+        {
+          "word": "chance",
+          "partOfSpeech": "verb",
+          "definition": "liều làm gì đó; tình cờ xảy ra"
+        }
+      ]
+    },
+    {
+      "id": "verb-001",
+      "word": "Renovate",
+      "phonetic": "/ˈrenəveɪt/ (BrE) | /ˈrenəveɪt/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To repair and improve a building or place, especially an old one",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "cải tạo, tu sửa (nhà cửa, công trình)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Renovate",
+      "examples": [
+        {
+          "english": "They plan to renovate the old house before moving in.",
+          "vietnamese": "Họ dự định cải tạo ngôi nhà cũ trước khi chuyển vào ở."
+        },
+        {
+          "english": "The school was renovated to meet modern safety standards.",
+          "vietnamese": "Ngôi trường đã được tu sửa để đáp ứng các tiêu chuẩn an toàn hiện đại."
+        },
+        {
+          "english": "She renovated the kitchen to make it more functional.",
+          "vietnamese": "Cô ấy cải tạo lại nhà bếp để nó tiện dụng hơn."
+        }
+      ],
+      "collocations": [
+        "renovate a house",
+        "renovate a building",
+        "newly renovated",
+        "renovate extensively"
+      ],
+      "synonyms": [
+        "restore",
+        "refurbish",
+        "repair"
+      ],
+      "antonyms": [
+        "neglect",
+        "damage"
+      ],
+      "wordFamily": [
+        {
+          "word": "renovation",
+          "partOfSpeech": "noun",
+          "definition": "sự cải tạo, sự tu sửa"
+        },
+        {
+          "word": "renovated",
+          "partOfSpeech": "adjective",
+          "definition": "đã được cải tạo"
+        }
+      ]
+    },
+    {
+      "id": "noun-001",
+      "word": "Courtesy",
+      "phonetic": "/ˈkɜːtəsi/ (BrE) | /ˈkɜːrtəsi/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Polite behavior and respect for others",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "sự lịch sự, nhã nhặn"
+        },
+        {
+          "type": "noun",
+          "definition": "ân huệ, sự ưu ái (do lịch sự mà có)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Courtesy",
+      "examples": [
+        {
+          "english": "He treated everyone with courtesy and respect.",
+          "vietnamese": "Anh ấy đối xử với mọi người bằng sự lịch sự và tôn trọng."
+        },
+        {
+          "english": "We received free tickets courtesy of the company.",
+          "vietnamese": "Chúng tôi nhận được vé miễn phí nhờ sự ưu ái của công ty."
+        },
+        {
+          "english": "A simple courtesy like saying thank you goes a long way.",
+          "vietnamese": "Một phép lịch sự đơn giản như nói lời cảm ơn cũng mang lại nhiều ý nghĩa."
+        }
+      ],
+      "collocations": [
+        "common courtesy",
+        "professional courtesy",
+        "treat someone with courtesy",
+        "out of courtesy"
+      ],
+      "synonyms": [
+        "politeness",
+        "respect",
+        "civility"
+      ],
+      "antonyms": [
+        "rudeness",
+        "impoliteness"
+      ],
+      "wordFamily": [
+        {
+          "word": "courteous",
+          "partOfSpeech": "adjective",
+          "definition": "lịch sự, nhã nhặn"
+        },
+        {
+          "word": "courteously",
+          "partOfSpeech": "adverb",
+          "definition": "một cách lịch sự"
+        }
+      ]
+    },
+    {
+      "id": "career-007",
+      "word": "Expertise",
+      "phonetic": "/ˌekspɜːˈtiːz/ (BrE) | /ˌekspɜːrˈtiːz/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "High-level skill or knowledge in a particular field",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "chuyên môn, sự tinh thông"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Expertise",
+      "examples": [
+        {
+          "english": "She has expertise in cybersecurity.",
+          "vietnamese": "Cô ấy có chuyên môn về an ninh mạng."
+        },
+        {
+          "english": "The company values technical expertise.",
+          "vietnamese": "Công ty coi trọng chuyên môn kỹ thuật."
+        },
+        {
+          "english": "His expertise makes him a key asset.",
+          "vietnamese": "Chuyên môn của anh ấy khiến anh trở thành tài sản quan trọng."
+        }
+      ],
+      "collocations": [
+        "technical expertise",
+        "professional expertise"
+      ],
+      "synonyms": [
+        "skill",
+        "proficiency"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "expert",
+          "partOfSpeech": "noun/adjective",
+          "definition": "chuyên gia; thành thạo"
+        }
+      ]
+    },
+    {
+      "id": "career-009",
+      "word": "Tenure",
+      "phonetic": "/ˈtenjʊə(r)/ (BrE) | /ˈtenjər/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The period of time spent in a particular job or position",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "nhiệm kỳ; thời gian đảm nhiệm công việc"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Tenure",
+      "examples": [
+        {
+          "english": "Her tenure as CEO lasted five years.",
+          "vietnamese": "Nhiệm kỳ CEO của cô ấy kéo dài năm năm."
+        },
+        {
+          "english": "He gained tenure at the university.",
+          "vietnamese": "Anh ấy đạt được vị trí biên chế tại trường đại học."
+        },
+        {
+          "english": "During his tenure, profits increased.",
+          "vietnamese": "Trong nhiệm kỳ của anh ấy, lợi nhuận tăng lên."
+        }
+      ],
+      "collocations": [
+        "grant tenure",
+        "academic tenure"
+      ],
+      "synonyms": [
+        "term",
+        "period"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "workspace-004",
+      "word": "Cubicle",
+      "phonetic": "/ˈkjuːbɪkl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A small, partially enclosed workspace in an office",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "buồng làm việc nhỏ trong văn phòng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Cubicle",
+      "examples": [
+        {
+          "english": "He works in a cubicle near the window.",
+          "vietnamese": "Anh ấy làm việc trong một buồng gần cửa sổ."
+        },
+        {
+          "english": "Each employee has a cubicle.",
+          "vietnamese": "Mỗi nhân viên có một buồng làm việc riêng."
+        },
+        {
+          "english": "The cubicles were redesigned.",
+          "vietnamese": "Các buồng làm việc đã được thiết kế lại."
+        }
+      ],
+      "collocations": [
+        "office cubicle"
+      ],
+      "synonyms": [
+        "booth"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "criminal-001",
+      "word": "Offender",
+      "phonetic": "/əˈfendə(r)/ (BrE) | /əˈfendər/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who commits an illegal act",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "người phạm tội"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Offender",
+      "examples": [
+        {
+          "english": "The offender was arrested at the scene.",
+          "vietnamese": "Kẻ phạm tội đã bị bắt tại hiện trường."
+        },
+        {
+          "english": "Repeat offenders face harsher penalties.",
+          "vietnamese": "Những người tái phạm phải đối mặt với hình phạt nặng hơn."
+        },
+        {
+          "english": "The offender confessed to the crime.",
+          "vietnamese": "Kẻ phạm tội đã thú nhận hành vi."
+        }
+      ],
+      "collocations": [
+        "repeat offender",
+        "violent offender"
+      ],
+      "synonyms": [
+        "criminal",
+        "lawbreaker"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "offend",
+          "partOfSpeech": "verb",
+          "definition": "phạm pháp; xúc phạm"
+        }
+      ]
+    },
+    {
+      "id": "criminal-002",
+      "word": "Convict",
+      "phonetic": "/ˈkɒnvɪkt/ (BrE) | /ˈkɑːnvɪkt/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who has been found guilty of a crime",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tù nhân; người bị kết án"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Convict",
+      "examples": [
+        {
+          "english": "The convict is serving a life sentence.",
+          "vietnamese": "Tù nhân đang thụ án chung thân."
+        },
+        {
+          "english": "Former convicts often struggle to find work.",
+          "vietnamese": "Những người từng bị kết án thường khó tìm việc."
+        },
+        {
+          "english": "The convict appealed against the verdict.",
+          "vietnamese": "Người bị kết án kháng cáo phán quyết."
+        }
+      ],
+      "collocations": [
+        "released convict",
+        "convicted criminal"
+      ],
+      "synonyms": [
+        "prisoner",
+        "inmate"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "convict",
+          "partOfSpeech": "verb",
+          "definition": "kết án"
+        },
+        {
+          "word": "conviction",
+          "partOfSpeech": "noun",
+          "definition": "sự kết án"
+        }
+      ]
+    },
+    {
+      "id": "criminal-003",
+      "word": "Perpetrator",
+      "phonetic": "/ˈpɜːpətreɪtə(r)/ (BrE) | /ˈpɜːrpətreɪtər/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who carries out a harmful or illegal act",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "thủ phạm"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Perpetrator",
+      "examples": [
+        {
+          "english": "The perpetrator was identified through CCTV.",
+          "vietnamese": "Thủ phạm được xác định qua camera."
+        },
+        {
+          "english": "Police are searching for the perpetrator.",
+          "vietnamese": "Cảnh sát đang truy tìm thủ phạm."
+        },
+        {
+          "english": "The perpetrator acted alone.",
+          "vietnamese": "Thủ phạm hành động một mình."
+        }
+      ],
+      "collocations": [
+        "unknown perpetrator",
+        "crime perpetrator"
+      ],
+      "synonyms": [
+        "culprit"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "perpetrate",
+          "partOfSpeech": "verb",
+          "definition": "gây ra (tội ác)"
+        }
+      ]
+    },
+    {
+      "id": "criminal-004",
+      "word": "Felon",
+      "phonetic": "/ˈfelən/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person convicted of a serious crime",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tội phạm trọng tội"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Felon",
+      "examples": [
+        {
+          "english": "The felon received a long prison sentence.",
+          "vietnamese": "Tội phạm trọng tội nhận án tù dài hạn."
+        },
+        {
+          "english": "Felons may lose certain civil rights.",
+          "vietnamese": "Tội phạm trọng tội có thể mất một số quyền công dân."
+        },
+        {
+          "english": "He was labeled a felon after conviction.",
+          "vietnamese": "Anh ta bị coi là tội phạm trọng tội sau khi bị kết án."
+        }
+      ],
+      "collocations": [
+        "convicted felon"
+      ],
+      "synonyms": [
+        "criminal"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "felony",
+          "partOfSpeech": "noun",
+          "definition": "trọng tội"
+        }
+      ]
+    },
+    {
+      "id": "criminal-005",
+      "word": "Accomplice",
+      "phonetic": "/əˈkʌmplɪs/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who helps another commit a crime",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "đồng phạm"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Accomplice",
+      "examples": [
+        {
+          "english": "The robber had an accomplice.",
+          "vietnamese": "Tên cướp có một đồng phạm."
+        },
+        {
+          "english": "She was charged as an accomplice.",
+          "vietnamese": "Cô ấy bị buộc tội là đồng phạm."
+        },
+        {
+          "english": "The accomplice testified against him.",
+          "vietnamese": "Đồng phạm đã làm chứng chống lại anh ta."
+        }
+      ],
+      "collocations": [
+        "accomplice in crime"
+      ],
+      "synonyms": [
+        "partner in crime"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "criminal-006",
+      "word": "Gang member",
+      "phonetic": "/ɡæŋ ˈmembə(r)/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who belongs to a criminal gang",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "thành viên băng đảng tội phạm"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Gang+Member",
+      "examples": [
+        {
+          "english": "Gang members were involved in the attack.",
+          "vietnamese": "Các thành viên băng đảng liên quan đến vụ tấn công."
+        },
+        {
+          "english": "He was arrested as a suspected gang member.",
+          "vietnamese": "Anh ta bị bắt với nghi ngờ là thành viên băng đảng."
+        },
+        {
+          "english": "Gang members often operate together.",
+          "vietnamese": "Các thành viên băng đảng thường hoạt động theo nhóm."
+        }
+      ],
+      "collocations": [
+        "notorious gang member"
+      ],
+      "synonyms": [
+        "gangster"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "criminal-007",
+      "word": "Fraudster",
+      "phonetic": "/ˈfrɔːdstə(r)/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who commits fraud or financial deception",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "kẻ lừa đảo tài chính"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Fraudster",
+      "examples": [
+        {
+          "english": "The fraudster stole millions of dollars.",
+          "vietnamese": "Kẻ lừa đảo đã chiếm đoạt hàng triệu đô la."
+        },
+        {
+          "english": "Online fraudsters target vulnerable users.",
+          "vietnamese": "Những kẻ lừa đảo trực tuyến nhắm vào người dễ bị tổn thương."
+        },
+        {
+          "english": "The fraudster was sentenced to prison.",
+          "vietnamese": "Kẻ lừa đảo bị kết án tù."
+        }
+      ],
+      "collocations": [
+        "financial fraudster",
+        "online fraudster"
+      ],
+      "synonyms": [
+        "scammer"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "fraud",
+          "partOfSpeech": "noun",
+          "definition": "sự gian lận"
+        }
+      ]
+    },
+    {
+      "id": "criminal-008",
+      "word": "Mastermind",
+      "phonetic": "/ˈmɑːstəmaɪnd/ (BrE) | /ˈmæstərmaɪnd/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who plans and directs a complex criminal operation",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "kẻ chủ mưu"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Mastermind",
+      "examples": [
+        {
+          "english": "He was the mastermind behind the robbery.",
+          "vietnamese": "Anh ta là kẻ chủ mưu đứng sau vụ cướp."
+        },
+        {
+          "english": "The mastermind avoided direct involvement.",
+          "vietnamese": "Kẻ chủ mưu tránh tham gia trực tiếp."
+        },
+        {
+          "english": "Police finally caught the mastermind.",
+          "vietnamese": "Cảnh sát cuối cùng đã bắt được kẻ chủ mưu."
+        }
+      ],
+      "collocations": [
+        "criminal mastermind"
+      ],
+      "synonyms": [
+        "ringleader"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "criminal-009",
+      "word": "Recidivist",
+      "phonetic": "/rɪˈsɪdɪvɪst/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A criminal who repeatedly reoffends",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tội phạm tái phạm"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Recidivist",
+      "examples": [
+        {
+          "english": "Recidivists are closely monitored.",
+          "vietnamese": "Tội phạm tái phạm bị giám sát chặt chẽ."
+        },
+        {
+          "english": "The law targets repeat recidivists.",
+          "vietnamese": "Luật nhắm vào những kẻ tái phạm nhiều lần."
+        },
+        {
+          "english": "He was labeled a dangerous recidivist.",
+          "vietnamese": "Anh ta bị coi là tội phạm tái phạm nguy hiểm."
+        }
+      ],
+      "collocations": [
+        "violent recidivist"
+      ],
+      "synonyms": [
+        "repeat offender"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "recidivism",
+          "partOfSpeech": "noun",
+          "definition": "tình trạng tái phạm"
+        }
+      ]
+    },
+    {
+      "id": "criminal-010",
+      "word": "Outlaw",
+      "phonetic": "/ˈaʊtlɔː/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A criminal who operates outside the law",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "kẻ sống ngoài vòng pháp luật"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Outlaw",
+      "examples": [
+        {
+          "english": "The outlaw hid in remote areas.",
+          "vietnamese": "Kẻ ngoài vòng pháp luật ẩn náu ở vùng hẻo lánh."
+        },
+        {
+          "english": "Outlaws were hunted by the authorities.",
+          "vietnamese": "Những kẻ ngoài vòng pháp luật bị chính quyền truy lùng."
+        },
+        {
+          "english": "He gained fame as a notorious outlaw.",
+          "vietnamese": "Hắn trở nên nổi tiếng như một kẻ ngoài vòng pháp luật khét tiếng."
+        }
+      ],
+      "collocations": [
+        "notorious outlaw"
+      ],
+      "synonyms": [
+        "fugitive"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "outlaw",
+          "partOfSpeech": "verb",
+          "definition": "cấm, đặt ra ngoài vòng pháp luật"
+        }
+      ]
+    }
+  ]
+}

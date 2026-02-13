@@ -1,0 +1,1206 @@
+{
+  "topicId": "Personalities",
+  "items": [
+    {
+      "id": "personality-001",
+      "word": "Friendly",
+      "phonetic": "/ˈfrendli/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Kind and pleasant toward others",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "thân thiện"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Friendly",
+      "examples": [
+        {
+          "english": "She is very friendly to new students.",
+          "vietnamese": "Cô ấy rất thân thiện với học sinh mới."
+        },
+        {
+          "english": "A friendly smile makes people feel welcome.",
+          "vietnamese": "Nụ cười thân thiện khiến mọi người cảm thấy được chào đón."
+        },
+        {
+          "english": "He has a friendly personality.",
+          "vietnamese": "Anh ấy có tính cách thân thiện."
+        }
+      ],
+      "collocations": [
+        "friendly attitude",
+        "friendly manner"
+      ],
+      "synonyms": [
+        "kind"
+      ],
+      "antonyms": [
+        "unfriendly"
+      ],
+      "wordFamily": [
+        {
+          "word": "friendliness",
+          "partOfSpeech": "noun",
+          "definition": "sự thân thiện"
+        }
+      ]
+    },
+    {
+      "id": "personality-002",
+      "word": "Shy",
+      "phonetic": "/ʃaɪ/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Nervous or uncomfortable around other people",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "nhút nhát"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Shy",
+      "examples": [
+        {
+          "english": "He is shy in social situations.",
+          "vietnamese": "Anh ấy nhút nhát trong các tình huống xã hội."
+        },
+        {
+          "english": "She was too shy to speak.",
+          "vietnamese": "Cô ấy quá nhút nhát để nói."
+        },
+        {
+          "english": "Shy children may need encouragement.",
+          "vietnamese": "Trẻ nhút nhát có thể cần được khích lệ."
+        }
+      ],
+      "collocations": [
+        "shy child",
+        "shy smile"
+      ],
+      "synonyms": [
+        "timid"
+      ],
+      "antonyms": [
+        "confident"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "personality-003",
+      "word": "Confident",
+      "phonetic": "/ˈkɒnfɪdənt/ (BrE) | /ˈkɑːnfɪdənt/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Believing in your own abilities or qualities",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "tự tin"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Confident",
+      "examples": [
+        {
+          "english": "She feels confident about her future.",
+          "vietnamese": "Cô ấy cảm thấy tự tin về tương lai của mình."
+        },
+        {
+          "english": "He gave a confident answer.",
+          "vietnamese": "Anh ấy đưa ra câu trả lời đầy tự tin."
+        },
+        {
+          "english": "Confidence helps in interviews.",
+          "vietnamese": "Sự tự tin giúp ích trong phỏng vấn."
+        }
+      ],
+      "collocations": [
+        "confident speaker",
+        "feel confident"
+      ],
+      "synonyms": [
+        "self-assured"
+      ],
+      "antonyms": [
+        "insecure"
+      ],
+      "wordFamily": [
+        {
+          "word": "confidence",
+          "partOfSpeech": "noun",
+          "definition": "sự tự tin"
+        }
+      ]
+    },
+    {
+      "id": "personality-004",
+      "word": "Honest",
+      "phonetic": "/ˈɒnɪst/ (BrE) | /ˈɑːnɪst/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Always telling the truth and not cheating or stealing",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "trung thực"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Honest",
+      "examples": [
+        {
+          "english": "He is honest about his mistakes.",
+          "vietnamese": "Anh ấy trung thực về những sai lầm của mình."
+        },
+        {
+          "english": "She gave an honest opinion.",
+          "vietnamese": "Cô ấy đưa ra ý kiến trung thực."
+        },
+        {
+          "english": "Honest people earn trust.",
+          "vietnamese": "Người trung thực tạo được niềm tin."
+        }
+      ],
+      "collocations": [
+        "honest answer",
+        "honest person"
+      ],
+      "synonyms": [
+        "truthful"
+      ],
+      "antonyms": [
+        "dishonest"
+      ],
+      "wordFamily": [
+        {
+          "word": "honesty",
+          "partOfSpeech": "noun",
+          "definition": "sự trung thực"
+        }
+      ]
+    },
+    {
+      "id": "personality-005",
+      "word": "Ambitious",
+      "phonetic": "/æmˈbɪʃəs/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Strongly determined to succeed or achieve goals",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "tham vọng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Ambitious",
+      "examples": [
+        {
+          "english": "She is ambitious and hardworking.",
+          "vietnamese": "Cô ấy tham vọng và chăm chỉ."
+        },
+        {
+          "english": "An ambitious plan was proposed.",
+          "vietnamese": "Một kế hoạch đầy tham vọng được đề xuất."
+        },
+        {
+          "english": "Ambitious people set high goals.",
+          "vietnamese": "Người tham vọng đặt ra mục tiêu cao."
+        }
+      ],
+      "collocations": [
+        "ambitious goal",
+        "ambitious person"
+      ],
+      "synonyms": [
+        "driven"
+      ],
+      "antonyms": [
+        "unmotivated"
+      ],
+      "wordFamily": [
+        {
+          "word": "ambition",
+          "partOfSpeech": "noun",
+          "definition": "tham vọng"
+        }
+      ]
+    },
+    {
+      "id": "personality-006",
+      "word": "Reliable",
+      "phonetic": "/rɪˈlaɪəbl/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Able to be trusted to do what is expected",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "đáng tin cậy"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Reliable",
+      "examples": [
+        {
+          "english": "She is a reliable teammate.",
+          "vietnamese": "Cô ấy là đồng đội đáng tin cậy."
+        },
+        {
+          "english": "We need reliable employees.",
+          "vietnamese": "Chúng tôi cần nhân viên đáng tin."
+        },
+        {
+          "english": "Reliable people keep promises.",
+          "vietnamese": "Người đáng tin cậy giữ lời hứa."
+        }
+      ],
+      "collocations": [
+        "reliable source",
+        "reliable person"
+      ],
+      "synonyms": [
+        "dependable"
+      ],
+      "antonyms": [
+        "unreliable"
+      ],
+      "wordFamily": [
+        {
+          "word": "reliability",
+          "partOfSpeech": "noun",
+          "definition": "độ tin cậy"
+        }
+      ]
+    },
+    {
+      "id": "personality-007",
+      "word": "Optimistic",
+      "phonetic": "/ˌɒptɪˈmɪstɪk/ (BrE) | /ˌɑːptɪˈmɪstɪk/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Expecting good things to happen",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "lạc quan"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Optimistic",
+      "examples": [
+        {
+          "english": "He remains optimistic about the future.",
+          "vietnamese": "Anh ấy vẫn lạc quan về tương lai."
+        },
+        {
+          "english": "An optimistic outlook helps in hard times.",
+          "vietnamese": "Cái nhìn lạc quan giúp vượt qua khó khăn."
+        },
+        {
+          "english": "She is naturally optimistic.",
+          "vietnamese": "Cô ấy vốn lạc quan."
+        }
+      ],
+      "collocations": [
+        "optimistic view",
+        "remain optimistic"
+      ],
+      "synonyms": [
+        "positive"
+      ],
+      "antonyms": [
+        "pessimistic"
+      ],
+      "wordFamily": [
+        {
+          "word": "optimism",
+          "partOfSpeech": "noun",
+          "definition": "sự lạc quan"
+        }
+      ]
+    },
+    {
+      "id": "personality-008",
+      "word": "Introverted",
+      "phonetic": "/ˈɪntrəvɜːtɪd/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Preferring calm environments and limited social interaction",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "hướng nội"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Introverted",
+      "examples": [
+        {
+          "english": "Introverted people enjoy solitude.",
+          "vietnamese": "Người hướng nội thích ở một mình."
+        },
+        {
+          "english": "He is introverted but thoughtful.",
+          "vietnamese": "Anh ấy hướng nội nhưng sâu sắc."
+        },
+        {
+          "english": "Introverted students may avoid crowds.",
+          "vietnamese": "Học sinh hướng nội có thể tránh đám đông."
+        }
+      ],
+      "collocations": [
+        "introverted personality"
+      ],
+      "synonyms": [
+        "reserved"
+      ],
+      "antonyms": [
+        "extroverted"
+      ],
+      "wordFamily": [
+        {
+          "word": "introversion",
+          "partOfSpeech": "noun",
+          "definition": "tính hướng nội"
+        }
+      ]
+    },
+    {
+      "id": "personality-009",
+      "word": "Extroverted",
+      "phonetic": "/ˈekstrəvɜːtɪd/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Energetic and outgoing in social situations",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "hướng ngoại"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Extroverted",
+      "examples": [
+        {
+          "english": "She is extroverted and talkative.",
+          "vietnamese": "Cô ấy hướng ngoại và hay nói."
+        },
+        {
+          "english": "Extroverted people enjoy social events.",
+          "vietnamese": "Người hướng ngoại thích các sự kiện xã hội."
+        },
+        {
+          "english": "He became more extroverted over time.",
+          "vietnamese": "Anh ấy trở nên hướng ngoại hơn theo thời gian."
+        }
+      ],
+      "collocations": [
+        "extroverted personality"
+      ],
+      "synonyms": [
+        "outgoing"
+      ],
+      "antonyms": [
+        "introverted"
+      ],
+      "wordFamily": [
+        {
+          "word": "extroversion",
+          "partOfSpeech": "noun",
+          "definition": "tính hướng ngoại"
+        }
+      ]
+    },
+    {
+      "id": "personality-010",
+      "word": "Charismatic",
+      "phonetic": "/ˌkærɪzˈmætɪk/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having a strong charm that attracts others",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "lôi cuốn, có sức hút"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Charismatic",
+      "examples": [
+        {
+          "english": "The leader is highly charismatic.",
+          "vietnamese": "Nhà lãnh đạo rất lôi cuốn."
+        },
+        {
+          "english": "Charismatic speakers inspire audiences.",
+          "vietnamese": "Diễn giả lôi cuốn truyền cảm hứng cho khán giả."
+        },
+        {
+          "english": "He has a charismatic personality.",
+          "vietnamese": "Anh ấy có tính cách cuốn hút."
+        }
+      ],
+      "collocations": [
+        "charismatic leader"
+      ],
+      "synonyms": [
+        "charming"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "charisma",
+          "partOfSpeech": "noun",
+          "definition": "sức hút cá nhân"
+        }
+      ]
+    },
+    {
+      "id": "personality-011",
+      "word": "Arrogant",
+      "phonetic": "/ˈærəɡənt/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Behaving as if you are better or more important than others",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "kiêu ngạo"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Arrogant",
+      "examples": [
+        {
+          "english": "His arrogant attitude annoyed people.",
+          "vietnamese": "Thái độ kiêu ngạo của anh ta khiến người khác khó chịu."
+        },
+        {
+          "english": "She sounded arrogant in the meeting.",
+          "vietnamese": "Cô ấy tỏ ra kiêu ngạo trong cuộc họp."
+        },
+        {
+          "english": "Arrogant behavior damages relationships.",
+          "vietnamese": "Hành vi kiêu ngạo làm tổn hại các mối quan hệ."
+        }
+      ],
+      "collocations": [
+        "arrogant tone",
+        "arrogant behavior"
+      ],
+      "synonyms": [
+        "conceited"
+      ],
+      "antonyms": [
+        "humble"
+      ],
+      "wordFamily": [
+        {
+          "word": "arrogance",
+          "partOfSpeech": "noun",
+          "definition": "sự kiêu ngạo"
+        }
+      ]
+    },
+    {
+      "id": "personality-012",
+      "word": "Humble",
+      "phonetic": "/ˈhʌmbl/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Not thinking that you are better than others",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "khiêm tốn"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Humble",
+      "examples": [
+        {
+          "english": "Despite success, she remains humble.",
+          "vietnamese": "Dù thành công, cô ấy vẫn khiêm tốn."
+        },
+        {
+          "english": "He gave a humble response.",
+          "vietnamese": "Anh ấy trả lời một cách khiêm tốn."
+        },
+        {
+          "english": "Humble leaders earn respect.",
+          "vietnamese": "Nhà lãnh đạo khiêm tốn được tôn trọng."
+        }
+      ],
+      "collocations": [
+        "humble attitude"
+      ],
+      "synonyms": [
+        "modest"
+      ],
+      "antonyms": [
+        "arrogant"
+      ],
+      "wordFamily": [
+        {
+          "word": "humility",
+          "partOfSpeech": "noun",
+          "definition": "sự khiêm tốn"
+        }
+      ]
+    },
+    {
+      "id": "personality-013",
+      "word": "Resilient",
+      "phonetic": "/rɪˈzɪlɪənt/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Able to recover quickly from difficulties",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "kiên cường, bền bỉ"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Resilient",
+      "examples": [
+        {
+          "english": "She is resilient in the face of stress.",
+          "vietnamese": "Cô ấy kiên cường trước áp lực."
+        },
+        {
+          "english": "Resilient people adapt quickly.",
+          "vietnamese": "Người kiên cường thích nghi nhanh."
+        },
+        {
+          "english": "Children can be surprisingly resilient.",
+          "vietnamese": "Trẻ em có thể rất kiên cường."
+        }
+      ],
+      "collocations": [
+        "emotionally resilient"
+      ],
+      "synonyms": [
+        "tough"
+      ],
+      "antonyms": [
+        "fragile"
+      ],
+      "wordFamily": [
+        {
+          "word": "resilience",
+          "partOfSpeech": "noun",
+          "definition": "sự kiên cường"
+        }
+      ]
+    },
+    {
+      "id": "personality-014",
+      "word": "Empathetic",
+      "phonetic": "/ˌempəˈθetɪk/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Able to understand and share the feelings of others",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "đồng cảm"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Empathetic",
+      "examples": [
+        {
+          "english": "She is empathetic toward her students.",
+          "vietnamese": "Cô ấy đồng cảm với học sinh."
+        },
+        {
+          "english": "Empathetic leaders listen carefully.",
+          "vietnamese": "Nhà lãnh đạo biết đồng cảm lắng nghe cẩn thận."
+        },
+        {
+          "english": "An empathetic response helps others heal.",
+          "vietnamese": "Phản ứng đồng cảm giúp người khác chữa lành."
+        }
+      ],
+      "collocations": [
+        "empathetic approach"
+      ],
+      "synonyms": [
+        "compassionate"
+      ],
+      "antonyms": [
+        "indifferent"
+      ],
+      "wordFamily": [
+        {
+          "word": "empathy",
+          "partOfSpeech": "noun",
+          "definition": "sự đồng cảm"
+        }
+      ]
+    },
+    {
+      "id": "personality-015",
+      "word": "Manipulative",
+      "phonetic": "/məˈnɪpjʊlətɪv/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Controlling or influencing others in an unfair way",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "thao túng"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Manipulative",
+      "examples": [
+        {
+          "english": "He used manipulative tactics.",
+          "vietnamese": "Anh ta dùng chiến thuật thao túng."
+        },
+        {
+          "english": "Manipulative behavior damages trust.",
+          "vietnamese": "Hành vi thao túng làm mất niềm tin."
+        },
+        {
+          "english": "She recognized the manipulative pattern.",
+          "vietnamese": "Cô ấy nhận ra kiểu thao túng đó."
+        }
+      ],
+      "collocations": [
+        "manipulative behavior"
+      ],
+      "synonyms": [
+        "controlling"
+      ],
+      "antonyms": [
+        "honest"
+      ],
+      "wordFamily": [
+        {
+          "word": "manipulate",
+          "partOfSpeech": "verb",
+          "definition": "thao túng"
+        }
+      ]
+    },
+    {
+      "id": "personality-016",
+      "word": "Decisive",
+      "phonetic": "/dɪˈsaɪsɪv/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Able to make decisions quickly and confidently",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "quyết đoán"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Decisive",
+      "examples": [
+        {
+          "english": "She is a decisive manager.",
+          "vietnamese": "Cô ấy là nhà quản lý quyết đoán."
+        },
+        {
+          "english": "Decisive action saved time.",
+          "vietnamese": "Hành động quyết đoán giúp tiết kiệm thời gian."
+        },
+        {
+          "english": "Leaders must be decisive.",
+          "vietnamese": "Nhà lãnh đạo phải quyết đoán."
+        }
+      ],
+      "collocations": [
+        "decisive action"
+      ],
+      "synonyms": [
+        "determined"
+      ],
+      "antonyms": [
+        "indecisive"
+      ],
+      "wordFamily": [
+        {
+          "word": "decisiveness",
+          "partOfSpeech": "noun",
+          "definition": "sự quyết đoán"
+        }
+      ]
+    },
+    {
+      "id": "personality-017",
+      "word": "Impulsive",
+      "phonetic": "/ɪmˈpʌlsɪv/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Acting quickly without careful thought",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "bốc đồng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Impulsive",
+      "examples": [
+        {
+          "english": "He made an impulsive decision.",
+          "vietnamese": "Anh ấy đưa ra quyết định bốc đồng."
+        },
+        {
+          "english": "Impulsive actions can cause problems.",
+          "vietnamese": "Hành động bốc đồng có thể gây rắc rối."
+        },
+        {
+          "english": "She is impulsive when excited.",
+          "vietnamese": "Cô ấy hay bốc đồng khi phấn khích."
+        }
+      ],
+      "collocations": [
+        "impulsive behavior"
+      ],
+      "synonyms": [
+        "rash"
+      ],
+      "antonyms": [
+        "cautious"
+      ],
+      "wordFamily": [
+        {
+          "word": "impulsiveness",
+          "partOfSpeech": "noun",
+          "definition": "tính bốc đồng"
+        }
+      ]
+    },
+    {
+      "id": "personality-018",
+      "word": "Meticulous",
+      "phonetic": "/məˈtɪkjʊləs/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Paying great attention to details",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "tỉ mỉ, cẩn thận"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Meticulous",
+      "examples": [
+        {
+          "english": "She is meticulous in her work.",
+          "vietnamese": "Cô ấy rất tỉ mỉ trong công việc."
+        },
+        {
+          "english": "Meticulous planning prevents mistakes.",
+          "vietnamese": "Lập kế hoạch tỉ mỉ giúp tránh sai sót."
+        },
+        {
+          "english": "He checked the details meticulously.",
+          "vietnamese": "Anh ấy kiểm tra chi tiết rất kỹ."
+        }
+      ],
+      "collocations": [
+        "meticulous attention"
+      ],
+      "synonyms": [
+        "careful"
+      ],
+      "antonyms": [
+        "careless"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "personality-019",
+      "word": "Assertive",
+      "phonetic": "/əˈsɜːtɪv/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Expressing opinions confidently without being aggressive",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "quả quyết, tự tin bày tỏ"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Assertive",
+      "examples": [
+        {
+          "english": "She is assertive but respectful.",
+          "vietnamese": "Cô ấy quả quyết nhưng tôn trọng người khác."
+        },
+        {
+          "english": "Assertive communication reduces conflict.",
+          "vietnamese": "Giao tiếp quả quyết giảm xung đột."
+        },
+        {
+          "english": "He became more assertive at work.",
+          "vietnamese": "Anh ấy trở nên quả quyết hơn trong công việc."
+        }
+      ],
+      "collocations": [
+        "assertive communication"
+      ],
+      "synonyms": [
+        "confident"
+      ],
+      "antonyms": [
+        "passive"
+      ],
+      "wordFamily": [
+        {
+          "word": "assertiveness",
+          "partOfSpeech": "noun",
+          "definition": "tính quả quyết"
+        }
+      ]
+    },
+    {
+      "id": "personality-020",
+      "word": "Cynical",
+      "phonetic": "/ˈsɪnɪkəl/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Believing that people are motivated mainly by selfish interests",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "hoài nghi, bi quan về động cơ con người"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Cynical",
+      "examples": [
+        {
+          "english": "He has a cynical view of politics.",
+          "vietnamese": "Anh ấy có cái nhìn hoài nghi về chính trị."
+        },
+        {
+          "english": "Cynical comments discouraged the team .",
+          "vietnamese": "Những nhận xét hoài nghi làm nản lòng cả nhóm."
+        },
+        {
+          "english": "She became cynical after many failures.",
+          "vietnamese": "Cô ấy trở nên hoài nghi sau nhiều thất bại."
+        }
+      ],
+      "collocations": [
+        "cynical attitude"
+      ],
+      "synonyms": [
+        "skeptical"
+      ],
+      "antonyms": [
+        "optimistic"
+      ],
+      "wordFamily": [
+        {
+          "word": "cynicism",
+          "partOfSpeech": "noun",
+          "definition": "chủ nghĩa hoài nghi"
+        }
+      ]
+    },
+    {
+      "id": "adj-006",
+      "word": "Intimidating",
+      "phonetic": "/ɪnˈtɪmɪdeɪtɪŋ/ (BrE) | /ɪnˈtɪmɪdeɪtɪŋ/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Making someone feel frightened, nervous, or less confident",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "đáng sợ; gây áp lực, khiến người khác e dè"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Intimidating",
+      "examples": [
+        {
+          "english": "The interview panel looked intimidating at first.",
+          "vietnamese": "Ban phỏng vấn trông khá đáng sợ lúc ban đầu."
+        },
+        {
+          "english": "She found public speaking intimidating.",
+          "vietnamese": "Cô ấy thấy việc nói trước đám đông rất áp lực."
+        },
+        {
+          "english": "His deep voice and serious expression were intimidating.",
+          "vietnamese": "Giọng nói trầm và vẻ mặt nghiêm nghị của anh ấy khiến người khác e dè."
+        }
+      ],
+      "collocations": [
+        "intimidating presence",
+        "intimidating figure",
+        "find something intimidating",
+        "seem intimidating"
+      ],
+      "synonyms": [
+        "frightening",
+        "daunting",
+        "threatening"
+      ],
+      "antonyms": [
+        "reassuring",
+        "comforting"
+      ],
+      "wordFamily": [
+        {
+          "word": "intimidate",
+          "partOfSpeech": "verb",
+          "definition": "đe dọa; làm ai đó sợ hãi hoặc mất tự tin"
+        },
+        {
+          "word": "intimidation",
+          "partOfSpeech": "noun",
+          "definition": "sự đe dọa; sự hăm dọa"
+        }
+      ]
+    },
+    {
+      "id": "adj-007",
+      "word": "Timid",
+      "phonetic": "/ˈtɪmɪd/ (BrE) | /ˈtɪmɪd/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Shy and lacking confidence, especially in social situations",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "nhút nhát, rụt rè"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Timid",
+      "examples": [
+        {
+          "english": "He was too timid to speak up during the meeting.",
+          "vietnamese": "Anh ấy quá rụt rè để lên tiếng trong cuộc họp."
+        },
+        {
+          "english": "The timid child hid behind her mother.",
+          "vietnamese": "Đứa trẻ nhút nhát trốn sau lưng mẹ."
+        },
+        {
+          "english": "She gave a timid smile.",
+          "vietnamese": "Cô ấy nở một nụ cười rụt rè."
+        }
+      ],
+      "collocations": [
+        "timid person",
+        "timid smile",
+        "naturally timid"
+      ],
+      "synonyms": [
+        "shy",
+        "bashful",
+        "meek"
+      ],
+      "antonyms": [
+        "confident",
+        "bold"
+      ],
+      "wordFamily": [
+        {
+          "word": "timidity",
+          "partOfSpeech": "noun",
+          "definition": "sự nhút nhát, rụt rè"
+        }
+      ]
+    },
+    {
+      "id": "adj-008",
+      "word": "Self-assured",
+      "phonetic": "/ˌselfəˈʃʊəd/ (BrE) | /ˌselfəˈʃʊrd/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Confident in one’s own abilities or character",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "tự tin, vững vàng"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Self-assured",
+      "examples": [
+        {
+          "english": "She sounded calm and self-assured during the presentation.",
+          "vietnamese": "Cô ấy nói chuyện bình tĩnh và đầy tự tin trong buổi thuyết trình."
+        },
+        {
+          "english": "His self-assured manner impressed the interviewers.",
+          "vietnamese": "Phong thái tự tin của anh ấy gây ấn tượng với ban phỏng vấn."
+        },
+        {
+          "english": "A self-assured leader inspires trust.",
+          "vietnamese": "Một nhà lãnh đạo tự tin sẽ truyền được niềm tin."
+        }
+      ],
+      "collocations": [
+        "self-assured manner",
+        "self-assured voice",
+        "calm and self-assured"
+      ],
+      "synonyms": [
+        "confident",
+        "self-confident"
+      ],
+      "antonyms": [
+        "insecure",
+        "uncertain"
+      ],
+      "wordFamily": [
+        {
+          "word": "self-assurance",
+          "partOfSpeech": "noun",
+          "definition": "sự tự tin"
+        }
+      ]
+    },
+    {
+      "id": "adj-009",
+      "word": "Pessimistic",
+      "phonetic": "/ˌpesɪˈmɪstɪk/ (BrE) | /ˌpesɪˈmɪstɪk/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Expecting bad things to happen or believing that a situation will turn out badly",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "bi quan"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Pessimistic",
+      "examples": [
+        {
+          "english": "He is pessimistic about the company’s future.",
+          "vietnamese": "Anh ấy bi quan về tương lai của công ty."
+        },
+        {
+          "english": "She took a pessimistic view of the situation.",
+          "vietnamese": "Cô ấy nhìn nhận tình huống một cách bi quan."
+        },
+        {
+          "english": "Pessimistic attitudes can affect morale.",
+          "vietnamese": "Thái độ bi quan có thể ảnh hưởng đến tinh thần."
+        }
+      ],
+      "collocations": [
+        "pessimistic outlook",
+        "pessimistic view",
+        "deeply pessimistic"
+      ],
+      "synonyms": [
+        "negative",
+        "gloomy"
+      ],
+      "antonyms": [
+        "optimistic",
+        "hopeful"
+      ],
+      "wordFamily": [
+        {
+          "word": "pessimist",
+          "partOfSpeech": "noun",
+          "definition": "người bi quan"
+        },
+        {
+          "word": "pessimism",
+          "partOfSpeech": "noun",
+          "definition": "chủ nghĩa bi quan"
+        }
+      ]
+    },
+    {
+      "id": "noun-007",
+      "word": "Solitude",
+      "phonetic": "/ˈsɒlɪtjuːd/ (BrE) | /ˈsɑːlɪtuːd/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The state of being alone, especially when it is peaceful or pleasant",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "sự cô độc; sự ở một mình"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Solitude",
+      "examples": [
+        {
+          "english": "She enjoys the solitude of early mornings.",
+          "vietnamese": "Cô ấy tận hưởng sự yên tĩnh khi ở một mình vào sáng sớm."
+        },
+        {
+          "english": "He went into solitude to reflect on his life.",
+          "vietnamese": "Anh ấy tìm đến sự cô độc để suy ngẫm về cuộc sống."
+        },
+        {
+          "english": "The cabin offers complete solitude.",
+          "vietnamese": "Căn nhà gỗ mang lại sự tách biệt hoàn toàn."
+        }
+      ],
+      "collocations": [
+        "seek solitude",
+        "live in solitude",
+        "peaceful solitude"
+      ],
+      "synonyms": [
+        "isolation",
+        "seclusion"
+      ],
+      "antonyms": [
+        "companionship",
+        "company"
+      ],
+      "wordFamily": [
+        {
+          "word": "solitary",
+          "partOfSpeech": "adjective",
+          "definition": "đơn độc, một mình"
+        }
+      ]
+    },
+    {
+      "id": "adj-010",
+      "word": "Conceited",
+      "phonetic": "/kənˈsiːtɪd/ (BrE) | /kənˈsiːtɪd/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Too proud of oneself and one’s achievements",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "tự phụ, tự cao"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Conceited",
+      "examples": [
+        {
+          "english": "He became conceited after winning several awards.",
+          "vietnamese": "Anh ta trở nên tự phụ sau khi giành được nhiều giải thưởng."
+        },
+        {
+          "english": "People found her conceited and hard to work with.",
+          "vietnamese": "Mọi người thấy cô ấy tự cao và khó hợp tác."
+        },
+        {
+          "english": "A conceited attitude can damage relationships.",
+          "vietnamese": "Thái độ tự phụ có thể làm tổn hại các mối quan hệ."
+        }
+      ],
+      "collocations": [
+        "conceited attitude",
+        "sound conceited",
+        "overly conceited"
+      ],
+      "synonyms": [
+        "arrogant",
+        "vain"
+      ],
+      "antonyms": [
+        "modest",
+        "humble"
+      ],
+      "wordFamily": [
+        {
+          "word": "conceit",
+          "partOfSpeech": "noun",
+          "definition": "sự tự phụ, tự cao"
+        }
+      ]
+    }
+  ]
+}

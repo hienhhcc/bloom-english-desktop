@@ -1,0 +1,778 @@
+{
+  "topicId": "Different kinds of jobs",
+  "items": [
+    {
+      "id": "job-001",
+      "word": "Occupation",
+      "phonetic": "/ˌɒkjʊˈpeɪʃn/ (BrE) | /ˌɑːkjəˈpeɪʃn/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person's job or profession",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Nghề nghiệp của một người"
+        },
+        {
+          "type": "noun",
+          "definition": "sự chiếm đóng, sự chiếm giữ (đất đai, tòa nhà)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Occupation",
+      "examples": [
+        {
+          "english": "Her occupation is listed as software engineer. ",
+          "vietnamese": "Nghề nghiệp của cô ấy được ghi là kỹ sư phần mềm."
+        },
+        {
+          "english": "The occupation of the city lasted several years.",
+          "vietnamese": "Sự chiếm đóng thành phố kéo dài trong nhiều năm."
+        },
+        {
+          "english": "The occupation of the territory continued for over a decade.",
+          "vietnamese": "Sự chiếm đóng lãnh thổ đó kéo dài hơn một thập kỷ."
+        }
+      ],
+      "collocations": [
+        "full-time occupation",
+        "main occupation",
+        "change one's occupation",
+        "military occupation"
+      ],
+      "synonyms": [
+        "job",
+        "profession",
+        "career"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "occupy",
+          "partOfSpeech": "verb",
+          "definition": "chiếm giữ; làm cho bận rộn"
+        },
+        {
+          "word": "occupational",
+          "partOfSpeech": "adjective",
+          "definition": "thuộc nghề nghiệp"
+        },
+        {
+          "word": "occupant",
+          "partOfSpeech": "noun",
+          "definition": "người cư trú, người chiếm giữ"
+        }
+      ]
+    },
+    {
+      "id": "job-002",
+      "word": "Industry",
+      "phonetic": "/ɪndʊsˈtriː/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A branch of economic activity that involves the production and sale of goods and services",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Một ngành kinh tế là hoạt động sản xuất và bán hàng hóa, dịch vụ"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Industry",
+      "examples": [
+        {
+          "english": "The automotive industry is growing rapidly.",
+          "vietnamese": "Công nghiệp ô tô đang phát triển nhanh chóng."
+        },
+        {
+          "english": "She works in the IT industry.",
+          "vietnamese": "Cô làm việc trong ngành công nghệ thông tin."
+        },
+        {
+          "english": "He comes from an industrial family.",
+          "vietnamese": "Anh ấy đến từ một gia đình có lịch sử sản xuất."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "Manufacturing",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "Production",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "job-003",
+      "word": "Executive",
+      "phonetic": "/ɪɡˈzekjʊtɪv/ (BrE) | /ɪɡˈzɛkjətɪv/ (AmE)",
+      "partOfSpeech": "adjective, noun",
+      "definitionEnglish": "refers to a person with senior managerial responsibility in an organization, or relating to the act of managing or carrying out decisions",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "giám đốc điều hành, lãnh đạo cấp cao"
+        },
+        {
+          "type": "adjective",
+          "definition": "thuộc về điều hành, quản lý"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Executive",
+      "examples": [
+        {
+          "english": "He is an executive at a large corporation.",
+          "vietnamese": "Anh ấy là một người lãnh đạo cấp cao của một công ty lớn."
+        },
+        {
+          "english": "She works as an executive director.",
+          "vietnamese": "Cô làm việc như một tổng giám đốc."
+        },
+        {
+          "english": "The company's executive team is responsible for its strategy.",
+          "vietnamese": "Đội ngũ lãnh đạo của công ty chịu trách nhiệm về chiến lược của nó."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "Management",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "Leadership",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "job-004",
+      "word": "Managerial",
+      "phonetic": "/ˌmænəˈdʒɪəriəl/ (BrE) | /ˌmænəˈdʒɪriəl/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Refers to relating to the responsibilities, skills, or functions involved in managing people, resources, or organizations",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Phản ứng với việc kiểm soát và chỉ đạo của một công ty hoặc tổ chức"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Managerial",
+      "examples": [
+        {
+          "english": "She gained valuable managerial experience while leading the project. ",
+          "vietnamese": "Cô ấy tích lũy được kinh nghiệm quản lý quý giá khi dẫn dắt dự án. "
+        },
+        {
+          "english": "The position requires strong managerial skills as well as technical knowledge.",
+          "vietnamese": "Vị trí này yêu cầu kỹ năng quản lý vững cùng với kiến thức chuyên môn. "
+        },
+        {
+          "english": "He moved from a technical role into a managerial position last year.  ",
+          "vietnamese": "Anh ấy đã chuyển từ vai trò kỹ thuật sang vị trí quản lý vào năm ngoái."
+        }
+      ],
+      "collocations": [
+        "managerial skills",
+        "managerial role",
+        "managerial responsibilities",
+        "managerial functions"
+      ],
+      "synonyms": [
+        "administrative",
+        "leadership",
+        "management"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "Manage",
+          "partOfSpeech": "verb",
+          "definition": "quản lý, quản trị"
+        },
+        {
+          "word": "Manager",
+          "partOfSpeech": "noun",
+          "definition": "người quản lý"
+        }
+      ]
+    },
+    {
+      "id": "job-005",
+      "word": "Professional",
+      "phonetic": "/prəˈfeʃənl/ (BrE) | /prəˈfɛʃənl/ (AmE)",
+      "partOfSpeech": "adjective, noun",
+      "definitionEnglish": "refers to having the skills, standards, and conduct expected of a trained or qualified person, or a person who works in a skilled occupation",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "(adj) chuyên nghiệp, có trình độ cao, mang tính nghề nghiệp"
+        },
+        {
+          "type": "noun",
+          "definition": "(n) người làm việc chuyên môn, người hành nghề chuyên nghiệp"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Professional",
+      "examples": [
+        {
+          "english": "She is a professional musician.",
+          "vietnamese": "Cô là một nghệ sĩ âm nhạc chuyên nghiệp."
+        },
+        {
+          "english": "He works as a professional engineer.",
+          "vietnamese": "Anh ấy làm việc như một kỹ sư chuyên nghiệp."
+        },
+        {
+          "english": "The company requires professional qualifications.",
+          "vietnamese": "Công ty yêu cầu giấy phép chuyên môn."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "Expertise",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "Specialization",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "job-006",
+      "word": "Office",
+      "phonetic": "/ˈɒfɪs/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A place where work or business is carried out",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Một nơi làm việc hoặc kinh doanh"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Office",
+      "examples": [
+        {
+          "english": "She works in the office.",
+          "vietnamese": "Cô làm việc trong văn phòng."
+        },
+        {
+          "english": "He comes from an office building.",
+          "vietnamese": "Anh ấy đến từ một tòa nhà văn phòng."
+        },
+        {
+          "english": "The office is open on weekdays.",
+          "vietnamese": "Văn phòng đang mở cửa vào các ngày làm việc."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "Workplace",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "Enterprise",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "job-007",
+      "word": "Skilled",
+      "phonetic": "/skɪləd/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having or showing a high level of skill or expertise",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "Có kỹ năng hoặc khả năng cao"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Skilled",
+      "examples": [
+        {
+          "english": "She is a skilled dancer.",
+          "vietnamese": "Cô là một vũ công chuyên nghiệp."
+        },
+        {
+          "english": "He has been trained in multiple skills.",
+          "vietnamese": "Anh ấy đã được đào tạo nhiều kỹ năng."
+        },
+        {
+          "english": "The company requires skilled workers.",
+          "vietnamese": "Công ty yêu cầu người lao động có kỹ năng cao."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "Expert",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "Specialist",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "job-008",
+      "word": "Unskilled",
+      "phonetic": "/ʌnskilɪd/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Lacking skill or expertise",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "Không có kỹ năng hoặc khả năng"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Unskilled",
+      "examples": [
+        {
+          "english": "He is an unskilled worker.",
+          "vietnamese": "Anh ấy là một người lao động không có kỹ năng."
+        },
+        {
+          "english": "The company requires unskilled labor.",
+          "vietnamese": "Công ty yêu cầu lao động không có kỹ năng."
+        },
+        {
+          "english": "She is an unskilled employee.",
+          "vietnamese": "Cô là một nhân viên không có kỹ năng."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "Novice",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "Amateur",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "job-009",
+      "word": "Career",
+      "phonetic": "/ˈkɛəriər/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person's occupation or profession, especially over a long period of time",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "Một nghề nghiệp của một người trong thời gian dài"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Career",
+      "examples": [
+        {
+          "english": "He has a successful career in finance.",
+          "vietnamese": "Anh ấy có một sự nghiệp thành công trong lĩnh vực tài chính."
+        },
+        {
+          "english": "She is pursuing a career in medicine.",
+          "vietnamese": "Cô đang theo đuổi sự nghiệp trong y tế."
+        },
+        {
+          "english": "The company offers career development programs.",
+          "vietnamese": "Công ty cung cấp các chương trình phát triển sự nghiệp."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "Occupation",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "Profession",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "job-010",
+      "word": "Vocation",
+      "phonetic": "/vəˈkoʊʃən/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person's natural or chosen calling, especially their work or profession",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "nghề nghiệp, thiên hướng nghề nghiệp, (đặc biệt) ơn gọi, sự kêu gọi theo đuổi một nghề mang tính sứ mệnh (tôn giáo, giáo dục, y tế, v.v.)"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Vocation",
+      "examples": [
+        {
+          "english": "She is following her vocation as a teacher.",
+          "vietnamese": "Cô đang theo đuổi sự nghiệp giáo viên."
+        },
+        {
+          "english": "He has found his vocation in software development.",
+          "vietnamese": "Anh ấy đã tìm thấy sự nghiệp của mình trong phát triển phần mềm."
+        },
+        {
+          "english": "The company encourages its employees to find their vocation.",
+          "vietnamese": "Công ty khuyến khích nhân viên tìm được nghề nghiệp của họ."
+        }
+      ],
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "Calling",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "Mission",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "word": "resilient",
+      "phonetic": "/rɪˈzɪlɪənt/ (BrE) | /rɪˈzɪljənt/ (AmE) ",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "capable of recovering quickly from difficulties; able to withstand or bounce back from adverse conditions;",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "kiên cường, có khả năng phục hồi nhanh"
+        },
+        {
+          "type": "adjective",
+          "definition": "(về vật liệu) đàn hồi, không dễ bị hư hỏng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=RESILIENT",
+      "examples": [
+        {
+          "english": "Despite the challenges, she remained resilient and kept pushing forward.",
+          "vietnamese": "Dù gặp nhiều khó khăn, cô vẫn dẻo dai và tiếp tục nỗ lực."
+        },
+        {
+          "english": "The company’s financial resilience has allowed it to weather the economic downturn.",
+          "vietnamese": "Sự dẻo dai về tài chính của công ty đã giúp nó vượt qua cuộc suy thoái kinh tế."
+        },
+        {
+          "english": "The company proved resilient during the economic downturn.  ",
+          "vietnamese": "Công ty đã chứng tỏ khả năng chống chịu tốt trong giai đoạn suy thoái kinh tế."
+        }
+      ],
+      "collocations": [
+        "resilience",
+        "financially resilient"
+      ],
+      "synonyms": [
+        "strong-willed",
+        "tough",
+        "tenacious"
+      ],
+      "antonyms": [
+        "fragile",
+        "vulnerable",
+        "brittle"
+      ],
+      "wordFamily": [
+        {
+          "word": "resiliently",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "word": "resiliency",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "word": "pragmatic",
+      "phonetic": "/ˈpræɡmætɪk/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "concerned with practical aspects rather than theoretical considerations; realistic and sensible in a practical situation;",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "thực tế, hướng tới kết quả"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=PRAGMATIC",
+      "examples": [
+        {
+          "english": "He has a pragmatic approach to problem-solving, focusing on practical solutions.",
+          "vietnamese": "Anh ấy có cách tiếp cận thực tế khi giải quyết vấn đề, tập trung vào các phương án thực tế."
+        },
+        {
+          "english": "The company took a pragmatic stance and agreed to the terms of the contract without further negotiation.",
+          "vietnamese": "Công ty đã chấp nhận điều khoản hợp đồng một cách thực tế và không cần đàm phán thêm."
+        },
+        {
+          "english": "Her pragmatic attitude helped her navigate through difficult situations with ease.",
+          "vietnamese": "Quan điểm thực tế của cô ấy giúp cô dễ dàng vượt qua những tình huống khó khăn."
+        }
+      ],
+      "collocations": [
+        "pragmatic solution",
+        "pragmatic thinking"
+      ],
+      "synonyms": [
+        "practical",
+        "realistic",
+        "down-to-earth"
+      ],
+      "antonyms": [
+        "idealistic",
+        "theoretical",
+        "utopian"
+      ],
+      "wordFamily": [
+        {
+          "word": "pragmatically",
+          "partOfSpeech": "adverb"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "word": "elaborate",
+      "phonetic": "/ɪlˈæbəreɪt/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "carefully detailed and complex; providing much detail or information;",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "chi tiết, phức tạp"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=ELOBRATE",
+      "examples": [
+        {
+          "english": "The architect designed an elaborate building with intricate details.",
+          "vietnamese": "Kỹ sư đã thiết kế một tòa nhà phức tạp với chi tiết tinh xảo."
+        },
+        {
+          "english": "She gave an elaborate explanation of the complex problem to make sure everyone understood.",
+          "vietnamese": "Cô ấy đã giải thích công phu về vấn đề phức tạp để đảm bảo rằng mọi người hiểu rõ."
+        },
+        {
+          "english": "The menu offers a wide range of elaborate dishes for the discerning diner.",
+          "vietnamese": "Meny cung cấp một loạt các món ăn chi tiết cho khách hàng tinh tế."
+        }
+      ],
+      "collocations": [
+        "elaborate explanation",
+        "elaborate design"
+      ],
+      "synonyms": [
+        "detailed",
+        "complex",
+        "elaborated"
+      ],
+      "antonyms": [
+        "simple",
+        "brief",
+        "bare-bones"
+      ],
+      "wordFamily": [
+        {
+          "word": "elaborately",
+          "partOfSpeech": "adverb"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "word": "astonish",
+      "phonetic": "/ˈæstənɪʃ/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "to surprise (someone) greatly; to cause wonder or amazement in (someone); to awe or impress (someone)",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "kinh ngạc, gây ấn tượng mạnh"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=astonish",
+      "examples": [
+        {
+          "english": "The magician's tricks always astonish the audience.",
+          "vietnamese": "Bí thuật của nghệ sĩ luôn gây ấn tượng mạnh cho khán giả."
+        },
+        {
+          "english": "She was astonished by the beauty of the scenery.",
+          "vietnamese": "Cảnh quan đẹp mê hồn đã kinh ngạc cô gái ấy."
+        },
+        {
+          "english": "The news astonished him so much that he couldn't speak for a moment.",
+          "vietnamese": "Tin tức đó gây ấn tượng mạnh đến nỗi anh ta không nói được trong giây lát."
+        }
+      ],
+      "collocations": [
+        "astonish sb",
+        "be astonished by sth"
+      ],
+      "synonyms": [
+        "amaze",
+        "surprise",
+        "wonder"
+      ],
+      "antonyms": [
+        "disappoint",
+        "deceit"
+      ],
+      "wordFamily": [
+        {
+          "word": "astonishment",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "astound",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "word": "storey",
+      "phonetic": "/ˈstɔːri/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "a level of a building; a story in a book or film",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "một tầng của tòa nhà"
+        }
+      ],
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=storey",
+      "examples": [
+        {
+          "english": "The building has ten storeys.",
+          "vietnamese": "Tòa nhà này có mười tầng."
+        },
+        {
+          "english": "In the story, there were three main storeys: past, present, and future.",
+          "vietnamese": "Trong câu chuyện, có ba tầng chính: quá khứ, hiện tại và tương lai."
+        },
+        {
+          "english": "I live on the third storey of this apartment building.",
+          "vietnamese": "Tôi ở tầng thứ ba của tòa nhà chung cư này."
+        }
+      ],
+      "collocations": [
+        "the first/last storey",
+        "ground floor (storey)"
+      ],
+      "synonyms": [
+        "floor",
+        "level"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "storeroom",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "storytelling",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "lame1",
+      "word": "lame",
+      "phonetic": "/leɪm/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Incompetent or ineffective; not impressive, weak, or unsatisfactory;",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "què, đi khập khiễng (do chấn thương ở chân)"
+        },
+        {
+          "type": "adjective",
+          "definition": "(thân mật/không trang trọng) tệ, nhạt nhẽo, thiếu thuyết phục"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=LAME",
+      "examples": [
+        {
+          "english": "His argument was so lame that everyone laughed.",
+          "vietnamese": "Lời tranh luận thiếu thuyết phục đến nỗi mọi người cười."
+        },
+        {
+          "english": "The horse became lame after the accident.",
+          "vietnamese": "Con ngựa bị què sau vụ tai nạn."
+        },
+        {
+          "english": "That excuse sounds pretty lame.",
+          "vietnamese": "Lý do đó nghe khá là không thuyết phục."
+        }
+      ],
+      "collocations": [
+        "go lame",
+        "badly lame",
+        "a lame excuse",
+        "sound lame"
+      ],
+      "synonyms": [
+        "weak",
+        "incompetent",
+        "unsatisfactory"
+      ],
+      "antonyms": [
+        "effective",
+        "impressive",
+        "satisfactory"
+      ],
+      "wordFamily": [
+        {
+          "word": "lamely",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "word": "lamelegacy",
+          "partOfSpeech": "noun"
+        }
+      ]
+    }
+  ]
+}

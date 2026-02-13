@@ -1,0 +1,599 @@
+{
+  "topicId": "family",
+  "items": [
+    {
+      "id": "family-001",
+      "word": "sibling",
+      "phonetic": "/ˈsɪblɪŋ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A brother or sister",
+      "definitionVietnamese": "Anh chị em ruột - anh trai, chị gái, em trai hoặc em gái",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Sibling",
+      "examples": [
+        {
+          "english": "Do you have any siblings?",
+          "vietnamese": "Bạn có anh chị em ruột không?"
+        },
+        {
+          "english": "My siblings and I are very close.",
+          "vietnamese": "Anh chị em tôi và tôi rất thân thiết."
+        },
+        {
+          "english": "Siblings often share similar interests and hobbies.",
+          "vietnamese": "Anh chị em ruột thường có sở thích và thú vui giống nhau."
+        }
+      ],
+      "collocations": ["older sibling", "younger sibling", "sibling rivalry"],
+      "synonyms": ["brother", "sister"],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "family-002",
+      "word": "nephew",
+      "phonetic": "/ˈnefjuː/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The son of your brother or sister",
+      "definitionVietnamese": "Cháu trai - con trai của anh chị em bạn",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Nephew",
+      "examples": [
+        {
+          "english": "My nephew just started kindergarten.",
+          "vietnamese": "Cháu trai tôi vừa bắt đầu đi mẫu giáo."
+        },
+        {
+          "english": "I'm taking my nephew to the zoo this weekend.",
+          "vietnamese": "Cuối tuần này tôi sẽ đưa cháu trai đi sở thú."
+        },
+        {
+          "english": "My nephew wants to be an astronaut when he grows up.",
+          "vietnamese": "Cháu trai tôi muốn trở thành phi hành gia khi lớn lên."
+        }
+      ],
+      "collocations": ["favorite nephew", "young nephew"],
+      "synonyms": [],
+      "antonyms": ["niece"],
+      "wordFamily": []
+    },
+    {
+      "id": "family-003",
+      "word": "niece",
+      "phonetic": "/niːs/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The daughter of your brother or sister",
+      "definitionVietnamese": "Cháu gái - con gái của anh chị em bạn",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Niece",
+      "examples": [
+        {
+          "english": "My niece is learning to play the piano.",
+          "vietnamese": "Cháu gái tôi đang học chơi piano."
+        },
+        {
+          "english": "I bought a birthday gift for my niece.",
+          "vietnamese": "Tôi mua quà sinh nhật cho cháu gái."
+        },
+        {
+          "english": "My niece loves reading fairy tales before bedtime.",
+          "vietnamese": "Cháu gái tôi thích đọc truyện cổ tích trước khi đi ngủ."
+        }
+      ],
+      "collocations": ["favorite niece", "young niece"],
+      "synonyms": [],
+      "antonyms": ["nephew"],
+      "wordFamily": []
+    },
+    {
+      "id": "family-004",
+      "word": "ancestor",
+      "phonetic": "/ˈænsestə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person in your family who lived a long time before you",
+      "definitionVietnamese": "Tổ tiên - người trong gia đình sống rất lâu trước bạn",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Ancestor",
+      "examples": [
+        {
+          "english": "My ancestors came from Ireland.",
+          "vietnamese": "Tổ tiên tôi đến từ Ireland."
+        },
+        {
+          "english": "We honor our ancestors during the festival.",
+          "vietnamese": "Chúng tôi tôn vinh tổ tiên trong lễ hội."
+        },
+        {
+          "english": "Scientists discovered that our ancestors lived in caves thousands of years ago.",
+          "vietnamese": "Các nhà khoa học phát hiện rằng tổ tiên chúng ta sống trong hang động hàng nghìn năm trước."
+        }
+      ],
+      "collocations": ["distant ancestor", "common ancestor", "honor ancestors"],
+      "synonyms": ["forebear", "forefather"],
+      "antonyms": ["descendant"],
+      "wordFamily": [
+        { "word": "ancestral", "partOfSpeech": "adjective" },
+        { "word": "ancestry", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "family-005",
+      "word": "descendant",
+      "phonetic": "/dɪˈsendənt/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who is related to someone who lived in the past",
+      "definitionVietnamese": "Hậu duệ - người có quan hệ với ai đó sống trong quá khứ",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Descendant",
+      "examples": [
+        {
+          "english": "She is a descendant of a famous poet.",
+          "vietnamese": "Cô ấy là hậu duệ của một nhà thơ nổi tiếng."
+        },
+        {
+          "english": "The descendants of the original settlers still live here.",
+          "vietnamese": "Hậu duệ của những người định cư ban đầu vẫn sống ở đây."
+        },
+        {
+          "english": "Many descendants gathered to celebrate their family history.",
+          "vietnamese": "Nhiều hậu duệ tập trung để kỷ niệm lịch sử gia đình họ."
+        }
+      ],
+      "collocations": ["direct descendant", "living descendant"],
+      "synonyms": ["offspring", "heir"],
+      "antonyms": ["ancestor"],
+      "wordFamily": [
+        { "word": "descend", "partOfSpeech": "verb" }
+      ]
+    },
+    {
+      "id": "family-006",
+      "word": "generation",
+      "phonetic": "/ˌdʒenəˈreɪʃn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "All the people born and living at about the same time",
+      "definitionVietnamese": "Thế hệ - tất cả những người sinh ra và sống cùng khoảng thời gian",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Generation",
+      "examples": [
+        {
+          "english": "Three generations of my family live together.",
+          "vietnamese": "Ba thế hệ gia đình tôi sống cùng nhau."
+        },
+        {
+          "english": "Each generation has different values.",
+          "vietnamese": "Mỗi thế hệ có những giá trị khác nhau."
+        },
+        {
+          "english": "This recipe has been passed down through generations.",
+          "vietnamese": "Công thức này đã được truyền qua nhiều thế hệ."
+        }
+      ],
+      "collocations": ["younger generation", "older generation", "future generation"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "generational", "partOfSpeech": "adjective" }
+      ]
+    },
+    {
+      "id": "family-007",
+      "word": "relative",
+      "phonetic": "/ˈrelətɪv/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A member of your family",
+      "definitionVietnamese": "Người thân - thành viên trong gia đình bạn",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Relative",
+      "examples": [
+        {
+          "english": "I'm visiting relatives this weekend.",
+          "vietnamese": "Cuối tuần này tôi sẽ thăm họ hàng."
+        },
+        {
+          "english": "Most of my relatives live in the countryside.",
+          "vietnamese": "Hầu hết họ hàng tôi sống ở nông thôn."
+        },
+        {
+          "english": "We invited all our relatives to the wedding ceremony.",
+          "vietnamese": "Chúng tôi mời tất cả họ hàng đến lễ cưới."
+        }
+      ],
+      "collocations": ["close relative", "distant relative", "blood relative"],
+      "synonyms": ["family member", "kin"],
+      "antonyms": ["stranger"],
+      "wordFamily": [
+        { "word": "relation", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "family-008",
+      "word": "spouse",
+      "phonetic": "/spaʊs/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A husband or wife",
+      "definitionVietnamese": "Vợ/chồng - người bạn đời",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Spouse",
+      "examples": [
+        {
+          "english": "Please include your spouse's name on the form.",
+          "vietnamese": "Xin hãy ghi tên vợ/chồng trong mẫu đơn."
+        },
+        {
+          "english": "My spouse and I have been married for 10 years.",
+          "vietnamese": "Vợ/chồng tôi và tôi đã kết hôn được 10 năm."
+        },
+        {
+          "english": "A supportive spouse can help you achieve your goals.",
+          "vietnamese": "Một người bạn đời ủng hộ có thể giúp bạn đạt được mục tiêu."
+        }
+      ],
+      "collocations": ["loving spouse", "former spouse"],
+      "synonyms": ["partner", "husband", "wife"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "spousal", "partOfSpeech": "adjective" }
+      ]
+    },
+    {
+      "id": "family-009",
+      "word": "stepmother",
+      "phonetic": "/ˈstepmʌðə/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The woman who is married to your father but is not your biological mother",
+      "definitionVietnamese": "Mẹ kế - người phụ nữ kết hôn với bố bạn nhưng không phải mẹ ruột",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Stepmother",
+      "examples": [
+        {
+          "english": "My stepmother has always been kind to me.",
+          "vietnamese": "Mẹ kế của tôi luôn tốt bụng với tôi."
+        },
+        {
+          "english": "She became my stepmother when I was five.",
+          "vietnamese": "Bà ấy trở thành mẹ kế của tôi khi tôi năm tuổi."
+        },
+        {
+          "english": "My stepmother taught me how to cook traditional dishes.",
+          "vietnamese": "Mẹ kế dạy tôi cách nấu các món ăn truyền thống."
+        }
+      ],
+      "collocations": ["loving stepmother", "wicked stepmother"],
+      "synonyms": [],
+      "antonyms": ["biological mother"],
+      "wordFamily": [
+        { "word": "stepfather", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "family-010",
+      "word": "in-law",
+      "phonetic": "/ˈɪnlɔː/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A relative by marriage",
+      "definitionVietnamese": "Họ hàng bên vợ/chồng - người thân thông qua hôn nhân",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=In-Law",
+      "examples": [
+        {
+          "english": "I get along well with my in-laws.",
+          "vietnamese": "Tôi hòa hợp với họ hàng bên vợ/chồng."
+        },
+        {
+          "english": "My mother-in-law is visiting next week.",
+          "vietnamese": "Mẹ chồng/mẹ vợ tôi sẽ đến thăm tuần sau."
+        },
+        {
+          "english": "We spend holidays with both our families and in-laws.",
+          "vietnamese": "Chúng tôi đón lễ với cả gia đình và họ hàng bên vợ/chồng."
+        }
+      ],
+      "collocations": ["mother-in-law", "father-in-law", "sister-in-law"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "family-011",
+      "word": "orphan",
+      "phonetic": "/ˈɔːfn/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A child whose parents are dead",
+      "definitionVietnamese": "Trẻ mồ côi - đứa trẻ có bố mẹ đã mất",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Orphan",
+      "examples": [
+        {
+          "english": "The charity helps orphans find loving families.",
+          "vietnamese": "Tổ chức từ thiện giúp trẻ mồ côi tìm gia đình yêu thương."
+        },
+        {
+          "english": "She was orphaned at a young age.",
+          "vietnamese": "Cô ấy mồ côi từ nhỏ."
+        },
+        {
+          "english": "The orphan was raised by his grandparents with great love.",
+          "vietnamese": "Đứa trẻ mồ côi được ông bà nuôi dưỡng với tình yêu thương lớn lao."
+        }
+      ],
+      "collocations": ["war orphan", "orphan child", "orphanage"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "orphanage", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "family-012",
+      "word": "guardian",
+      "phonetic": "/ˈɡɑːdiən/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who is legally responsible for taking care of a child",
+      "definitionVietnamese": "Người giám hộ - người có trách nhiệm pháp lý chăm sóc một đứa trẻ",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Guardian",
+      "examples": [
+        {
+          "english": "My uncle became my legal guardian.",
+          "vietnamese": "Chú tôi trở thành người giám hộ hợp pháp của tôi."
+        },
+        {
+          "english": "Parents or guardians must sign the form.",
+          "vietnamese": "Cha mẹ hoặc người giám hộ phải ký vào mẫu đơn."
+        },
+        {
+          "english": "The guardian made sure the children received a good education.",
+          "vietnamese": "Người giám hộ đảm bảo rằng các em nhận được nền giáo dục tốt."
+        }
+      ],
+      "collocations": ["legal guardian", "appointed guardian"],
+      "synonyms": ["caretaker", "custodian"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "guardianship", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "family-013",
+      "word": "adopt",
+      "phonetic": "/əˈdɒpt/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To legally take another person's child into your family",
+      "definitionVietnamese": "Nhận nuôi - đưa con của người khác vào gia đình bạn một cách hợp pháp",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Adopt",
+      "examples": [
+        {
+          "english": "They decided to adopt a child from Vietnam.",
+          "vietnamese": "Họ quyết định nhận nuôi một đứa trẻ từ Việt Nam."
+        },
+        {
+          "english": "My parents adopted me when I was a baby.",
+          "vietnamese": "Bố mẹ tôi nhận nuôi tôi khi tôi còn bé."
+        },
+        {
+          "english": "The couple hopes to adopt a second child next year.",
+          "vietnamese": "Cặp vợ chồng hy vọng sẽ nhận nuôi đứa con thứ hai vào năm tới."
+        }
+      ],
+      "collocations": ["adopt a child", "adopt internationally", "adoption process"],
+      "synonyms": ["take in"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "adoption", "partOfSpeech": "noun" },
+        { "word": "adopted", "partOfSpeech": "adjective" },
+        { "word": "adoptive", "partOfSpeech": "adjective" }
+      ]
+    },
+    {
+      "id": "family-014",
+      "word": "inherit",
+      "phonetic": "/ɪnˈherɪt/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To receive money, property, or a title from someone who has died",
+      "definitionVietnamese": "Thừa kế - nhận tiền, tài sản, hoặc danh hiệu từ người đã mất",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Inherit",
+      "examples": [
+        {
+          "english": "She inherited the house from her grandmother.",
+          "vietnamese": "Cô ấy thừa kế ngôi nhà từ bà ngoại."
+        },
+        {
+          "english": "I inherited my mother's blue eyes.",
+          "vietnamese": "Tôi thừa hưởng đôi mắt xanh của mẹ."
+        },
+        {
+          "english": "He inherited his father's passion for music.",
+          "vietnamese": "Anh ấy thừa hưởng niềm đam mê âm nhạc của bố."
+        }
+      ],
+      "collocations": ["inherit property", "inherit money", "inherit traits"],
+      "synonyms": ["receive", "be left"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "inheritance", "partOfSpeech": "noun" },
+        { "word": "heir", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "family-015",
+      "word": "reunion",
+      "phonetic": "/riːˈjuːniən/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A social gathering of family members who have not seen each other for a long time",
+      "definitionVietnamese": "Họp mặt - cuộc gặp gỡ xã hội của các thành viên gia đình lâu ngày không gặp",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Reunion",
+      "examples": [
+        {
+          "english": "We have a family reunion every summer.",
+          "vietnamese": "Chúng tôi họp mặt gia đình mỗi mùa hè."
+        },
+        {
+          "english": "The reunion brought together relatives from all over the country.",
+          "vietnamese": "Buổi họp mặt tập hợp họ hàng từ khắp cả nước."
+        },
+        {
+          "english": "At the reunion, we shared old photos and memories.",
+          "vietnamese": "Tại buổi họp mặt, chúng tôi chia sẻ những bức ảnh cũ và kỷ niệm."
+        }
+      ],
+      "collocations": ["family reunion", "annual reunion", "class reunion"],
+      "synonyms": ["gathering", "get-together"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "reunite", "partOfSpeech": "verb" }
+      ]
+    },
+    {
+      "id": "family-016",
+      "word": "upbringing",
+      "phonetic": "/ˈʌpbrɪŋɪŋ/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The way a child is cared for and taught how to behave by parents",
+      "definitionVietnamese": "Sự nuôi dạy - cách một đứa trẻ được chăm sóc và dạy cách cư xử bởi cha mẹ",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Upbringing",
+      "examples": [
+        {
+          "english": "She had a strict upbringing.",
+          "vietnamese": "Cô ấy được nuôi dạy nghiêm khắc."
+        },
+        {
+          "english": "His upbringing shaped who he is today.",
+          "vietnamese": "Sự nuôi dạy của anh ấy đã định hình con người anh ấy ngày nay."
+        },
+        {
+          "english": "A loving upbringing helps children develop confidence.",
+          "vietnamese": "Sự nuôi dạy yêu thương giúp trẻ em phát triển sự tự tin."
+        }
+      ],
+      "collocations": ["strict upbringing", "religious upbringing", "happy upbringing"],
+      "synonyms": ["childhood", "raising"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "bring up", "partOfSpeech": "phrasal verb" }
+      ]
+    },
+    {
+      "id": "family-017",
+      "word": "bond",
+      "phonetic": "/bɒnd/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A strong feeling of friendship, love, or shared beliefs",
+      "definitionVietnamese": "Mối liên kết - cảm giác mạnh mẽ về tình bạn, tình yêu, hoặc niềm tin chung",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Bond",
+      "examples": [
+        {
+          "english": "The bond between mother and child is very strong.",
+          "vietnamese": "Mối liên kết giữa mẹ và con rất mạnh mẽ."
+        },
+        {
+          "english": "We share a special bond with our siblings.",
+          "vietnamese": "Chúng tôi có mối liên kết đặc biệt với anh chị em."
+        },
+        {
+          "english": "Traveling together helped strengthen our family bond.",
+          "vietnamese": "Đi du lịch cùng nhau giúp củng cố mối liên kết gia đình."
+        }
+      ],
+      "collocations": ["strong bond", "family bond", "emotional bond"],
+      "synonyms": ["connection", "tie", "link"],
+      "antonyms": [],
+      "wordFamily": [
+        { "word": "bonding", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "family-018",
+      "word": "nurture",
+      "phonetic": "/ˈnɜːtʃə/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To care for and encourage the growth or development of someone",
+      "definitionVietnamese": "Nuôi dưỡng - chăm sóc và khuyến khích sự phát triển của ai đó",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Nurture",
+      "examples": [
+        {
+          "english": "Parents nurture their children with love and care.",
+          "vietnamese": "Cha mẹ nuôi dưỡng con cái bằng tình yêu và sự chăm sóc."
+        },
+        {
+          "english": "She nurtured his talent for music.",
+          "vietnamese": "Cô ấy nuôi dưỡng tài năng âm nhạc của anh ấy."
+        },
+        {
+          "english": "A good teacher nurtures students' curiosity and creativity.",
+          "vietnamese": "Một giáo viên giỏi nuôi dưỡng sự tò mò và sáng tạo của học sinh."
+        }
+      ],
+      "collocations": ["nurture talent", "nurture growth", "nurture relationships"],
+      "synonyms": ["raise", "foster", "cultivate"],
+      "antonyms": ["neglect"],
+      "wordFamily": [
+        { "word": "nurturing", "partOfSpeech": "adjective" }
+      ]
+    },
+    {
+      "id": "family-019",
+      "word": "resemble",
+      "phonetic": "/rɪˈzembl/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To look like or be similar to someone or something",
+      "definitionVietnamese": "Giống - trông giống hoặc tương tự ai đó hoặc cái gì đó",
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Resemble",
+      "examples": [
+        {
+          "english": "You resemble your mother so much.",
+          "vietnamese": "Bạn giống mẹ quá."
+        },
+        {
+          "english": "The twins resemble each other perfectly.",
+          "vietnamese": "Cặp song sinh giống nhau hoàn hảo."
+        },
+        {
+          "english": "People say I resemble my grandfather when he was young.",
+          "vietnamese": "Mọi người nói tôi giống ông nội khi ông còn trẻ."
+        }
+      ],
+      "collocations": ["closely resemble", "strongly resemble", "resemble someone"],
+      "synonyms": ["look like", "take after"],
+      "antonyms": ["differ from"],
+      "wordFamily": [
+        { "word": "resemblance", "partOfSpeech": "noun" }
+      ]
+    },
+    {
+      "id": "family-020",
+      "word": "household",
+      "phonetic": "/ˈhaʊshəʊld/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "All the people who live together in one house",
+      "definitionVietnamese": "Hộ gia đình - tất cả những người sống cùng trong một nhà",
+      "difficulty": "beginner",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Household",
+      "examples": [
+        {
+          "english": "There are five people in our household.",
+          "vietnamese": "Có năm người trong hộ gia đình chúng tôi."
+        },
+        {
+          "english": "Household chores should be shared equally.",
+          "vietnamese": "Công việc nhà nên được chia đều."
+        },
+        {
+          "english": "Every household in the neighborhood received a welcome package.",
+          "vietnamese": "Mỗi hộ gia đình trong khu phố đều nhận được gói chào mừng."
+        }
+      ],
+      "collocations": ["household chores", "household income", "household member"],
+      "synonyms": ["family", "home"],
+      "antonyms": [],
+      "wordFamily": []
+    }
+  ]
+}
