@@ -1,0 +1,340 @@
+{
+  "topicId": "day_65",
+
+  "items": [
+    {
+      "id": "verb-005",
+      "word": "Deceive",
+      "phonetic": "/dɪˈsiːv/ (BrE) | /dɪˈsiːv/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To make someone believe something that is not true, often to gain an advantage",
+      "definitionVietnamese": [
+        { "type": "verb", "definition": "lừa dối, đánh lừa" }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Deceive",
+      "examples": [
+        {
+          "english": "He tried to deceive the public.",
+          "vietnamese": "Anh ta cố gắng lừa dối công chúng."
+        },
+        {
+          "english": "Appearances can deceive.",
+          "vietnamese": "Bề ngoài có thể đánh lừa người khác."
+        },
+        {
+          "english": "She felt deceived by his promises.",
+          "vietnamese": "Cô ấy cảm thấy bị lừa dối bởi những lời hứa của anh ta."
+        }
+      ],
+      "collocations": ["deceive someone", "be deceived by"],
+      "synonyms": ["mislead", "trick"],
+      "antonyms": ["tell the truth"],
+      "wordFamily": [
+        {
+          "word": "deception",
+          "partOfSpeech": "noun",
+          "definition": "sự lừa dối"
+        },
+        {
+          "word": "deceptive",
+          "partOfSpeech": "adjective",
+          "definition": "gây hiểu lầm"
+        }
+      ]
+    },
+    {
+      "id": "adj-016",
+      "word": "Clement",
+      "phonetic": "/ˈklemənt/ (BrE) | /ˈklemənt/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Showing mercy or leniency; mild in weather",
+      "definitionVietnamese": [
+        { "type": "adjective", "definition": "khoan dung; ôn hòa (thời tiết)" }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Clement",
+      "examples": [
+        {
+          "english": "The judge was clement in his sentence.",
+          "vietnamese": "Thẩm phán đã khoan dung trong bản án."
+        },
+        {
+          "english": "The region enjoys a clement climate.",
+          "vietnamese": "Khu vực này có khí hậu ôn hòa."
+        },
+        {
+          "english": "They hoped for clement treatment.",
+          "vietnamese": "Họ hy vọng được đối xử khoan hồng."
+        }
+      ],
+      "collocations": ["clement weather", "clement sentence"],
+      "synonyms": ["lenient", "merciful"],
+      "antonyms": ["harsh"],
+      "wordFamily": [
+        {
+          "word": "clemency",
+          "partOfSpeech": "noun",
+          "definition": "sự khoan hồng"
+        }
+      ]
+    },
+    {
+      "id": "noun-014",
+      "word": "Beggar",
+      "phonetic": "/ˈbeɡə/ (BrE) | /ˈbeɡər/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who lives by asking others for money or food",
+      "definitionVietnamese": [
+        { "type": "noun", "definition": "người ăn xin" }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Beggar",
+      "examples": [
+        {
+          "english": "A beggar was sitting outside the church.",
+          "vietnamese": "Một người ăn xin đang ngồi trước nhà thờ."
+        },
+        {
+          "english": "He gave some coins to the beggar.",
+          "vietnamese": "Anh ấy cho người ăn xin vài đồng xu."
+        },
+        {
+          "english": "The beggar asked for help.",
+          "vietnamese": "Người ăn xin xin sự giúp đỡ."
+        }
+      ],
+      "collocations": ["street beggar", "poor beggar"],
+      "synonyms": ["panhandler"],
+      "antonyms": ["donor"],
+      "wordFamily": [
+        {
+          "word": "beg",
+          "partOfSpeech": "verb",
+          "definition": "ăn xin; cầu xin"
+        }
+      ]
+    },
+    {
+      "id": "noun-015",
+      "word": "Manner",
+      "phonetic": "/ˈmænə/ (BrE) | /ˈmænər/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A way in which something is done or the way a person behaves",
+      "definitionVietnamese": [
+        { "type": "noun", "definition": "cách thức; thái độ, tác phong" }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Manner",
+      "examples": [
+        {
+          "english": "He spoke in a polite manner.",
+          "vietnamese": "Anh ấy nói chuyện với thái độ lịch sự."
+        },
+        {
+          "english": "Her manner changed suddenly.",
+          "vietnamese": "Thái độ của cô ấy thay đổi đột ngột."
+        },
+        {
+          "english": "The task was done in a professional manner.",
+          "vietnamese": "Công việc được thực hiện một cách chuyên nghiệp."
+        }
+      ],
+      "collocations": ["polite manner", "in a friendly manner"],
+      "synonyms": ["behavior", "way"],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "mannerly",
+          "partOfSpeech": "adjective",
+          "definition": "lịch sự"
+        }
+      ]
+    },
+    {
+      "id": "noun-016",
+      "word": "Pyromaniac",
+      "phonetic": "/ˌpaɪrəʊˈmeɪnɪæk/ (BrE) | /ˌpaɪroʊˈmeɪnɪæk/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A person who has an uncontrollable desire to set fires",
+      "definitionVietnamese": [
+        { "type": "noun", "definition": "kẻ mắc chứng nghiện đốt phá" }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Pyromaniac",
+      "examples": [
+        {
+          "english": "The fire was started by a pyromaniac.",
+          "vietnamese": "Vụ cháy do một kẻ nghiện đốt phá gây ra."
+        },
+        {
+          "english": "Pyromaniacs often require medical treatment.",
+          "vietnamese": "Những người mắc chứng nghiện đốt phá thường cần điều trị y tế."
+        },
+        {
+          "english": "The police suspected a pyromaniac.",
+          "vietnamese": "Cảnh sát nghi ngờ có kẻ nghiện đốt phá."
+        }
+      ],
+      "collocations": ["suspected pyromaniac"],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "pyromania",
+          "partOfSpeech": "noun",
+          "definition": "chứng nghiện đốt phá"
+        }
+      ]
+    },
+    {
+      "id": "adj-017",
+      "word": "Ignorant",
+      "phonetic": "/ˈɪɡnərənt/ (BrE) | /ˈɪɡnərənt/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Lacking knowledge or awareness about something",
+      "definitionVietnamese": [
+        { "type": "adjective", "definition": "thiếu hiểu biết, ngu dốt" }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Ignorant",
+      "examples": [
+        {
+          "english": "He is ignorant of the law.",
+          "vietnamese": "Anh ấy không hiểu biết về luật pháp."
+        },
+        {
+          "english": "She remained ignorant of the facts.",
+          "vietnamese": "Cô ấy vẫn không biết sự thật."
+        },
+        {
+          "english": "Ignorant comments can be harmful.",
+          "vietnamese": "Những bình luận thiếu hiểu biết có thể gây hại."
+        }
+      ],
+      "collocations": ["ignorant of", "remain ignorant"],
+      "synonyms": ["unaware", "uninformed"],
+      "antonyms": ["knowledgeable"],
+      "wordFamily": [
+        {
+          "word": "ignorance",
+          "partOfSpeech": "noun",
+          "definition": "sự thiếu hiểu biết"
+        }
+      ]
+    },
+    {
+      "id": "noun-017",
+      "word": "Trifle",
+      "phonetic": "/ˈtraɪfəl/ (BrE) | /ˈtraɪfəl/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Something of little importance or value",
+      "definitionVietnamese": [
+        { "type": "noun", "definition": "chuyện nhỏ nhặt; thứ không đáng kể" }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Trifle",
+      "examples": [
+        {
+          "english": "It’s only a trifle.",
+          "vietnamese": "Đó chỉ là chuyện nhỏ."
+        },
+        {
+          "english": "She spent money on trifles.",
+          "vietnamese": "Cô ấy tiêu tiền vào những thứ lặt vặt."
+        },
+        {
+          "english": "They argued over a trifle.",
+          "vietnamese": "Họ cãi nhau vì một chuyện nhỏ nhặt."
+        }
+      ],
+      "collocations": ["mere trifle"],
+      "synonyms": ["minor thing"],
+      "antonyms": ["importance"],
+      "wordFamily": [
+        {
+          "word": "trifling",
+          "partOfSpeech": "adjective",
+          "definition": "nhỏ nhặt"
+        }
+      ]
+    },
+    {
+      "id": "adj-018",
+      "word": "Flabbergasted",
+      "phonetic": "/ˈflæbəɡɑːstɪd/ (BrE) | /ˈflæbərɡæstɪd/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Extremely surprised or shocked",
+      "definitionVietnamese": [
+        { "type": "adjective", "definition": "vô cùng kinh ngạc" }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Flabbergasted",
+      "examples": [
+        {
+          "english": "She was flabbergasted by the news.",
+          "vietnamese": "Cô ấy vô cùng kinh ngạc trước tin tức."
+        },
+        {
+          "english": "I was flabbergasted at the result.",
+          "vietnamese": "Tôi sốc trước kết quả."
+        },
+        {
+          "english": "They looked flabbergasted.",
+          "vietnamese": "Họ trông rất kinh ngạc."
+        }
+      ],
+      "collocations": ["completely flabbergasted"],
+      "synonyms": ["astonished", "amazed"],
+      "antonyms": ["unimpressed"],
+      "wordFamily": [
+        {
+          "word": "flabbergast",
+          "partOfSpeech": "verb",
+          "definition": "làm cho kinh ngạc"
+        }
+      ]
+    },
+    {
+      "id": "adv-002",
+      "word": "Genuinely",
+      "phonetic": "/ˈdʒenjuɪnli/ (BrE) | /ˈdʒenjuːɪnli/ (AmE)",
+      "partOfSpeech": "adverb",
+      "definitionEnglish": "In a sincere and truthful way",
+      "definitionVietnamese": [
+        { "type": "adverb", "definition": "một cách chân thành, thực sự" }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Genuinely",
+      "examples": [
+        {
+          "english": "She was genuinely happy for him.",
+          "vietnamese": "Cô ấy thực sự vui cho anh ấy."
+        },
+        {
+          "english": "He genuinely believes in the cause.",
+          "vietnamese": "Anh ấy thực sự tin vào mục tiêu đó."
+        },
+        {
+          "english": "They are genuinely interested.",
+          "vietnamese": "Họ thật sự quan tâm."
+        }
+      ],
+      "collocations": ["genuinely believe", "genuinely interested"],
+      "synonyms": ["sincerely", "truly"],
+      "antonyms": ["insincerely"],
+      "wordFamily": [
+        {
+          "word": "genuine",
+          "partOfSpeech": "adjective",
+          "definition": "chân thật"
+        },
+        {
+          "word": "genuineness",
+          "partOfSpeech": "noun",
+          "definition": "sự chân thật"
+        }
+      ]
+    }
+  ]
+}

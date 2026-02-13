@@ -45,6 +45,9 @@
     "mac": {
       "target": "dmg",
       "category": "public.app-category.education"
+    },
+    "win": {
+      "target": "nsis"
     }
   }
 }

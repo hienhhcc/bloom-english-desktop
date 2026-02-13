@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dist:*)",
+      "Bash(set:*)",
+      "Bash(dir:*)",
+      "Bash(reg add:*)",
+      "Bash(powershell -Command \"reg add ''HKLM\\\\SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\AppModelUnlock'' /v AllowDevelopmentWithoutDevLicense /t REG_DWORD /d 1 /f\")",
+      "Bash(powershell -Command \"Remove-Item -Recurse -Force ''C:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\electron-builder\\\\Cache\\\\winCodeSign\\\\*''\")",
+      "Bash(start \"\" \"E:\\\\Coding\\\\Learning\\\\bloom-english-desktop\\\\dist\\\\Bloom English Setup 1.0.0.exe\")"
+    ]
+  }
+}

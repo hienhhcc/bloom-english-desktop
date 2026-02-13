@@ -148,5 +148,15 @@
     "wordCount": 10,
     "difficulty": "intermediate",
     "createdAt": "2026-02-10T08:28:35.068Z"
+  },
+  {
+    "id": "day_65",
+    "name": "Day 65",
+    "nameVietnamese": "Ngày 65",
+    "description": "Vocabulary about Day 65",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-11T08:28:35.068Z"
   }
 ]
