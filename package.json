@@ -1,12 +1,16 @@
 {
   "name": "bloom-english-desktop",
   "version": "1.0.0",
+  "description": "A desktop vocabulary learning app for English learners",
+  "author": "Bloom English",
   "private": true,
   "main": "electron/main.js",
   "scripts": {
     "build": "next build",
     "electron:dev": "next build && electron .",
-    "dist": "next build && electron-builder"
+    "dist": "next build && electron-builder",
+    "update": "node scripts/build-and-update.js",
+    "update:no-launch": "node scripts/build-and-update.js --no-launch"
   },
   "dependencies": {
     "@heyputer/puter.js": "^2.2.10",

@@ -440,6 +440,14 @@
         {
           "english": "The lorry delivered food to the supermarket early in the morning.",
           "vietnamese": "Chiếc xe tải giao thực phẩm đến siêu thị vào sáng sớm."
+        },
+        {
+          "english": "The lorry broke down on the highway, causing a long traffic jam.",
+          "vietnamese": "Chiếc xe tải bị hỏng trên đường cao tốc, gây ra tình trạng kẹt xe kéo dài."
+        },
+        {
+          "english": "He works as a lorry driver transporting goods across the country.",
+          "vietnamese": "Anh ấy làm tài xế xe tải, vận chuyển hàng hóa khắp cả nước."
         }
       ],
       "collocations": [
@@ -471,6 +479,14 @@
         {
           "english": "Fermented foods like yogurt are good for digestion.",
           "vietnamese": "Thực phẩm lên men như sữa chua rất tốt cho tiêu hóa."
+        },
+        {
+          "english": "Fermented soy sauce is widely used in Asian cooking.",
+          "vietnamese": "Nước tương lên men được sử dụng rộng rãi trong ẩm thực châu Á."
+        },
+        {
+          "english": "The drink is made from fermented fruit.",
+          "vietnamese": "Thức uống này được làm từ trái cây lên men."
         }
       ],
       "collocations": [
@@ -515,6 +531,14 @@
         {
           "english": "He exerted great effort to finish the race.",
           "vietnamese": "Anh ấy đã dốc rất nhiều sức lực để hoàn thành cuộc đua."
+        },
+        {
+          "english": "The company exerted pressure on the workers to meet the deadline.",
+          "vietnamese": "Công ty gây áp lực lên công nhân để kịp thời hạn."
+        },
+        {
+          "english": "Parents can exert a strong influence on their children.",
+          "vietnamese": "Cha mẹ có thể tạo ảnh hưởng mạnh mẽ đến con cái."
         }
       ],
       "collocations": [
@@ -555,6 +579,14 @@
         {
           "english": "She made a tremendous improvement in her English.",
           "vietnamese": "Cô ấy đã tiến bộ vượt bậc trong tiếng Anh."
+        },
+        {
+          "english": "The project required a tremendous amount of time.",
+          "vietnamese": "Dự án này đòi hỏi một lượng thời gian rất lớn."
+        },
+        {
+          "english": "He felt tremendous pressure before the exam.",
+          "vietnamese": "Anh ấy cảm thấy áp lực rất lớn trước kỳ thi."
         }
       ],
       "collocations": [
@@ -578,6 +610,227 @@
           "definition": "một cách to lớn, rất nhiều"
         }
       ]
+    },
+    {
+      "id": "adj-019",
+      "word": "serene",
+      "phonetic": "/səˈriːn/ (BrE) | /səˈriːn/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Calm, peaceful, and untroubled",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "thanh bình, yên tĩnh"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Serene",
+      "examples": [
+        {
+          "english": "The lake looked serene at sunrise.",
+          "vietnamese": "Hồ nước trông thật thanh bình vào lúc bình minh."
+        },
+        {
+          "english": "She remained serene despite the pressure.",
+          "vietnamese": "Cô ấy vẫn giữ được sự bình thản dù chịu nhiều áp lực."
+        },
+        {
+          "english": "They enjoyed the serene atmosphere of the temple.",
+          "vietnamese": "Họ tận hưởng bầu không khí yên tĩnh của ngôi đền."
+        }
+      ],
+      "collocations": [
+        "serene atmosphere",
+        "serene beauty",
+        "serene smile"
+      ],
+      "synonyms": [
+        "peaceful",
+        "calm"
+      ],
+      "antonyms": [
+        "chaotic",
+        "anxious"
+      ],
+      "wordFamily": [
+        {
+          "word": "serenity",
+          "partOfSpeech": "noun",
+          "definition": "sự thanh bình"
+        }
+      ]
+    },
+    {
+      "id": "adj-020",
+      "word": "picturesque",
+      "phonetic": "/ˌpɪktʃəˈresk/ (BrE) | /ˌpɪktʃəˈresk/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Visually attractive, especially in a charming or old-fashioned way",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "đẹp như tranh vẽ"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Picturesque",
+      "examples": [
+        {
+          "english": "They stayed in a picturesque village by the sea.",
+          "vietnamese": "Họ ở trong một ngôi làng ven biển đẹp như tranh."
+        },
+        {
+          "english": "The town is famous for its picturesque streets.",
+          "vietnamese": "Thị trấn này nổi tiếng với những con phố đẹp như tranh vẽ."
+        },
+        {
+          "english": "She took photos of the picturesque countryside.",
+          "vietnamese": "Cô ấy chụp ảnh vùng nông thôn đẹp như tranh."
+        }
+      ],
+      "collocations": [
+        "picturesque village",
+        "picturesque landscape"
+      ],
+      "synonyms": [
+        "scenic",
+        "charming"
+      ],
+      "antonyms": [
+        "ugly"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "adj-021",
+      "word": "idyllic",
+      "phonetic": "/ɪˈdɪlɪk/ (BrE) | /ɪˈdɪlɪk/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Extremely happy, peaceful, or perfect, often unrealistically so",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "êm đềm, lý tưởng"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Idyllic",
+      "examples": [
+        {
+          "english": "They dreamed of an idyllic life in the countryside.",
+          "vietnamese": "Họ mơ về một cuộc sống thôn quê êm đềm."
+        },
+        {
+          "english": "The island offers an idyllic escape from city life.",
+          "vietnamese": "Hòn đảo mang đến một nơi nghỉ dưỡng lý tưởng, tách biệt khỏi cuộc sống thành phố."
+        },
+        {
+          "english": "She described her childhood as idyllic.",
+          "vietnamese": "Cô ấy miêu tả tuổi thơ của mình là rất êm đềm."
+        }
+      ],
+      "collocations": [
+        "idyllic setting",
+        "idyllic life"
+      ],
+      "synonyms": [
+        "perfect",
+        "peaceful"
+      ],
+      "antonyms": [
+        "harsh",
+        "troubled"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "adj-022",
+      "word": "rejuvenating",
+      "phonetic": "/rɪˈdʒuːvəneɪtɪŋ/ (BrE) | /rɪˈdʒuːvəneɪtɪŋ/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Making someone feel refreshed, renewed, or full of energy",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "làm hồi phục, làm trẻ lại"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Rejuvenating",
+      "examples": [
+        {
+          "english": "The vacation was relaxing and rejuvenating.",
+          "vietnamese": "Kỳ nghỉ vừa thư giãn vừa giúp hồi phục năng lượng."
+        },
+        {
+          "english": "She found yoga deeply rejuvenating.",
+          "vietnamese": "Cô ấy thấy yoga rất giúp phục hồi tinh thần."
+        },
+        {
+          "english": "A good night’s sleep can be rejuvenating.",
+          "vietnamese": "Một giấc ngủ ngon có thể giúp cơ thể hồi phục."
+        }
+      ],
+      "collocations": [
+        "rejuvenating experience",
+        "rejuvenating effect"
+      ],
+      "synonyms": [
+        "refreshing",
+        "revitalizing"
+      ],
+      "antonyms": [
+        "exhausting"
+      ],
+      "wordFamily": [
+        {
+          "word": "rejuvenate",
+          "partOfSpeech": "verb",
+          "definition": "làm trẻ lại, hồi phục"
+        }
+      ]
+    },
+    {
+      "id": "verb-006",
+      "word": "unwind",
+      "phonetic": "/ʌnˈwaɪnd/ (BrE) | /ʌnˈwaɪnd/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To relax after a period of work or stress",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "thư giãn, nghỉ ngơi"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Unwind",
+      "examples": [
+        {
+          "english": "She likes to unwind by listening to music.",
+          "vietnamese": "Cô ấy thích thư giãn bằng cách nghe nhạc."
+        },
+        {
+          "english": "He unwinds after work by going for a walk.",
+          "vietnamese": "Anh ấy thư giãn sau giờ làm bằng cách đi dạo."
+        },
+        {
+          "english": "Reading helps me unwind in the evening.",
+          "vietnamese": "Đọc sách giúp tôi thư giãn vào buổi tối."
+        }
+      ],
+      "collocations": [
+        "unwind after work",
+        "unwind at home"
+      ],
+      "synonyms": [
+        "relax",
+        "chill"
+      ],
+      "antonyms": [
+        "stress",
+        "strain"
+      ],
+      "wordFamily": []
     }
   ]
 }
