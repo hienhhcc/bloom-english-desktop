@@ -1,6 +1,5 @@
 {
   "topicId": "day_65",
-
   "items": [
     {
       "id": "verb-005",
@@ -9,7 +8,10 @@
       "partOfSpeech": "verb",
       "definitionEnglish": "To make someone believe something that is not true, often to gain an advantage",
       "definitionVietnamese": [
-        { "type": "verb", "definition": "lừa dối, đánh lừa" }
+        {
+          "type": "verb",
+          "definition": "lừa dối, đánh lừa"
+        }
       ],
       "difficulty": "intermediate",
       "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Deceive",
@@ -27,9 +29,17 @@
           "vietnamese": "Cô ấy cảm thấy bị lừa dối bởi những lời hứa của anh ta."
         }
       ],
-      "collocations": ["deceive someone", "be deceived by"],
-      "synonyms": ["mislead", "trick"],
-      "antonyms": ["tell the truth"],
+      "collocations": [
+        "deceive someone",
+        "be deceived by"
+      ],
+      "synonyms": [
+        "mislead",
+        "trick"
+      ],
+      "antonyms": [
+        "tell the truth"
+      ],
       "wordFamily": [
         {
           "word": "deception",
@@ -50,7 +60,10 @@
       "partOfSpeech": "adjective",
       "definitionEnglish": "Showing mercy or leniency; mild in weather",
       "definitionVietnamese": [
-        { "type": "adjective", "definition": "khoan dung; ôn hòa (thời tiết)" }
+        {
+          "type": "adjective",
+          "definition": "khoan dung; ôn hòa (thời tiết)"
+        }
       ],
       "difficulty": "advanced",
       "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Clement",
@@ -68,9 +81,17 @@
           "vietnamese": "Họ hy vọng được đối xử khoan hồng."
         }
       ],
-      "collocations": ["clement weather", "clement sentence"],
-      "synonyms": ["lenient", "merciful"],
-      "antonyms": ["harsh"],
+      "collocations": [
+        "clement weather",
+        "clement sentence"
+      ],
+      "synonyms": [
+        "lenient",
+        "merciful"
+      ],
+      "antonyms": [
+        "harsh"
+      ],
       "wordFamily": [
         {
           "word": "clemency",
@@ -86,7 +107,10 @@
       "partOfSpeech": "noun",
       "definitionEnglish": "A person who lives by asking others for money or food",
       "definitionVietnamese": [
-        { "type": "noun", "definition": "người ăn xin" }
+        {
+          "type": "noun",
+          "definition": "người ăn xin"
+        }
       ],
       "difficulty": "basic",
       "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Beggar",
@@ -104,9 +128,16 @@
           "vietnamese": "Người ăn xin xin sự giúp đỡ."
         }
       ],
-      "collocations": ["street beggar", "poor beggar"],
-      "synonyms": ["panhandler"],
-      "antonyms": ["donor"],
+      "collocations": [
+        "street beggar",
+        "poor beggar"
+      ],
+      "synonyms": [
+        "panhandler"
+      ],
+      "antonyms": [
+        "donor"
+      ],
       "wordFamily": [
         {
           "word": "beg",
@@ -122,7 +153,10 @@
       "partOfSpeech": "noun",
       "definitionEnglish": "A way in which something is done or the way a person behaves",
       "definitionVietnamese": [
-        { "type": "noun", "definition": "cách thức; thái độ, tác phong" }
+        {
+          "type": "noun",
+          "definition": "cách thức; thái độ, tác phong"
+        }
       ],
       "difficulty": "basic",
       "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Manner",
@@ -140,8 +174,14 @@
           "vietnamese": "Công việc được thực hiện một cách chuyên nghiệp."
         }
       ],
-      "collocations": ["polite manner", "in a friendly manner"],
-      "synonyms": ["behavior", "way"],
+      "collocations": [
+        "polite manner",
+        "in a friendly manner"
+      ],
+      "synonyms": [
+        "behavior",
+        "way"
+      ],
       "antonyms": [],
       "wordFamily": [
         {
@@ -158,7 +198,10 @@
       "partOfSpeech": "noun",
       "definitionEnglish": "A person who has an uncontrollable desire to set fires",
       "definitionVietnamese": [
-        { "type": "noun", "definition": "kẻ mắc chứng nghiện đốt phá" }
+        {
+          "type": "noun",
+          "definition": "kẻ mắc chứng nghiện đốt phá"
+        }
       ],
       "difficulty": "advanced",
       "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Pyromaniac",
@@ -176,7 +219,9 @@
           "vietnamese": "Cảnh sát nghi ngờ có kẻ nghiện đốt phá."
         }
       ],
-      "collocations": ["suspected pyromaniac"],
+      "collocations": [
+        "suspected pyromaniac"
+      ],
       "synonyms": [],
       "antonyms": [],
       "wordFamily": [
@@ -194,7 +239,10 @@
       "partOfSpeech": "adjective",
       "definitionEnglish": "Lacking knowledge or awareness about something",
       "definitionVietnamese": [
-        { "type": "adjective", "definition": "thiếu hiểu biết, ngu dốt" }
+        {
+          "type": "adjective",
+          "definition": "thiếu hiểu biết, ngu dốt"
+        }
       ],
       "difficulty": "basic",
       "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Ignorant",
@@ -212,9 +260,17 @@
           "vietnamese": "Những bình luận thiếu hiểu biết có thể gây hại."
         }
       ],
-      "collocations": ["ignorant of", "remain ignorant"],
-      "synonyms": ["unaware", "uninformed"],
-      "antonyms": ["knowledgeable"],
+      "collocations": [
+        "ignorant of",
+        "remain ignorant"
+      ],
+      "synonyms": [
+        "unaware",
+        "uninformed"
+      ],
+      "antonyms": [
+        "knowledgeable"
+      ],
       "wordFamily": [
         {
           "word": "ignorance",
@@ -230,7 +286,10 @@
       "partOfSpeech": "noun",
       "definitionEnglish": "Something of little importance or value",
       "definitionVietnamese": [
-        { "type": "noun", "definition": "chuyện nhỏ nhặt; thứ không đáng kể" }
+        {
+          "type": "noun",
+          "definition": "chuyện nhỏ nhặt; thứ không đáng kể"
+        }
       ],
       "difficulty": "intermediate",
       "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Trifle",
@@ -248,9 +307,15 @@
           "vietnamese": "Họ cãi nhau vì một chuyện nhỏ nhặt."
         }
       ],
-      "collocations": ["mere trifle"],
-      "synonyms": ["minor thing"],
-      "antonyms": ["importance"],
+      "collocations": [
+        "mere trifle"
+      ],
+      "synonyms": [
+        "minor thing"
+      ],
+      "antonyms": [
+        "importance"
+      ],
       "wordFamily": [
         {
           "word": "trifling",
@@ -266,7 +331,10 @@
       "partOfSpeech": "adjective",
       "definitionEnglish": "Extremely surprised or shocked",
       "definitionVietnamese": [
-        { "type": "adjective", "definition": "vô cùng kinh ngạc" }
+        {
+          "type": "adjective",
+          "definition": "vô cùng kinh ngạc"
+        }
       ],
       "difficulty": "advanced",
       "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Flabbergasted",
@@ -284,9 +352,16 @@
           "vietnamese": "Họ trông rất kinh ngạc."
         }
       ],
-      "collocations": ["completely flabbergasted"],
-      "synonyms": ["astonished", "amazed"],
-      "antonyms": ["unimpressed"],
+      "collocations": [
+        "completely flabbergasted"
+      ],
+      "synonyms": [
+        "astonished",
+        "amazed"
+      ],
+      "antonyms": [
+        "unimpressed"
+      ],
       "wordFamily": [
         {
           "word": "flabbergast",
@@ -302,7 +377,10 @@
       "partOfSpeech": "adverb",
       "definitionEnglish": "In a sincere and truthful way",
       "definitionVietnamese": [
-        { "type": "adverb", "definition": "một cách chân thành, thực sự" }
+        {
+          "type": "adverb",
+          "definition": "một cách chân thành, thực sự"
+        }
       ],
       "difficulty": "intermediate",
       "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Genuinely",
@@ -320,9 +398,17 @@
           "vietnamese": "Họ thật sự quan tâm."
         }
       ],
-      "collocations": ["genuinely believe", "genuinely interested"],
-      "synonyms": ["sincerely", "truly"],
-      "antonyms": ["insincerely"],
+      "collocations": [
+        "genuinely believe",
+        "genuinely interested"
+      ],
+      "synonyms": [
+        "sincerely",
+        "truly"
+      ],
+      "antonyms": [
+        "insincerely"
+      ],
       "wordFamily": [
         {
           "word": "genuine",
@@ -333,6 +419,163 @@
           "word": "genuineness",
           "partOfSpeech": "noun",
           "definition": "sự chân thật"
+        }
+      ]
+    },
+    {
+      "id": "noun-001",
+      "word": "lorry",
+      "phonetic": "/ˈlɒri/ (BrE) | /ˈlɔːri/ (AmE: truck)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A large vehicle used for transporting goods by road",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "xe tải (Anh – Anh)"
+        }
+      ],
+      "difficulty": "elementary",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Lorry",
+      "examples": [
+        {
+          "english": "The lorry delivered food to the supermarket early in the morning.",
+          "vietnamese": "Chiếc xe tải giao thực phẩm đến siêu thị vào sáng sớm."
+        }
+      ],
+      "collocations": [
+        "heavy lorry",
+        "delivery lorry",
+        "lorry driver"
+      ],
+      "synonyms": [
+        "truck"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "adj-002",
+      "word": "fermented",
+      "phonetic": "/fɜːˈmentɪd/ (BrE) | /fɝːˈmentɪd/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having undergone a chemical process in which sugars are converted into alcohol or acid",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "được lên men"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Fermented",
+      "examples": [
+        {
+          "english": "Fermented foods like yogurt are good for digestion.",
+          "vietnamese": "Thực phẩm lên men như sữa chua rất tốt cho tiêu hóa."
+        }
+      ],
+      "collocations": [
+        "fermented food",
+        "fermented drink",
+        "fermented vegetables"
+      ],
+      "synonyms": [
+        "cultured"
+      ],
+      "antonyms": [
+        "fresh"
+      ],
+      "wordFamily": [
+        {
+          "word": "ferment",
+          "partOfSpeech": "verb",
+          "definition": "lên men"
+        },
+        {
+          "word": "fermentation",
+          "partOfSpeech": "noun",
+          "definition": "sự lên men"
+        }
+      ]
+    },
+    {
+      "id": "verb-003",
+      "word": "exert",
+      "phonetic": "/ɪɡˈzɜːt/ (BrE) | /ɪɡˈzɝːt/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To use or apply physical or mental effort, force, or influence",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "vận dụng, dùng (sức lực, ảnh hưởng)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Exert",
+      "examples": [
+        {
+          "english": "He exerted great effort to finish the race.",
+          "vietnamese": "Anh ấy đã dốc rất nhiều sức lực để hoàn thành cuộc đua."
+        }
+      ],
+      "collocations": [
+        "exert effort",
+        "exert pressure",
+        "exert influence"
+      ],
+      "synonyms": [
+        "apply",
+        "use"
+      ],
+      "antonyms": [
+        "withhold"
+      ],
+      "wordFamily": [
+        {
+          "word": "exertion",
+          "partOfSpeech": "noun",
+          "definition": "sự gắng sức"
+        }
+      ]
+    },
+    {
+      "id": "adj-004",
+      "word": "tremendous",
+      "phonetic": "/trɪˈmendəs/ (BrE) | /trəˈmendəs/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Very great in amount, scale, or intensity",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "rất lớn, to lớn, khổng lồ"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Tremendous",
+      "examples": [
+        {
+          "english": "She made a tremendous improvement in her English.",
+          "vietnamese": "Cô ấy đã tiến bộ vượt bậc trong tiếng Anh."
+        }
+      ],
+      "collocations": [
+        "tremendous effort",
+        "tremendous success",
+        "tremendous impact"
+      ],
+      "synonyms": [
+        "enormous",
+        "huge",
+        "immense"
+      ],
+      "antonyms": [
+        "tiny",
+        "insignificant"
+      ],
+      "wordFamily": [
+        {
+          "word": "tremendously",
+          "partOfSpeech": "adverb",
+          "definition": "một cách to lớn, rất nhiều"
         }
       ]
     }
