@@ -10,7 +10,8 @@
     "electron:dev": "next build && electron .",
     "dist": "next build && electron-builder",
     "update": "node scripts/build-and-update.js",
-    "update:no-launch": "node scripts/build-and-update.js --no-launch"
+    "update:no-launch": "node scripts/build-and-update.js --no-launch",
+    "dist:install": "next build && electron-builder && .\\\"dist\\Bloom English Setup 1.0.0.exe\""
   },
   "dependencies": {
     "@heyputer/puter.js": "^2.2.10",
