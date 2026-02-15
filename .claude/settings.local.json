@@ -10,7 +10,14 @@
       "Bash(start \"\" \"E:\\\\Coding\\\\Learning\\\\bloom-english-desktop\\\\dist\\\\Bloom English Setup 1.0.0.exe\")",
       "Bash(chmod:*)",
       "Bash(node scripts/build-and-update.js:*)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(npm run update:*)",
+      "Bash(powershell -Command \"Add-MpPreference -ExclusionPath ''E:\\\\Coding\\\\Learning\\\\bloom-english-desktop\\\\dist''\")",
+      "Bash(taskkill:*)",
+      "Bash(cmd //c \"taskkill /IM \"\"Bloom English.exe\"\" /F\")",
+      "Bash(cmd //c \"taskkill /IM electron.exe /F\")",
+      "Bash(powershell:*)",
+      "Bash(npm run update:no-launch:*)"
     ]
   }
 }

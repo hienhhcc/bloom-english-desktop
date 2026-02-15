@@ -129,6 +129,35 @@ async function main() {
     process.exit(1);
   }
 
+  // Step 0 (Windows): Add Defender exclusion for dist folder to prevent file locking
+  if (IS_WIN) {
+    log("Adding Windows Defender exclusion for dist folder...");
+    try {
+      execSync(
+        `powershell -Command "Add-MpPreference -ExclusionPath '${DIST}'"`,
+        { stdio: "ignore" }
+      );
+      console.log("   ✅ Defender exclusion added");
+    } catch {
+      console.log(
+        "   ⚠️  Could not add Defender exclusion (may need admin). Continuing anyway..."
+      );
+    }
+  }
+
+  // Step 0.5: Clean dist folder to avoid stale locked files
+  if (fs.existsSync(DIST)) {
+    log("Cleaning dist folder...");
+    try {
+      fs.rmSync(DIST, { recursive: true, force: true });
+      console.log("   ✅ dist folder cleaned");
+    } catch (e) {
+      console.log(
+        `   ⚠️  Could not fully clean dist folder (${e.code}). electron-builder will overwrite.`
+      );
+    }
+  }
+
   // Step 1: Build
   log("Building Next.js app...");
   run("npm run build");
