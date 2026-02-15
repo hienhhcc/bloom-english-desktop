@@ -1,4 +1,4 @@
-const { app, BrowserWindow, ipcMain, shell } = require("electron");
+const { app, BrowserWindow, ipcMain, shell, session, systemPreferences } = require("electron");
 const http = require("http");
 const path = require("path");
 const serve = require("electron-serve").default;
@@ -8,6 +8,27 @@ const loadURL = serve({ directory: path.join(__dirname, "..", "out") });
 let mainWindow;
 
 function createWindow() {
+  // Grant microphone permissions to the renderer
+  session.defaultSession.setPermissionRequestHandler((_webContents, permission, callback) => {
+    if (permission === "media") {
+      callback(true);
+      return;
+    }
+    callback(false);
+  });
+
+  // On macOS, request microphone access at the OS level (non-blocking)
+  if (process.platform === "darwin") {
+    try {
+      const micStatus = systemPreferences.getMediaAccessStatus("microphone");
+      if (micStatus !== "granted") {
+        systemPreferences.askForMediaAccess("microphone").catch(() => {});
+      }
+    } catch (_e) {
+      // Ignore errors — permission will be requested when getUserMedia is called
+    }
+  }
+
   mainWindow = new BrowserWindow({
     width: 1200,
     height: 800,
