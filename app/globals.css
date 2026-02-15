@@ -187,3 +187,48 @@
 .dark .card-glow {
   box-shadow: 0 4px 24px -8px oklch(0.505 0.19 27.5 / 0.2), 0 1px 3px oklch(0 0 0 / 0.2);
 }
+
+/* "Add to Review" attention-pulse animation */
+@keyframes review-pulse {
+  0%, 100% {
+    box-shadow: 0 0 0 0 oklch(0.505 0.19 27.5 / 0.5), 0 0 8px 0 oklch(0.505 0.19 27.5 / 0.15);
+  }
+  50% {
+    box-shadow: 0 0 0 6px oklch(0.505 0.19 27.5 / 0), 0 0 16px 4px oklch(0.505 0.19 27.5 / 0.08);
+  }
+}
+
+@keyframes review-shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.btn-review-pulse {
+  position: relative;
+  animation: review-pulse 2.4s ease-in-out infinite;
+  border-color: oklch(0.505 0.19 27.5 / 0.5) !important;
+  background:
+    linear-gradient(
+      110deg,
+      transparent 25%,
+      oklch(0.505 0.19 27.5 / 0.08) 37%,
+      transparent 50%
+    )
+    no-repeat,
+    var(--background);
+  background-size: 200% 100%;
+  animation: review-pulse 2.4s ease-in-out infinite, review-shimmer 3.5s ease-in-out infinite;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-review-pulse:hover {
+  transform: translateY(-1px) scale(1.03);
+  animation: none;
+  box-shadow: 0 0 0 2px oklch(0.505 0.19 27.5 / 0.3), 0 4px 16px oklch(0.505 0.19 27.5 / 0.2);
+  border-color: oklch(0.505 0.19 27.5 / 0.7) !important;
+}
+
+.btn-review-pulse:disabled {
+  animation: none;
+  box-shadow: none;
+}

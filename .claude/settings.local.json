@@ -9,7 +9,8 @@
       "Bash(powershell -Command \"Remove-Item -Recurse -Force ''C:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\electron-builder\\\\Cache\\\\winCodeSign\\\\*''\")",
       "Bash(start \"\" \"E:\\\\Coding\\\\Learning\\\\bloom-english-desktop\\\\dist\\\\Bloom English Setup 1.0.0.exe\")",
       "Bash(chmod:*)",
-      "Bash(node scripts/build-and-update.js:*)"
+      "Bash(node scripts/build-and-update.js:*)",
+      "Bash(npm run build:*)"
     ]
   }
 }

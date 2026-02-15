@@ -22,7 +22,7 @@ function parsePartsOfSpeech(pos: string): string[] {
   return pos.split(/[;,]/).map(p => p.trim()).filter(p => p.length > 0);
 }
 
-const AUTO_ADVANCE_DELAY = 2000;
+const AUTO_ADVANCE_DELAY = 5000;
 
 export function ClozeCard({ item, onComplete }: ClozeCardProps) {
   const [userInput, setUserInput] = useState('');

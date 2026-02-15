@@ -85,6 +85,7 @@ export function TopicPageContent({ topic, items, initialMode = 'learning', revie
               variant="outline"
               onClick={handleScheduleReview}
               disabled={reviewScheduled}
+              className={reviewScheduled ? '' : 'btn-review-pulse'}
             >
               <CalendarPlus className="size-5" />
               {reviewScheduled ? (
