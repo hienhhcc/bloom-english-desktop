@@ -174,6 +174,13 @@ async function main() {
   }
   log(`Found built app: ${builtPath}`);
 
+  // Step 2.5 (macOS): Re-sign the app to fix Team ID mismatch with ad-hoc signing
+  if (IS_MAC) {
+    log("Re-signing app bundle (fixing ad-hoc signature)...");
+    run(`codesign --force --deep --sign - "${builtPath}"`);
+    console.log("   ✅ App re-signed");
+  }
+
   // Step 3: Close running app, install, and relaunch
   killRunningApp();
   installApp(builtPath);
