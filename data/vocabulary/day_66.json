@@ -1,0 +1,620 @@
+{
+  "topicId": "day_65",
+  "items": [
+    {
+      "id": "adj-023",
+      "word": "spontaneous",
+      "phonetic": "/spɒnˈteɪnɪəs/ (BrE) | /spɑːnˈteɪnɪəs/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Done naturally and without planning",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "tự phát, bộc phát"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Spontaneous",
+      "examples": [
+        {
+          "english": "They made a spontaneous decision to travel.",
+          "vietnamese": "Họ đưa ra quyết định đi du lịch một cách bộc phát."
+        },
+        {
+          "english": "Her laughter was completely spontaneous.",
+          "vietnamese": "Tiếng cười của cô ấy hoàn toàn tự nhiên."
+        },
+        {
+          "english": "Spontaneous reactions often reveal true feelings.",
+          "vietnamese": "Những phản ứng tự phát thường bộc lộ cảm xúc thật."
+        }
+      ],
+      "collocations": [
+        "spontaneous reaction",
+        "spontaneous decision"
+      ],
+      "synonyms": [
+        "impulsive",
+        "unplanned"
+      ],
+      "antonyms": [
+        "planned"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-007",
+      "word": "anticipate",
+      "phonetic": "/ænˈtɪsɪpeɪt/ (BrE) | /ænˈtɪsɪpeɪt/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To expect or prepare for something in advance",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "dự đoán, lường trước"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Anticipate",
+      "examples": [
+        {
+          "english": "We anticipate heavy traffic today.",
+          "vietnamese": "Chúng tôi dự đoán giao thông sẽ đông hôm nay."
+        },
+        {
+          "english": "She anticipated his reaction.",
+          "vietnamese": "Cô ấy đã lường trước phản ứng của anh ta."
+        },
+        {
+          "english": "The company anticipated growth.",
+          "vietnamese": "Công ty dự đoán sự tăng trưởng."
+        }
+      ],
+      "collocations": [
+        "anticipate problems",
+        "anticipate demand"
+      ],
+      "synonyms": [
+        "expect",
+        "foresee"
+      ],
+      "antonyms": [
+        "ignore"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-018",
+      "word": "white collar",
+      "phonetic": "/ˌwaɪt ˈkɒlə/ (BrE) | /ˌwaɪt ˈkɑːlər/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Relating to office or professional work rather than manual labor",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "lao động trí óc, nhân viên văn phòng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=White+Collar",
+      "examples": [
+        {
+          "english": "He works in a white-collar job.",
+          "vietnamese": "Anh ấy làm công việc văn phòng."
+        },
+        {
+          "english": "White-collar workers often work in offices.",
+          "vietnamese": "Nhân viên văn phòng thường làm việc trong công ty."
+        },
+        {
+          "english": "The area attracts many white-collar professionals.",
+          "vietnamese": "Khu vực này thu hút nhiều lao động trí óc."
+        }
+      ],
+      "collocations": [
+        "white-collar worker",
+        "white-collar job"
+      ],
+      "synonyms": [
+        "office worker"
+      ],
+      "antonyms": [
+        "blue-collar"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "adj-024",
+      "word": "desperate",
+      "phonetic": "/ˈdespərət/ (BrE) | /ˈdespərət/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Feeling or showing extreme need or urgency",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "tuyệt vọng, cấp bách"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Desperate",
+      "examples": [
+        {
+          "english": "She was desperate for help.",
+          "vietnamese": "Cô ấy tuyệt vọng cần sự giúp đỡ."
+        },
+        {
+          "english": "They made a desperate attempt to escape.",
+          "vietnamese": "Họ đã cố gắng trốn thoát trong tuyệt vọng."
+        },
+        {
+          "english": "He felt desperate about the situation.",
+          "vietnamese": "Anh ấy cảm thấy tuyệt vọng về tình hình."
+        }
+      ],
+      "collocations": [
+        "desperate need",
+        "desperate situation"
+      ],
+      "synonyms": [
+        "hopeless",
+        "urgent"
+      ],
+      "antonyms": [
+        "calm"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "adj-025",
+      "word": "sketchy",
+      "phonetic": "/ˈsketʃi/ (BrE) | /ˈsketʃi/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Unclear, suspicious, or lacking detail",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "đáng ngờ; sơ sài"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Sketchy",
+      "examples": [
+        {
+          "english": "His explanation sounded sketchy.",
+          "vietnamese": "Lời giải thích của anh ta nghe có vẻ đáng ngờ."
+        },
+        {
+          "english": "The plan is still sketchy.",
+          "vietnamese": "Kế hoạch vẫn còn sơ sài."
+        },
+        {
+          "english": "They avoided that sketchy neighborhood.",
+          "vietnamese": "Họ tránh khu phố đáng ngờ đó."
+        }
+      ],
+      "collocations": [
+        "sketchy details",
+        "sketchy area"
+      ],
+      "synonyms": [
+        "vague",
+        "suspicious"
+      ],
+      "antonyms": [
+        "clear"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-019",
+      "word": "collage",
+      "phonetic": "/ˈkɒlɑːʒ/ (BrE) | /kəˈlɑːʒ/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An artwork made by sticking different materials together",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tranh cắt dán"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Collage",
+      "examples": [
+        {
+          "english": "She created a collage from old magazines.",
+          "vietnamese": "Cô ấy tạo một bức tranh cắt dán từ tạp chí cũ."
+        },
+        {
+          "english": "The collage hangs on the wall.",
+          "vietnamese": "Bức tranh cắt dán được treo trên tường."
+        },
+        {
+          "english": "Students made a collage in art class.",
+          "vietnamese": "Học sinh làm tranh cắt dán trong giờ mỹ thuật."
+        }
+      ],
+      "collocations": [
+        "photo collage",
+        "art collage"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-020",
+      "word": "autograph",
+      "phonetic": "/ˈɔːtəɡrɑːf/ (BrE) | /ˈɔːtəɡræf/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A famous person’s signature",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "chữ ký (người nổi tiếng)"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Autograph",
+      "examples": [
+        {
+          "english": "She asked for the actor’s autograph.",
+          "vietnamese": "Cô ấy xin chữ ký của diễn viên."
+        },
+        {
+          "english": "He signed autographs for fans.",
+          "vietnamese": "Anh ấy ký tặng người hâm mộ."
+        },
+        {
+          "english": "The autograph is very valuable.",
+          "vietnamese": "Chữ ký này rất có giá trị."
+        }
+      ],
+      "collocations": [
+        "sign an autograph"
+      ],
+      "synonyms": [
+        "signature"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-021",
+      "word": "belongings",
+      "phonetic": "/bɪˈlɒŋɪŋz/ (BrE) | /bɪˈlɔːŋɪŋz/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Personal possessions or property",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "đồ đạc cá nhân"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Belongings",
+      "examples": [
+        {
+          "english": "She packed her belongings.",
+          "vietnamese": "Cô ấy đóng gói đồ đạc cá nhân."
+        },
+        {
+          "english": "He lost all his belongings.",
+          "vietnamese": "Anh ấy mất hết đồ đạc."
+        },
+        {
+          "english": "Please keep your belongings safe.",
+          "vietnamese": "Vui lòng giữ đồ đạc cẩn thận."
+        }
+      ],
+      "collocations": [
+        "personal belongings"
+      ],
+      "synonyms": [
+        "possessions"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-008",
+      "word": "perpetuate",
+      "phonetic": "/pəˈpetʃueɪt/ (BrE) | /pərˈpetʃueɪt/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To cause something to continue indefinitely",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "duy trì, làm kéo dài"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Perpetuate",
+      "examples": [
+        {
+          "english": "The myth was perpetuated by the media.",
+          "vietnamese": "Huyền thoại đó bị truyền thông duy trì."
+        },
+        {
+          "english": "Violence only perpetuates conflict.",
+          "vietnamese": "Bạo lực chỉ làm xung đột kéo dài."
+        },
+        {
+          "english": "They aim to perpetuate traditions.",
+          "vietnamese": "Họ muốn duy trì truyền thống."
+        }
+      ],
+      "collocations": [
+        "perpetuate violence",
+        "perpetuate belief"
+      ],
+      "synonyms": [
+        "maintain",
+        "prolong"
+      ],
+      "antonyms": [
+        "end"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-009",
+      "word": "foster",
+      "phonetic": "/ˈfɒstə/ (BrE) | /ˈfɑːstər/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To encourage the development of something",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "nuôi dưỡng, thúc đẩy"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Foster",
+      "examples": [
+        {
+          "english": "The school fosters creativity.",
+          "vietnamese": "Ngôi trường nuôi dưỡng sự sáng tạo."
+        },
+        {
+          "english": "Good leadership fosters trust.",
+          "vietnamese": "Lãnh đạo tốt thúc đẩy sự tin tưởng."
+        },
+        {
+          "english": "Parents should foster independence.",
+          "vietnamese": "Cha mẹ nên nuôi dưỡng tính tự lập."
+        }
+      ],
+      "collocations": [
+        "foster growth",
+        "foster relationship"
+      ],
+      "synonyms": [
+        "encourage"
+      ],
+      "antonyms": [
+        "discourage"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-010",
+      "word": "scald",
+      "phonetic": "/skɔːld/ (BrE) | /skɔːld/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To burn with hot liquid or steam",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "làm bỏng (bằng nước nóng)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Scald",
+      "examples": [
+        {
+          "english": "He scalded his hand with boiling water.",
+          "vietnamese": "Anh ấy bị bỏng tay do nước sôi."
+        },
+        {
+          "english": "Be careful not to scald yourself.",
+          "vietnamese": "Cẩn thận kẻo bị bỏng."
+        },
+        {
+          "english": "The soup was hot enough to scald.",
+          "vietnamese": "Súp nóng đến mức có thể gây bỏng."
+        }
+      ],
+      "collocations": [
+        "scald skin"
+      ],
+      "synonyms": [
+        "burn"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-022",
+      "word": "cramp",
+      "phonetic": "/kræmp/ (BrE) | /kræmp/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A sudden painful tightening of a muscle",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "chuột rút"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Cramp",
+      "examples": [
+        {
+          "english": "I got a leg cramp while running.",
+          "vietnamese": "Tôi bị chuột rút chân khi chạy."
+        },
+        {
+          "english": "Muscle cramps can be painful.",
+          "vietnamese": "Chuột rút cơ rất đau."
+        },
+        {
+          "english": "Stretching helps prevent cramps.",
+          "vietnamese": "Giãn cơ giúp tránh bị chuột rút."
+        }
+      ],
+      "collocations": [
+        "muscle cramp"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-023",
+      "word": "sprain",
+      "phonetic": "/spreɪn/ (BrE) | /spreɪn/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An injury caused by twisting a joint",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "bong gân"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Sprain",
+      "examples": [
+        {
+          "english": "She suffered an ankle sprain.",
+          "vietnamese": "Cô ấy bị bong gân mắt cá."
+        },
+        {
+          "english": "A sprain can take weeks to heal.",
+          "vietnamese": "Bong gân có thể mất vài tuần để hồi phục."
+        },
+        {
+          "english": "He rested after the sprain.",
+          "vietnamese": "Anh ấy nghỉ ngơi sau khi bị bong gân."
+        }
+      ],
+      "collocations": [
+        "ankle sprain"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-024",
+      "word": "bruise",
+      "phonetic": "/bruːz/ (BrE) | /bruːz/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An injury causing discoloration without breaking the skin",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "vết bầm"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Bruise",
+      "examples": [
+        {
+          "english": "She had a bruise on her arm.",
+          "vietnamese": "Cô ấy có vết bầm trên tay."
+        },
+        {
+          "english": "The bruise faded after a week.",
+          "vietnamese": "Vết bầm mờ dần sau một tuần."
+        },
+        {
+          "english": "He got a bruise from the fall.",
+          "vietnamese": "Anh ấy bị bầm do ngã."
+        }
+      ],
+      "collocations": [
+        "bad bruise"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-011",
+      "word": "refurbish",
+      "phonetic": "/ˌriːˈfɜːbɪʃ/ (BrE) | /ˌriːˈfɜːrbɪʃ/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To renovate or improve something",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "tân trang, sửa sang"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Refurbish",
+      "examples": [
+        {
+          "english": "They refurbished the old building.",
+          "vietnamese": "Họ đã tân trang lại tòa nhà cũ."
+        },
+        {
+          "english": "The hotel was refurbished last year.",
+          "vietnamese": "Khách sạn được sửa sang vào năm ngoái."
+        },
+        {
+          "english": "She refurbished the apartment.",
+          "vietnamese": "Cô ấy sửa sang lại căn hộ."
+        }
+      ],
+      "collocations": [
+        "refurbish house"
+      ],
+      "synonyms": [
+        "renovate"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-012",
+      "word": "defer",
+      "phonetic": "/dɪˈfɜː/ (BrE) | /dɪˈfɜːr/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To delay something until a later time",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "hoãn lại"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Defer",
+      "examples": [
+        {
+          "english": "The meeting was deferred.",
+          "vietnamese": "Cuộc họp bị hoãn lại."
+        },
+        {
+          "english": "She decided to defer her studies.",
+          "vietnamese": "Cô ấy quyết định hoãn việc học."
+        },
+        {
+          "english": "Payment can be deferred.",
+          "vietnamese": "Việc thanh toán có thể được hoãn."
+        }
+      ],
+      "collocations": [
+        "defer decision",
+        "defer payment"
+      ],
+      "synonyms": [
+        "postpone",
+        "delay"
+      ],
+      "antonyms": [
+        "advance"
+      ],
+      "wordFamily": []
+    }
+  ]
+}
