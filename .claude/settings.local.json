@@ -20,7 +20,12 @@
       "Bash(npm run update:no-launch:*)",
       "Bash(npx electron-builder:*)",
       "Bash(osascript:*)",
-      "Bash(codesign:*)"
+      "Bash(codesign:*)",
+      "Bash(sips:*)",
+      "Bash(which magick:*)",
+      "Bash(python3:*)",
+      "Bash(tail:*)",
+      "Bash(git checkout:*)"
     ]
   }
 }
