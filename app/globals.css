@@ -125,6 +125,13 @@
     @apply text-foreground;
     background: radial-gradient(ellipse at 50% 0%, var(--glow) 0%, transparent 60%) fixed, var(--background);
   }
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  * {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
 }
 
 /* Flashcard flip animation utilities */
