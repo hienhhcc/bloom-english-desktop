@@ -39,11 +39,11 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} ${poppins.variable} ${ibmPlexMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} ${poppins.variable} ${ibmPlexMono.variable} antialiased overflow-hidden h-screen`}
       >
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <TitleBar />
-          <div className="pt-9">
+          <div className="h-screen overflow-y-auto pt-9">
             {children}
           </div>
         </ThemeProvider>
