@@ -83,6 +83,14 @@ ipcMain.handle("puter:login", async () => {
   return token;
 });
 
+ipcMain.handle("window:toggleMaximize", () => {
+  if (mainWindow.isMaximized()) {
+    mainWindow.unmaximize();
+  } else {
+    mainWindow.maximize();
+  }
+});
+
 app.on("ready", createWindow);
 
 app.on("window-all-closed", () => {
