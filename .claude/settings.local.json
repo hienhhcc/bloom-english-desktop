@@ -25,7 +25,8 @@
       "Bash(which magick:*)",
       "Bash(python3:*)",
       "Bash(tail:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Skill(commit-commands:commit)"
     ]
   }
 }

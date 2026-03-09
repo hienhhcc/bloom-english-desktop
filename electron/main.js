@@ -110,13 +110,17 @@ ipcMain.handle("vocabulary:seed", async () => {
   const dest = path.join(app.getPath("userData"), "vocabulary");
   if (!fs.existsSync(dest)) {
     fs.mkdirSync(dest, { recursive: true });
-    const src = app.isPackaged
-      ? path.join(process.resourcesPath, "vocabulary")
-      : path.join(__dirname, "..", "data", "vocabulary");
-    for (const file of fs.readdirSync(src)) {
-      if (file.endsWith(".json")) {
-        fs.copyFileSync(path.join(src, file), path.join(dest, file));
-      }
+  }
+  const src = app.isPackaged
+    ? path.join(process.resourcesPath, "vocabulary")
+    : path.join(__dirname, "..", "data", "vocabulary");
+  for (const file of fs.readdirSync(src)) {
+    if (!file.endsWith(".json")) continue;
+    const destFile = path.join(dest, file);
+    // Always overwrite topics.json so new topic metadata is picked up;
+    // for vocabulary data files, only copy if not already present (user may have added their own).
+    if (file === "topics.json" || !fs.existsSync(destFile)) {
+      fs.copyFileSync(path.join(src, file), destFile);
     }
   }
   return dest;
@@ -136,9 +140,19 @@ ipcMain.handle("vocabulary:scan", async () => {
     .map((file) => {
       const id = file.replace(".json", "");
       try {
-        const data = JSON.parse(fs.readFileSync(path.join(dir, file), "utf-8"));
+        const filePath = path.join(dir, file);
+        const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
         const meta = metaById[id] ?? {};
-        return { id, wordCount: data.items?.length ?? 0, name: meta.name ?? id, ...meta };
+        const wordCount = data.items?.length ?? 0;
+        // Fallbacks for topics not in topics.json
+        const name = meta.name ?? id.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+        const createdAt = meta.createdAt ?? fs.statSync(filePath).mtime.toISOString();
+        const difficulty = meta.difficulty ?? (data.items?.[0]?.difficulty ?? "intermediate");
+        const icon = meta.icon ?? "📖";
+        return { id, wordCount, name, createdAt, difficulty, icon,
+          nameVietnamese: meta.nameVietnamese ?? "",
+          description: meta.description ?? "",
+          ...meta };
       } catch { return null; }
     })
     .filter(Boolean);
