@@ -54,6 +54,9 @@
     },
     "win": {
       "target": "nsis"
-    }
+    },
+    "extraResources": [
+      { "from": "data/vocabulary", "to": "vocabulary" }
+    ]
   }
 }

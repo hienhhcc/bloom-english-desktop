@@ -4,9 +4,10 @@ import { useProgress } from '@/hooks/useProgress';
 import { useWorkflowNotifications } from '@/hooks/useWorkflowNotifications';
 import { getTopicStatus } from '@/lib/vocabulary/progress';
 import type { DifficultyLevel, VocabularyTopic } from '@/lib/vocabulary/types';
+import { getTopicsRuntime } from '@/lib/vocabulary/loader';
 import type { WorkflowType } from '@/lib/workflowStore';
-import { Plus } from 'lucide-react';
-import { useCallback, useMemo, useState } from 'react';
+import { Plus, RefreshCw } from 'lucide-react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { AddTopicModal } from './AddTopicModal';
 import { AddVocabularyModal } from './AddVocabularyModal';
@@ -35,6 +36,23 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
     getTopicProgress,
   } = useProgress();
 
+  const [liveTopics, setLiveTopics] = useState<VocabularyTopic[]>(topics);
+  const [isRefreshing, setIsRefreshing] = useState(false);
+
+  useEffect(() => {
+    if (typeof window === 'undefined' || !window.vocabularyAPI) return;
+    getTopicsRuntime().then(setLiveTopics).catch(() => {});
+  }, []);
+
+  const handleRefresh = useCallback(() => {
+    if (typeof window === 'undefined' || !window.vocabularyAPI) return;
+    setIsRefreshing(true);
+    getTopicsRuntime()
+      .then(setLiveTopics)
+      .catch(() => {})
+      .finally(() => setIsRefreshing(false));
+  }, []);
+
   // Filter and sort state
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<StatusFilter>('all');
@@ -61,7 +79,7 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
 
   // Filter and sort topics
   const filteredTopics = useMemo(() => {
-    let result = [...topics];
+    let result = [...liveTopics];
 
     // Search filter
     if (searchQuery.trim()) {
@@ -69,8 +87,8 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
       result = result.filter(
         (topic) =>
           topic.name.toLowerCase().includes(query) ||
-          topic.nameVietnamese.toLowerCase().includes(query) ||
-          topic.description.toLowerCase().includes(query)
+          topic.nameVietnamese?.toLowerCase().includes(query) ||
+          topic.description?.toLowerCase().includes(query)
       );
     }
 
@@ -113,12 +131,12 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
     });
 
     return result;
-  }, [topics, searchQuery, statusFilter, difficultyFilter, sortOption, isLoaded, getTopicProgress]);
+  }, [liveTopics, searchQuery, statusFilter, difficultyFilter, sortOption, isLoaded, getTopicProgress]);
 
   const dueReviews = getDueReviews();
 
   // Create a map of topic info for the reminders
-  const topicMap = new Map(topics.map((t) => [t.id, t]));
+  const topicMap = new Map(liveTopics.map((t) => [t.id, t]));
 
   // Filter out dismissed reviews
   const reviewsWithTopicInfo = dueReviews
@@ -151,6 +169,17 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
 
       {/* Action Buttons */}
       <div className="flex justify-end gap-3 mb-4">
+        {typeof window !== 'undefined' && window.vocabularyAPI && (
+          <Button
+            variant="ghost"
+            onClick={handleRefresh}
+            disabled={isRefreshing}
+            aria-label="Refresh topic list"
+          >
+            <RefreshCw className={`size-4 ${isRefreshing ? 'animate-spin' : ''}`} />
+            <span>Refresh</span>
+          </Button>
+        )}
         <Button
           variant="secondary"
           onClick={() => setShowAddVocabularyModal(true)}
@@ -177,7 +206,7 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
         sortOption={sortOption}
         onSortChange={setSortOption}
         resultCount={filteredTopics.length}
-        totalCount={topics.length}
+        totalCount={liveTopics.length}
       />
 
       {/* Topics Grid */}
@@ -230,7 +259,7 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
       <AddVocabularyModal
         isOpen={showAddVocabularyModal}
         onClose={() => setShowAddVocabularyModal(false)}
-        topics={topics}
+        topics={liveTopics}
         onWorkflowTriggered={(id, label) => handleWorkflowTriggered(id, label, 'specific-vocabulary')}
       />
     </>

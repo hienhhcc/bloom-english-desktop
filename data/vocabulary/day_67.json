@@ -83,7 +83,7 @@
         "deterrent"
       ],
       "wordFamily": [
-        "incentivize"
+        { "word": "incentivize", "partOfSpeech": "verb" }
       ]
     },
     {
@@ -127,7 +127,7 @@
         "blurry"
       ],
       "wordFamily": [
-        "crispy"
+        { "word": "crispy", "partOfSpeech": "adjective" }
       ]
     },
     {
@@ -168,7 +168,7 @@
       ],
       "antonyms": [],
       "wordFamily": [
-        "analogous"
+        { "word": "analogous", "partOfSpeech": "adjective" }
       ]
     },
     {
@@ -254,8 +254,8 @@
         "certain"
       ],
       "wordFamily": [
-        "skeptic",
-        "skepticism"
+        { "word": "skeptic", "partOfSpeech": "noun" },
+        { "word": "skepticism", "partOfSpeech": "noun" }
       ]
     }
   ]

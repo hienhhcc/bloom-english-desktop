@@ -8,3 +8,9 @@ contextBridge.exposeInMainWorld("puterAuth", {
 contextBridge.exposeInMainWorld("windowControls", {
   toggleMaximize: () => ipcRenderer.invoke("window:toggleMaximize"),
 });
+
+contextBridge.exposeInMainWorld("vocabularyAPI", {
+  seed:     ()         => ipcRenderer.invoke("vocabulary:seed"),
+  scan:     ()         => ipcRenderer.invoke("vocabulary:scan"),
+  getTopic: (topicId)  => ipcRenderer.invoke("vocabulary:getTopic", topicId),
+});

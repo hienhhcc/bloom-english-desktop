@@ -42,6 +42,20 @@ function createWindow() {
 
   loadURL(mainWindow);
 
+  mainWindow.webContents.on("did-fail-load", (_e, errorCode, _desc, url) => {
+    if (errorCode === -6) { // ERR_FILE_NOT_FOUND
+      try {
+        const { pathname } = new URL(url);
+        if (pathname.startsWith("/vocabulary/")) {
+          const topicId = pathname.replace("/vocabulary/", "").replace(/\/$/, "");
+          mainWindow.loadURL(`app://bloom-english-desktop/vocabulary/dynamic?id=${topicId}`);
+        }
+      } catch (_urlErr) {
+        // Ignore invalid URLs
+      }
+    }
+  });
+
   mainWindow.on("closed", () => {
     mainWindow = null;
   });
@@ -89,6 +103,52 @@ ipcMain.handle("window:toggleMaximize", () => {
   } else {
     mainWindow.maximize();
   }
+});
+
+ipcMain.handle("vocabulary:seed", async () => {
+  const fs = require("fs");
+  const dest = path.join(app.getPath("userData"), "vocabulary");
+  if (!fs.existsSync(dest)) {
+    fs.mkdirSync(dest, { recursive: true });
+    const src = app.isPackaged
+      ? path.join(process.resourcesPath, "vocabulary")
+      : path.join(__dirname, "..", "data", "vocabulary");
+    for (const file of fs.readdirSync(src)) {
+      if (file.endsWith(".json")) {
+        fs.copyFileSync(path.join(src, file), path.join(dest, file));
+      }
+    }
+  }
+  return dest;
+});
+
+ipcMain.handle("vocabulary:scan", async () => {
+  const fs = require("fs");
+  const dir = path.join(app.getPath("userData"), "vocabulary");
+  const topicsMeta = (() => {
+    try { return JSON.parse(fs.readFileSync(path.join(dir, "topics.json"), "utf-8")); }
+    catch { return []; }
+  })();
+  const metaById = Object.fromEntries(topicsMeta.map((t) => [t.id, t]));
+
+  return fs.readdirSync(dir)
+    .filter((f) => f.endsWith(".json") && f !== "topics.json")
+    .map((file) => {
+      const id = file.replace(".json", "");
+      try {
+        const data = JSON.parse(fs.readFileSync(path.join(dir, file), "utf-8"));
+        const meta = metaById[id] ?? {};
+        return { id, wordCount: data.items?.length ?? 0, name: meta.name ?? id, ...meta };
+      } catch { return null; }
+    })
+    .filter(Boolean);
+});
+
+ipcMain.handle("vocabulary:getTopic", async (_e, topicId) => {
+  const fs = require("fs");
+  const file = path.join(app.getPath("userData"), "vocabulary", `${topicId}.json`);
+  if (!fs.existsSync(file)) return null;
+  return JSON.parse(fs.readFileSync(file, "utf-8"));
 });
 
 app.on("ready", createWindow);
