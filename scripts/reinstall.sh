@@ -34,11 +34,23 @@ if [ -z "$APP_PATH" ]; then
 fi
 rm -rf "/Applications/$APP_NAME.app"
 ditto "$APP_PATH" "/Applications/$APP_NAME.app"
-codesign --force --deep --sign - "/Applications/$APP_NAME.app"
 hdiutil detach "$VOLUME" -quiet
 
-# Step 4: Clear macOS icon cache
-echo "[4/4] Clearing icon cache..."
+# Step 4: Re-sign with entitlements so macOS 26+ accepts mixed Team IDs
+echo "[4/5] Re-signing app bundle..."
+ENTITLEMENTS="$(dirname "$0")/../electron/entitlements.mac.plist"
+APP_INSTALL="/Applications/$APP_NAME.app"
+# Sign nested components inside-out, then the main bundle
+find "$APP_INSTALL/Contents/Frameworks" -name "*.dylib" -o -name "*.framework" 2>/dev/null | sort -r | while read f; do
+  codesign --force --sign - "$f" 2>/dev/null || true
+done
+find "$APP_INSTALL/Contents/Frameworks" -name "*.app" 2>/dev/null | while read helper; do
+  codesign --force --sign - --entitlements "$ENTITLEMENTS" "$helper" 2>/dev/null || true
+done
+codesign --force --sign - --entitlements "$ENTITLEMENTS" "$APP_INSTALL"
+
+# Step 5: Clear macOS icon cache
+echo "[5/5] Clearing icon cache..."
 sudo rm -rfv /Library/Caches/com.apple.iconservices.store > /dev/null 2>&1 || true
 sudo find /private/var/folders/ -name com.apple.dock.iconcache -exec rm -rf {} + 2>/dev/null || true
 sudo find /private/var/folders/ -name com.apple.iconservices -exec rm -rf {} + 2>/dev/null || true
