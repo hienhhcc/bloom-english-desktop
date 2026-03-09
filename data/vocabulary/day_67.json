@@ -1,0 +1,262 @@
+{
+  "topicId": "day_67",
+  "items": [
+    {
+      "id": "adj-024",
+      "word": "proprietary",
+      "phonetic": "/prəˈpraɪətəri/ (BrE) | /prəˈpraɪəteri/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Owned by a person or company and legally protected from use by others",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "độc quyền, thuộc sở hữu riêng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Proprietary",
+      "examples": [
+        {
+          "english": "The company uses proprietary software to manage its data.",
+          "vietnamese": "Công ty sử dụng phần mềm độc quyền để quản lý dữ liệu."
+        },
+        {
+          "english": "This algorithm is proprietary and cannot be shared publicly.",
+          "vietnamese": "Thuật toán này là độc quyền và không thể chia sẻ công khai."
+        },
+        {
+          "english": "They developed a proprietary technology for faster batteries.",
+          "vietnamese": "Họ phát triển công nghệ độc quyền cho pin nhanh hơn."
+        }
+      ],
+      "collocations": [
+        "proprietary software",
+        "proprietary technology"
+      ],
+      "synonyms": [
+        "exclusive",
+        "patented"
+      ],
+      "antonyms": [
+        "open-source",
+        "public"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-025",
+      "word": "incentive",
+      "phonetic": "/ɪnˈsentɪv/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Something that motivates or encourages someone to do something",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "động lực, sự khuyến khích"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Incentive",
+      "examples": [
+        {
+          "english": "The company offers bonuses as an incentive for good performance.",
+          "vietnamese": "Công ty đưa ra tiền thưởng như một động lực cho hiệu suất tốt."
+        },
+        {
+          "english": "Lower taxes can act as an incentive for businesses to invest.",
+          "vietnamese": "Thuế thấp hơn có thể trở thành động lực để doanh nghiệp đầu tư."
+        },
+        {
+          "english": "The scholarship provided an incentive for her to study harder.",
+          "vietnamese": "Học bổng tạo động lực để cô ấy học chăm chỉ hơn."
+        }
+      ],
+      "collocations": [
+        "financial incentive",
+        "provide incentive"
+      ],
+      "synonyms": [
+        "motivation",
+        "encouragement"
+      ],
+      "antonyms": [
+        "deterrent"
+      ],
+      "wordFamily": [
+        "incentivize"
+      ]
+    },
+    {
+      "id": "adj-026",
+      "word": "crisp",
+      "phonetic": "/krɪsp/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Fresh, firm, and pleasantly sharp or clear",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "giòn, rõ ràng, sắc nét"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Crisp",
+      "examples": [
+        {
+          "english": "The apple was fresh and crisp.",
+          "vietnamese": "Quả táo rất tươi và giòn."
+        },
+        {
+          "english": "She gave a crisp explanation of the problem.",
+          "vietnamese": "Cô ấy đưa ra lời giải thích rõ ràng và súc tích về vấn đề."
+        },
+        {
+          "english": "The photo is sharp and crisp.",
+          "vietnamese": "Bức ảnh rất sắc nét và rõ ràng."
+        }
+      ],
+      "collocations": [
+        "crisp apple",
+        "crisp explanation"
+      ],
+      "synonyms": [
+        "clear",
+        "fresh"
+      ],
+      "antonyms": [
+        "soft",
+        "blurry"
+      ],
+      "wordFamily": [
+        "crispy"
+      ]
+    },
+    {
+      "id": "noun-027",
+      "word": "analogy",
+      "phonetic": "/əˈnælədʒi/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A comparison between two things to explain or clarify something",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "phép so sánh tương đồng, phép loại suy"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Analogy",
+      "examples": [
+        {
+          "english": "The teacher used an analogy to explain electricity.",
+          "vietnamese": "Giáo viên dùng phép so sánh để giải thích về điện."
+        },
+        {
+          "english": "He drew an analogy between the brain and a computer.",
+          "vietnamese": "Anh ấy so sánh bộ não với máy tính."
+        },
+        {
+          "english": "Analogies help simplify complex ideas.",
+          "vietnamese": "Những phép so sánh giúp đơn giản hóa các ý tưởng phức tạp."
+        }
+      ],
+      "collocations": [
+        "draw an analogy",
+        "use an analogy"
+      ],
+      "synonyms": [
+        "comparison",
+        "parallel"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        "analogous"
+      ]
+    },
+    {
+      "id": "noun-028",
+      "word": "slop",
+      "phonetic": "/slɒp/ (BrE) | /slɑːp/ (AmE)",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A messy liquid mixture or something done carelessly or poorly",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "chất lỏng bẩn, đồ lộn xộn; thứ làm cẩu thả"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Slop",
+      "examples": [
+        {
+          "english": "He accidentally spilled the slop on the kitchen floor.",
+          "vietnamese": "Anh ta vô tình làm đổ hỗn hợp bẩn xuống sàn bếp."
+        },
+        {
+          "english": "The report was full of careless slop.",
+          "vietnamese": "Bản báo cáo đầy những nội dung cẩu thả."
+        },
+        {
+          "english": "The farmer fed the pigs with leftover food slop.",
+          "vietnamese": "Người nông dân cho lợn ăn thức ăn thừa dạng hỗn hợp."
+        }
+      ],
+      "collocations": [
+        "food slop",
+        "careless slop"
+      ],
+      "synonyms": [
+        "mess",
+        "mush"
+      ],
+      "antonyms": [
+        "order",
+        "precision"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "adj-029",
+      "word": "skeptical",
+      "phonetic": "/ˈskeptɪkəl/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having doubts about whether something is true or useful",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "hoài nghi, nghi ngờ"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Skeptical",
+      "examples": [
+        {
+          "english": "She was skeptical about the new policy.",
+          "vietnamese": "Cô ấy hoài nghi về chính sách mới."
+        },
+        {
+          "english": "Many scientists remain skeptical of the claim.",
+          "vietnamese": "Nhiều nhà khoa học vẫn hoài nghi về tuyên bố đó."
+        },
+        {
+          "english": "He looked skeptical when he heard the story.",
+          "vietnamese": "Anh ấy tỏ vẻ nghi ngờ khi nghe câu chuyện."
+        }
+      ],
+      "collocations": [
+        "skeptical about",
+        "remain skeptical"
+      ],
+      "synonyms": [
+        "doubtful",
+        "suspicious"
+      ],
+      "antonyms": [
+        "convinced",
+        "certain"
+      ],
+      "wordFamily": [
+        "skeptic",
+        "skepticism"
+      ]
+    }
+  ]
+}
