@@ -1,0 +1,149 @@
+{
+  "topicId": "day_68",
+  "items": [
+    {
+      "id": "adv-030",
+      "word": "deliberately",
+      "phonetic": "/dɪˈlɪbərətli/ (BrE) | /dɪˈlɪbərətli/ (AmE)",
+      "partOfSpeech": "adverb",
+      "definitionEnglish": "Done intentionally and with careful thought",
+      "definitionVietnamese": [
+        {
+          "type": "adverb",
+          "definition": "một cách cố ý, có chủ ý"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Deliberately",
+      "examples": [
+        {
+          "english": "He deliberately ignored the warning signs.",
+          "vietnamese": "Anh ta cố ý phớt lờ những dấu hiệu cảnh báo."
+        },
+        {
+          "english": "She deliberately spoke slowly so everyone could understand.",
+          "vietnamese": "Cô ấy cố ý nói chậm để mọi người có thể hiểu."
+        },
+        {
+          "english": "The company deliberately delayed the announcement.",
+          "vietnamese": "Công ty cố tình trì hoãn thông báo."
+        }
+      ],
+      "collocations": [
+        "deliberately ignore",
+        "deliberately avoid"
+      ],
+      "synonyms": [
+        "intentionally",
+        "purposely"
+      ],
+      "antonyms": [
+        "accidentally"
+      ],
+      "wordFamily": [
+        {
+          "word": "deliberate",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "word": "deliberation",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "noun-031",
+      "word": "cutover",
+      "phonetic": "/ˈkʌtˌoʊvər/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "The process of switching from an old system to a new system",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "việc chuyển đổi hệ thống (từ hệ thống cũ sang hệ thống mới)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Cutover",
+      "examples": [
+        {
+          "english": "The system cutover will happen this weekend.",
+          "vietnamese": "Việc chuyển đổi hệ thống sẽ diễn ra vào cuối tuần này."
+        },
+        {
+          "english": "The team prepared carefully for the database cutover.",
+          "vietnamese": "Nhóm đã chuẩn bị cẩn thận cho việc chuyển đổi cơ sở dữ liệu."
+        },
+        {
+          "english": "Downtime is expected during the cutover process.",
+          "vietnamese": "Dự kiến sẽ có thời gian ngừng hoạt động trong quá trình chuyển đổi."
+        }
+      ],
+      "collocations": [
+        "system cutover",
+        "cutover process"
+      ],
+      "synonyms": [
+        "transition",
+        "switch"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "cut over",
+          "partOfSpeech": "verb phrase"
+        }
+      ]
+    },
+    {
+      "id": "noun-032",
+      "word": "imitation",
+      "phonetic": "/ˌɪmɪˈteɪʃən/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A copy or mimic of something, especially something valuable or well-known",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "sự bắt chước, bản sao, hàng nhái"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Imitation",
+      "examples": [
+        {
+          "english": "The bag was just an imitation of a luxury brand.",
+          "vietnamese": "Chiếc túi chỉ là hàng nhái của một thương hiệu xa xỉ."
+        },
+        {
+          "english": "Children learn a lot through imitation.",
+          "vietnamese": "Trẻ em học được rất nhiều thông qua việc bắt chước."
+        },
+        {
+          "english": "His imitation of the actor was very funny.",
+          "vietnamese": "Sự bắt chước của anh ấy đối với nam diễn viên rất hài hước."
+        }
+      ],
+      "collocations": [
+        "cheap imitation",
+        "perfect imitation"
+      ],
+      "synonyms": [
+        "copy",
+        "replica"
+      ],
+      "antonyms": [
+        "original"
+      ],
+      "wordFamily": [
+        {
+          "word": "imitate",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "imitator",
+          "partOfSpeech": "noun"
+        }
+      ]
+    }
+  ]
+}

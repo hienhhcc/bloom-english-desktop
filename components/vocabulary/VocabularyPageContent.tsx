@@ -4,7 +4,7 @@ import { useProgress } from '@/hooks/useProgress';
 import { useWorkflowNotifications } from '@/hooks/useWorkflowNotifications';
 import { getTopicStatus } from '@/lib/vocabulary/progress';
 import type { DifficultyLevel, VocabularyTopic } from '@/lib/vocabulary/types';
-import { getTopicsRuntime } from '@/lib/vocabulary/loader';
+import { getTopicsRuntime, scanTopicsRuntime } from '@/lib/vocabulary/loader';
 import type { WorkflowType } from '@/lib/workflowStore';
 import { Plus, RefreshCw } from 'lucide-react';
 import { useCallback, useEffect, useMemo, useState } from 'react';
@@ -47,7 +47,7 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
   const handleRefresh = useCallback(() => {
     if (typeof window === 'undefined' || !window.vocabularyAPI) return;
     setIsRefreshing(true);
-    getTopicsRuntime()
+    scanTopicsRuntime()
       .then(setLiveTopics)
       .catch(() => {})
       .finally(() => setIsRefreshing(false));

@@ -114,13 +114,20 @@ ipcMain.handle("vocabulary:seed", async () => {
   const src = app.isPackaged
     ? path.join(process.resourcesPath, "vocabulary")
     : path.join(__dirname, "..", "data", "vocabulary");
-  for (const file of fs.readdirSync(src)) {
-    if (!file.endsWith(".json")) continue;
+  const srcFiles = new Set(fs.readdirSync(src).filter((f) => f.endsWith(".json")));
+  // Copy new/updated files from source to userData
+  for (const file of srcFiles) {
     const destFile = path.join(dest, file);
-    // Always overwrite topics.json so new topic metadata is picked up;
-    // for vocabulary data files, only copy if not already present (user may have added their own).
+    // Always overwrite topics.json so new metadata is picked up;
+    // for data files, only copy if not already present.
     if (file === "topics.json" || !fs.existsSync(destFile)) {
       fs.copyFileSync(path.join(src, file), destFile);
+    }
+  }
+  // Remove files from userData that were deleted from source
+  for (const file of fs.readdirSync(dest)) {
+    if (file.endsWith(".json") && !srcFiles.has(file)) {
+      fs.unlinkSync(path.join(dest, file));
     }
   }
   return dest;
