@@ -188,5 +188,35 @@
     "wordCount": 10,
     "difficulty": "intermediate",
     "createdAt": "2026-02-14T08:28:35.068Z"
+  },
+  {
+    "id": "day_69",
+    "name": "Day 69",
+    "nameVietnamese": "Ngày 69",
+    "description": "Vocabulary about Day 69",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-15T08:28:35.068Z"
+  },
+  {
+    "id": "day_70",
+    "name": "Day 70",
+    "nameVietnamese": "Ngày 70",
+    "description": "Vocabulary about Day 70",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-16T08:28:35.068Z"
+  },
+  {
+    "id": "day_71",
+    "name": "Day 71",
+    "nameVietnamese": "Ngày 71",
+    "description": "Vocabulary about Day 71",
+    "icon": "🌟",
+    "wordCount": 10,
+    "difficulty": "intermediate",
+    "createdAt": "2026-02-17T08:28:35.068Z"
   }
 ]

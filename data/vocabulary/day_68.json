@@ -2,146 +2,323 @@
   "topicId": "day_68",
   "items": [
     {
-      "id": "adv-030",
-      "word": "deliberately",
-      "phonetic": "/dɪˈlɪbərətli/ (BrE) | /dɪˈlɪbərətli/ (AmE)",
-      "partOfSpeech": "adverb",
-      "definitionEnglish": "Done intentionally and with careful thought",
-      "definitionVietnamese": [
-        {
-          "type": "adverb",
-          "definition": "một cách cố ý, có chủ ý"
-        }
-      ],
-      "difficulty": "intermediate",
-      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Deliberately",
-      "examples": [
-        {
-          "english": "He deliberately ignored the warning signs.",
-          "vietnamese": "Anh ta cố ý phớt lờ những dấu hiệu cảnh báo."
-        },
-        {
-          "english": "She deliberately spoke slowly so everyone could understand.",
-          "vietnamese": "Cô ấy cố ý nói chậm để mọi người có thể hiểu."
-        },
-        {
-          "english": "The company deliberately delayed the announcement.",
-          "vietnamese": "Công ty cố tình trì hoãn thông báo."
-        }
-      ],
-      "collocations": [
-        "deliberately ignore",
-        "deliberately avoid"
-      ],
-      "synonyms": [
-        "intentionally",
-        "purposely"
-      ],
-      "antonyms": [
-        "accidentally"
-      ],
-      "wordFamily": [
-        {
-          "word": "deliberate",
-          "partOfSpeech": "adjective"
-        },
-        {
-          "word": "deliberation",
-          "partOfSpeech": "noun"
-        }
-      ]
-    },
-    {
-      "id": "noun-031",
-      "word": "cutover",
-      "phonetic": "/ˈkʌtˌoʊvər/",
+      "id": "noun-033",
+      "word": "preamble",
+      "phonetic": "/priːˈæmbəl/",
       "partOfSpeech": "noun",
-      "definitionEnglish": "The process of switching from an old system to a new system",
+      "definitionEnglish": "An introductory statement or section that explains the purpose of a document, speech, or system",
       "definitionVietnamese": [
         {
           "type": "noun",
-          "definition": "việc chuyển đổi hệ thống (từ hệ thống cũ sang hệ thống mới)"
+          "definition": "lời mở đầu, phần giới thiệu"
         }
       ],
       "difficulty": "intermediate",
-      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Cutover",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Preamble",
       "examples": [
         {
-          "english": "The system cutover will happen this weekend.",
-          "vietnamese": "Việc chuyển đổi hệ thống sẽ diễn ra vào cuối tuần này."
+          "english": "The constitution begins with a famous preamble.",
+          "vietnamese": "Hiến pháp bắt đầu bằng một lời mở đầu nổi tiếng."
         },
         {
-          "english": "The team prepared carefully for the database cutover.",
-          "vietnamese": "Nhóm đã chuẩn bị cẩn thận cho việc chuyển đổi cơ sở dữ liệu."
+          "english": "The speaker skipped the preamble and went straight to the main topic.",
+          "vietnamese": "Người diễn giả bỏ qua phần mở đầu và đi thẳng vào chủ đề chính."
         },
         {
-          "english": "Downtime is expected during the cutover process.",
-          "vietnamese": "Dự kiến sẽ có thời gian ngừng hoạt động trong quá trình chuyển đổi."
+          "english": "The document includes a short preamble explaining its purpose.",
+          "vietnamese": "Tài liệu bao gồm một phần mở đầu ngắn giải thích mục đích của nó."
         }
       ],
       "collocations": [
-        "system cutover",
-        "cutover process"
+        "constitutional preamble",
+        "brief preamble"
       ],
       "synonyms": [
-        "transition",
-        "switch"
+        "introduction",
+        "preface"
+      ],
+      "antonyms": [
+        "conclusion"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-034",
+      "word": "regression test",
+      "phonetic": "/rɪˈɡreʃən test/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A type of software testing that ensures previously working features still function after changes or updates",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "kiểm thử hồi quy (kiểm tra để đảm bảo chức năng cũ vẫn hoạt động sau khi cập nhật)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Regression+Test",
+      "examples": [
+        {
+          "english": "The team ran regression tests after deploying the new feature.",
+          "vietnamese": "Nhóm đã chạy kiểm thử hồi quy sau khi triển khai tính năng mới."
+        },
+        {
+          "english": "Regression testing helps prevent old bugs from returning.",
+          "vietnamese": "Kiểm thử hồi quy giúp ngăn lỗi cũ quay trở lại."
+        },
+        {
+          "english": "Automated regression tests save developers a lot of time.",
+          "vietnamese": "Các bài kiểm thử hồi quy tự động giúp lập trình viên tiết kiệm nhiều thời gian."
+        }
+      ],
+      "collocations": [
+        "run regression tests",
+        "automated regression testing"
+      ],
+      "synonyms": [
+        "software regression testing"
       ],
       "antonyms": [],
       "wordFamily": [
         {
-          "word": "cut over",
-          "partOfSpeech": "verb phrase"
+          "word": "regression",
+          "partOfSpeech": "noun"
         }
       ]
     },
     {
-      "id": "noun-032",
-      "word": "imitation",
-      "phonetic": "/ˌɪmɪˈteɪʃən/",
-      "partOfSpeech": "noun",
-      "definitionEnglish": "A copy or mimic of something, especially something valuable or well-known",
+      "id": "adj-035",
+      "word": "impenetrable",
+      "phonetic": "/ɪmˈpenɪtrəbəl/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Impossible to pass through, understand, or see through",
       "definitionVietnamese": [
         {
-          "type": "noun",
-          "definition": "sự bắt chước, bản sao, hàng nhái"
+          "type": "adjective",
+          "definition": "không thể xuyên qua; khó hiểu, bí ẩn"
         }
       ],
-      "difficulty": "intermediate",
-      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Imitation",
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Impenetrable",
       "examples": [
         {
-          "english": "The bag was just an imitation of a luxury brand.",
-          "vietnamese": "Chiếc túi chỉ là hàng nhái của một thương hiệu xa xỉ."
+          "english": "The jungle was so dense it seemed impenetrable.",
+          "vietnamese": "Khu rừng rậm rạp đến mức dường như không thể xuyên qua."
         },
         {
-          "english": "Children learn a lot through imitation.",
-          "vietnamese": "Trẻ em học được rất nhiều thông qua việc bắt chước."
+          "english": "His expression remained impenetrable.",
+          "vietnamese": "Biểu cảm của anh ấy vẫn khó đoán."
         },
         {
-          "english": "His imitation of the actor was very funny.",
-          "vietnamese": "Sự bắt chước của anh ấy đối với nam diễn viên rất hài hước."
+          "english": "The document was written in impenetrable technical language.",
+          "vietnamese": "Tài liệu được viết bằng ngôn ngữ kỹ thuật rất khó hiểu."
         }
       ],
       "collocations": [
-        "cheap imitation",
-        "perfect imitation"
+        "impenetrable forest",
+        "impenetrable expression"
       ],
       "synonyms": [
-        "copy",
-        "replica"
+        "incomprehensible",
+        "unbreakable"
       ],
       "antonyms": [
-        "original"
+        "clear",
+        "penetrable"
       ],
       "wordFamily": [
         {
-          "word": "imitate",
+          "word": "penetrate",
           "partOfSpeech": "verb"
         },
         {
-          "word": "imitator",
+          "word": "penetration",
           "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "verb-036",
+      "word": "bash",
+      "phonetic": "/bæʃ/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To hit something hard or to strongly criticize someone or something",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "đập mạnh; chỉ trích gay gắt"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Bash",
+      "examples": [
+        {
+          "english": "He bashed the door open with his shoulder.",
+          "vietnamese": "Anh ấy đập mạnh vào cửa bằng vai để mở."
+        },
+        {
+          "english": "Critics bashed the movie for its weak storyline.",
+          "vietnamese": "Các nhà phê bình chỉ trích bộ phim vì cốt truyện yếu."
+        },
+        {
+          "english": "She accidentally bashed her head on the shelf.",
+          "vietnamese": "Cô ấy vô tình đập đầu vào cái kệ."
+        }
+      ],
+      "collocations": [
+        "bash the door",
+        "bash critics"
+      ],
+      "synonyms": [
+        "hit",
+        "slam"
+      ],
+      "antonyms": [
+        "praise"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-037",
+      "word": "decimate",
+      "phonetic": "/ˈdesɪmeɪt/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To destroy a large portion of something or reduce it drastically",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "tàn phá, phá hủy phần lớn"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Decimate",
+      "examples": [
+        {
+          "english": "The disease decimated the population.",
+          "vietnamese": "Căn bệnh đã tàn phá dân số."
+        },
+        {
+          "english": "The hurricane decimated several coastal towns.",
+          "vietnamese": "Cơn bão đã tàn phá nhiều thị trấn ven biển."
+        },
+        {
+          "english": "Budget cuts decimated the research program.",
+          "vietnamese": "Việc cắt giảm ngân sách đã làm suy yếu nghiêm trọng chương trình nghiên cứu."
+        }
+      ],
+      "collocations": [
+        "decimate the population",
+        "decimate the army"
+      ],
+      "synonyms": [
+        "destroy",
+        "devastate"
+      ],
+      "antonyms": [
+        "preserve",
+        "protect"
+      ],
+      "wordFamily": [
+        {
+          "word": "decimation",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "adj-038",
+      "word": "insolent",
+      "phonetic": "/ˈɪnsələnt/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Showing rude or disrespectful behavior toward someone",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "láo xược, hỗn láo"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Insolent",
+      "examples": [
+        {
+          "english": "The student gave an insolent reply to the teacher.",
+          "vietnamese": "Học sinh trả lời giáo viên một cách hỗn láo."
+        },
+        {
+          "english": "His insolent attitude annoyed everyone.",
+          "vietnamese": "Thái độ láo xược của anh ta khiến mọi người khó chịu."
+        },
+        {
+          "english": "She was punished for her insolent behavior.",
+          "vietnamese": "Cô ấy bị phạt vì hành vi hỗn láo."
+        }
+      ],
+      "collocations": [
+        "insolent attitude",
+        "insolent reply"
+      ],
+      "synonyms": [
+        "rude",
+        "disrespectful"
+      ],
+      "antonyms": [
+        "respectful",
+        "polite"
+      ],
+      "wordFamily": [
+        {
+          "word": "insolence",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "adj-039",
+      "word": "ambiguous",
+      "phonetic": "/æmˈbɪɡjuəs/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Having more than one possible meaning or not clearly defined",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "mơ hồ, không rõ ràng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Ambiguous",
+      "examples": [
+        {
+          "english": "The instructions were ambiguous and confusing.",
+          "vietnamese": "Hướng dẫn mơ hồ và gây nhầm lẫn."
+        },
+        {
+          "english": "His answer was intentionally ambiguous.",
+          "vietnamese": "Câu trả lời của anh ấy cố tình mơ hồ."
+        },
+        {
+          "english": "The contract contains ambiguous language.",
+          "vietnamese": "Hợp đồng chứa ngôn ngữ mơ hồ."
+        }
+      ],
+      "collocations": [
+        "ambiguous statement",
+        "ambiguous language"
+      ],
+      "synonyms": [
+        "unclear",
+        "vague"
+      ],
+      "antonyms": [
+        "clear",
+        "definite"
+      ],
+      "wordFamily": [
+        {
+          "word": "ambiguity",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "ambiguously",
+          "partOfSpeech": "adverb"
         }
       ]
     }

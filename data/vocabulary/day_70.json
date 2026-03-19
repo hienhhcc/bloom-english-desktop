@@ -1,0 +1,332 @@
+{
+  "topicId": "day_70",
+  "items": [
+    {
+      "id": "noun-048",
+      "word": "preset",
+      "phonetic": "/ˈpriːset/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A predefined setting or configuration that can be quickly applied",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "thiết lập sẵn, cấu hình có sẵn"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Preset",
+      "examples": [
+        {
+          "english": "The app includes several camera presets.",
+          "vietnamese": "Ứng dụng có sẵn nhiều thiết lập máy ảnh."
+        },
+        {
+          "english": "You can save your own preset for color grading.",
+          "vietnamese": "Bạn có thể lưu thiết lập sẵn của riêng mình cho việc chỉnh màu."
+        },
+        {
+          "english": "He selected a lighting preset for the photo.",
+          "vietnamese": "Anh ấy chọn một thiết lập ánh sáng có sẵn cho bức ảnh."
+        }
+      ],
+      "collocations": [
+        "camera preset",
+        "preset settings"
+      ],
+      "synonyms": [
+        "default setting",
+        "preconfiguration"
+      ],
+      "antonyms": [
+        "custom setting"
+      ],
+      "wordFamily": [
+        {
+          "word": "preset",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "adj-049",
+      "word": "subtle",
+      "phonetic": "/ˈsʌtəl/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Delicate or not obvious; difficult to notice or understand",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "tinh tế, khó nhận thấy"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Subtle",
+      "examples": [
+        {
+          "english": "She gave a subtle hint about the surprise.",
+          "vietnamese": "Cô ấy đưa ra một gợi ý rất tinh tế về điều bất ngờ."
+        },
+        {
+          "english": "The perfume has a subtle fragrance.",
+          "vietnamese": "Nước hoa có mùi hương nhẹ nhàng."
+        },
+        {
+          "english": "There was a subtle change in his tone.",
+          "vietnamese": "Có một sự thay đổi tinh tế trong giọng nói của anh ấy."
+        }
+      ],
+      "collocations": [
+        "subtle difference",
+        "subtle hint"
+      ],
+      "synonyms": [
+        "delicate",
+        "slight"
+      ],
+      "antonyms": [
+        "obvious",
+        "clear"
+      ],
+      "wordFamily": [
+        {
+          "word": "subtly",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "word": "subtlety",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "adj-050",
+      "word": "cross-cutting",
+      "phonetic": "/ˌkrɒsˈkʌtɪŋ/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Affecting or involving many different areas, groups, or aspects",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "xuyên suốt nhiều lĩnh vực; liên ngành"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Cross-cutting",
+      "examples": [
+        {
+          "english": "Climate change is a cross-cutting issue affecting many sectors.",
+          "vietnamese": "Biến đổi khí hậu là vấn đề xuyên suốt ảnh hưởng đến nhiều lĩnh vực."
+        },
+        {
+          "english": "Security is a cross-cutting concern in software development.",
+          "vietnamese": "Bảo mật là mối quan tâm xuyên suốt trong phát triển phần mềm."
+        },
+        {
+          "english": "The project addresses several cross-cutting challenges.",
+          "vietnamese": "Dự án giải quyết nhiều thách thức liên ngành."
+        }
+      ],
+      "collocations": [
+        "cross-cutting issue",
+        "cross-cutting concern"
+      ],
+      "synonyms": [
+        "interdisciplinary",
+        "broad"
+      ],
+      "antonyms": [
+        "specific"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-051",
+      "word": "accumulate",
+      "phonetic": "/əˈkjuːmjəleɪt/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To gather or collect something gradually over time",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "tích lũy, gom lại theo thời gian"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Accumulate",
+      "examples": [
+        {
+          "english": "Dust accumulated on the old furniture.",
+          "vietnamese": "Bụi tích tụ trên đồ nội thất cũ."
+        },
+        {
+          "english": "She accumulated a lot of experience over the years.",
+          "vietnamese": "Cô ấy tích lũy nhiều kinh nghiệm qua nhiều năm."
+        },
+        {
+          "english": "The company accumulated significant profits.",
+          "vietnamese": "Công ty tích lũy được lợi nhuận đáng kể."
+        }
+      ],
+      "collocations": [
+        "accumulate wealth",
+        "accumulate experience"
+      ],
+      "synonyms": [
+        "gather",
+        "collect"
+      ],
+      "antonyms": [
+        "lose",
+        "spend"
+      ],
+      "wordFamily": [
+        {
+          "word": "accumulation",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "adj-052",
+      "word": "legitimate",
+      "phonetic": "/lɪˈdʒɪtɪmət/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Lawful, valid, or acceptable according to rules or standards",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "hợp pháp, chính đáng"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Legitimate",
+      "examples": [
+        {
+          "english": "The company runs a legitimate business.",
+          "vietnamese": "Công ty điều hành một doanh nghiệp hợp pháp."
+        },
+        {
+          "english": "She raised legitimate concerns about safety.",
+          "vietnamese": "Cô ấy đưa ra những lo ngại chính đáng về an toàn."
+        },
+        {
+          "english": "The website looks legitimate.",
+          "vietnamese": "Trang web trông có vẻ hợp pháp."
+        }
+      ],
+      "collocations": [
+        "legitimate concern",
+        "legitimate business"
+      ],
+      "synonyms": [
+        "valid",
+        "lawful"
+      ],
+      "antonyms": [
+        "illegal",
+        "invalid"
+      ],
+      "wordFamily": [
+        {
+          "word": "legitimacy",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "legitimize",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "verb-053",
+      "word": "marinate",
+      "phonetic": "/ˈmærɪneɪt/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To soak food, especially meat, in a seasoned liquid before cooking",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "ướp (thực phẩm với gia vị trước khi nấu)"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Marinate",
+      "examples": [
+        {
+          "english": "You should marinate the chicken for at least two hours.",
+          "vietnamese": "Bạn nên ướp gà ít nhất hai giờ."
+        },
+        {
+          "english": "The chef marinated the beef in soy sauce and garlic.",
+          "vietnamese": "Đầu bếp ướp thịt bò với nước tương và tỏi."
+        },
+        {
+          "english": "Let the vegetables marinate overnight.",
+          "vietnamese": "Hãy để rau củ được ướp qua đêm."
+        }
+      ],
+      "collocations": [
+        "marinate chicken",
+        "marinate meat"
+      ],
+      "synonyms": [
+        "soak",
+        "season"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "marinade",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "verb-054",
+      "word": "consolidate",
+      "phonetic": "/kənˈsɒlɪdeɪt/ (BrE) | /kənˈsɑːlɪdeɪt/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To combine things into a single, stronger, or more effective whole",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "hợp nhất, củng cố"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Consolidate",
+      "examples": [
+        {
+          "english": "The company consolidated its offices into one building.",
+          "vietnamese": "Công ty hợp nhất các văn phòng vào một tòa nhà."
+        },
+        {
+          "english": "He consolidated his notes before the exam.",
+          "vietnamese": "Anh ấy tổng hợp lại ghi chú trước kỳ thi."
+        },
+        {
+          "english": "The merger helped consolidate their market position.",
+          "vietnamese": "Việc sáp nhập giúp củng cố vị thế thị trường của họ."
+        }
+      ],
+      "collocations": [
+        "consolidate resources",
+        "consolidate power"
+      ],
+      "synonyms": [
+        "merge",
+        "combine"
+      ],
+      "antonyms": [
+        "separate",
+        "divide"
+      ],
+      "wordFamily": [
+        {
+          "word": "consolidation",
+          "partOfSpeech": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -16,6 +16,7 @@ interface ReviewItem {
 interface ReviewRemindersProps {
   reviews: ReviewItem[];
   onDismiss?: (topicId: string, reviewType: 'oneDay' | 'oneWeek') => void;
+  useDynamicRoute?: boolean;
 }
 
 function getReviewBadge(reviewType: 'oneDay' | 'oneWeek'): { label: string; color: string } {
@@ -24,7 +25,7 @@ function getReviewBadge(reviewType: 'oneDay' | 'oneWeek'): { label: string; colo
     : { label: '1 week', color: 'bg-white/80 text-orange-700 dark:bg-orange-900/80 dark:text-orange-200' };
 }
 
-export function ReviewReminders({ reviews, onDismiss }: ReviewRemindersProps) {
+export function ReviewReminders({ reviews, onDismiss, useDynamicRoute }: ReviewRemindersProps) {
   if (reviews.length === 0) {
     return null;
   }
@@ -52,7 +53,10 @@ export function ReviewReminders({ reviews, onDismiss }: ReviewRemindersProps) {
             >
               <Card className="shadow-sm hover:shadow-md transition-all py-0">
                 <Link
-                  href={`/vocabulary/${review.topicId}?mode=quiz&review=${review.reviewType}`}
+                  href={useDynamicRoute
+                    ? `/vocabulary/dynamic?id=${review.topicId}&mode=quiz&review=${review.reviewType}`
+                    : `/vocabulary/${review.topicId}?mode=quiz&review=${review.reviewType}`
+                  }
                   className="flex items-center gap-3 p-3 pr-10"
                 >
                   {/* Topic Icon */}

@@ -111,18 +111,34 @@ ipcMain.handle("vocabulary:seed", async () => {
   if (!fs.existsSync(dest)) {
     fs.mkdirSync(dest, { recursive: true });
   }
-  const src = app.isPackaged
-    ? path.join(process.resourcesPath, "vocabulary")
-    : path.join(__dirname, "..", "data", "vocabulary");
-  const srcFiles = new Set(fs.readdirSync(src).filter((f) => f.endsWith(".json")));
-  // Copy new/updated files from source to userData
-  for (const file of srcFiles) {
-    const destFile = path.join(dest, file);
-    // Always overwrite topics.json so new metadata is picked up;
-    // for data files, only copy if not already present.
-    if (file === "topics.json" || !fs.existsSync(destFile)) {
-      fs.copyFileSync(path.join(src, file), destFile);
+
+  // In dev mode, source is the project's data/vocabulary/ directory.
+  // We also persist this path so the packaged app can read from it live.
+  const projectVocabPath = path.join(__dirname, "..", "data", "vocabulary");
+  if (!app.isPackaged) {
+    const configPath = path.join(app.getPath("userData"), "vocab-config.json");
+    fs.writeFileSync(configPath, JSON.stringify({ vocabSourcePath: projectVocabPath }, null, 2));
+  }
+
+  // Determine the live source: prefer the project directory if it exists
+  const configPath = path.join(app.getPath("userData"), "vocab-config.json");
+  let liveSource = null;
+  try {
+    const config = JSON.parse(fs.readFileSync(configPath, "utf-8"));
+    if (config.vocabSourcePath && fs.existsSync(config.vocabSourcePath)) {
+      liveSource = config.vocabSourcePath;
     }
+  } catch {}
+
+  // The authoritative source: live project dir if available, else bundled resources
+  const src = liveSource ?? (app.isPackaged
+    ? path.join(process.resourcesPath, "vocabulary")
+    : projectVocabPath);
+
+  const srcFiles = new Set(fs.readdirSync(src).filter((f) => f.endsWith(".json")));
+  // Always overwrite all files from source so updates and deletions are reflected
+  for (const file of srcFiles) {
+    fs.copyFileSync(path.join(src, file), path.join(dest, file));
   }
   // Remove files from userData that were deleted from source
   for (const file of fs.readdirSync(dest)) {

@@ -38,9 +38,11 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
 
   const [liveTopics, setLiveTopics] = useState<VocabularyTopic[]>(topics);
   const [isRefreshing, setIsRefreshing] = useState(false);
+  const [isElectron, setIsElectron] = useState(false);
 
   useEffect(() => {
     if (typeof window === 'undefined' || !window.vocabularyAPI) return;
+    setIsElectron(true);
     getTopicsRuntime().then(setLiveTopics).catch(() => {});
   }, []);
 
@@ -52,6 +54,7 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
       .catch(() => {})
       .finally(() => setIsRefreshing(false));
   }, []);
+
 
   // Filter and sort state
   const [searchQuery, setSearchQuery] = useState('');
@@ -158,6 +161,7 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
         <ReviewReminders
           reviews={reviewsWithTopicInfo}
           onDismiss={dismissReviewAlert}
+          useDynamicRoute={isElectron}
         />
       )}
 
@@ -227,6 +231,7 @@ export function VocabularyPageContent({ topics }: VocabularyPageContentProps) {
                   topic={topic}
                   progress={isLoaded ? progress?.topics[topic.id] : null}
                   isReviewDismissed={reviewDismissed}
+                  useDynamicRoute={isElectron}
                 />
               </div>
             );

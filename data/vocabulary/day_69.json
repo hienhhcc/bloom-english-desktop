@@ -1,0 +1,344 @@
+{
+  "topicId": "day_69",
+  "items": [
+    {
+      "id": "adj-040",
+      "word": "staged",
+      "phonetic": "/steɪdʒd/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Arranged, planned, or organized in advance, often to appear natural or real",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "được dàn dựng, được sắp đặt trước"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Staged",
+      "examples": [
+        {
+          "english": "The protest was allegedly staged for media attention.",
+          "vietnamese": "Cuộc biểu tình được cho là đã được dàn dựng để thu hút sự chú ý của truyền thông."
+        },
+        {
+          "english": "The scene in the movie was carefully staged.",
+          "vietnamese": "Cảnh trong bộ phim được dàn dựng rất cẩn thận."
+        },
+        {
+          "english": "Some people believe the event was staged to influence public opinion.",
+          "vietnamese": "Một số người tin rằng sự kiện đã được dàn dựng để ảnh hưởng đến dư luận."
+        }
+      ],
+      "collocations": [
+        "staged event",
+        "staged protest"
+      ],
+      "synonyms": [
+        "arranged",
+        "orchestrated"
+      ],
+      "antonyms": [
+        "spontaneous",
+        "genuine"
+      ],
+      "wordFamily": [
+        {
+          "word": "stage",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "stage",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "adv-041",
+      "word": "allegedly",
+      "phonetic": "/əˈledʒɪdli/",
+      "partOfSpeech": "adverb",
+      "definitionEnglish": "Used to say that something is claimed to be true but has not been proven",
+      "definitionVietnamese": [
+        {
+          "type": "adverb",
+          "definition": "bị cho là, được cho là (chưa được chứng minh)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Allegedly",
+      "examples": [
+        {
+          "english": "He allegedly stole the confidential documents.",
+          "vietnamese": "Anh ta bị cho là đã đánh cắp các tài liệu mật."
+        },
+        {
+          "english": "The company allegedly violated environmental regulations.",
+          "vietnamese": "Công ty bị cho là đã vi phạm các quy định về môi trường."
+        },
+        {
+          "english": "The suspect allegedly fled the country after the incident.",
+          "vietnamese": "Nghi phạm được cho là đã rời khỏi đất nước sau sự việc."
+        }
+      ],
+      "collocations": [
+        "allegedly involved",
+        "allegedly responsible"
+      ],
+      "synonyms": [
+        "reportedly",
+        "supposedly"
+      ],
+      "antonyms": [
+        "proven",
+        "confirmed"
+      ],
+      "wordFamily": [
+        {
+          "word": "allege",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "allegation",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "noun-042",
+      "word": "waveform",
+      "phonetic": "/ˈweɪvfɔːrm/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A visual representation of how a signal changes over time, commonly used for sound, electrical signals, or digital data",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "dạng sóng, biểu đồ thể hiện tín hiệu theo thời gian"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Waveform",
+      "examples": [
+        {
+          "english": "The audio editor displays the waveform of the recording.",
+          "vietnamese": "Trình chỉnh sửa âm thanh hiển thị dạng sóng của bản ghi."
+        },
+        {
+          "english": "Engineers analyzed the waveform to detect signal noise.",
+          "vietnamese": "Các kỹ sư phân tích dạng sóng để phát hiện nhiễu tín hiệu."
+        },
+        {
+          "english": "Each instrument produces a unique waveform.",
+          "vietnamese": "Mỗi nhạc cụ tạo ra một dạng sóng riêng."
+        }
+      ],
+      "collocations": [
+        "audio waveform",
+        "signal waveform"
+      ],
+      "synonyms": [
+        "signal shape",
+        "signal pattern"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-043",
+      "word": "overlay",
+      "phonetic": "/ˌoʊvərˈleɪ/ (verb) | /ˈoʊvərleɪ/ (noun)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To place one thing on top of another, especially so that both remain visible or combined",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "phủ lên, chồng lên"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Overlay",
+      "examples": [
+        {
+          "english": "The designer overlaid text on the image.",
+          "vietnamese": "Nhà thiết kế chồng văn bản lên hình ảnh."
+        },
+        {
+          "english": "The software allows users to overlay multiple maps.",
+          "vietnamese": "Phần mềm cho phép người dùng chồng nhiều bản đồ lên nhau."
+        },
+        {
+          "english": "You can overlay subtitles on the video.",
+          "vietnamese": "Bạn có thể chồng phụ đề lên video."
+        }
+      ],
+      "collocations": [
+        "overlay text",
+        "overlay image"
+      ],
+      "synonyms": [
+        "superimpose",
+        "layer"
+      ],
+      "antonyms": [
+        "remove",
+        "separate"
+      ],
+      "wordFamily": [
+        {
+          "word": "overlay",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "adj-044",
+      "word": "polished",
+      "phonetic": "/ˈpɒlɪʃt/ (BrE) | /ˈpɑːlɪʃt/ (AmE)",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Smooth, refined, or well-developed, often describing appearance, performance, or behavior",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "được đánh bóng; trau chuốt, hoàn thiện"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Polished",
+      "examples": [
+        {
+          "english": "The presentation was very polished and professional.",
+          "vietnamese": "Bài thuyết trình rất trau chuốt và chuyên nghiệp."
+        },
+        {
+          "english": "She gave a polished performance on stage.",
+          "vietnamese": "Cô ấy có một màn trình diễn rất hoàn thiện trên sân khấu."
+        },
+        {
+          "english": "The software has a polished user interface.",
+          "vietnamese": "Phần mềm có giao diện người dùng rất hoàn thiện."
+        }
+      ],
+      "collocations": [
+        "polished performance",
+        "polished presentation"
+      ],
+      "synonyms": [
+        "refined",
+        "smooth"
+      ],
+      "antonyms": [
+        "rough",
+        "unrefined"
+      ],
+      "wordFamily": [
+        {
+          "word": "polish",
+          "partOfSpeech": "verb"
+        },
+        {
+          "word": "polish",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "adj-045",
+      "word": "slimmer",
+      "phonetic": "/ˈslɪmər/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Comparative form of 'slim'; thinner, narrower, or more streamlined",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "mỏng hơn, gọn hơn, thon hơn"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Slimmer",
+      "examples": [
+        {
+          "english": "The new laptop has a slimmer design.",
+          "vietnamese": "Chiếc laptop mới có thiết kế mỏng hơn."
+        },
+        {
+          "english": "This phone is slimmer than the previous model.",
+          "vietnamese": "Chiếc điện thoại này mỏng hơn mẫu trước."
+        },
+        {
+          "english": "The updated version has a slimmer user interface.",
+          "vietnamese": "Phiên bản cập nhật có giao diện gọn gàng hơn."
+        }
+      ],
+      "collocations": [
+        "slimmer design",
+        "slimmer profile"
+      ],
+      "synonyms": [
+        "thinner",
+        "leaner"
+      ],
+      "antonyms": [
+        "thicker",
+        "bulkier"
+      ],
+      "wordFamily": [
+        {
+          "word": "slim",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "word": "slim",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "id": "verb-046",
+      "word": "transcribe",
+      "phonetic": "/trænˈskraɪb/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To write down or convert spoken words, audio, or data into written text",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "phiên âm, chép lại (từ lời nói hoặc âm thanh sang văn bản)"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Transcribe",
+      "examples": [
+        {
+          "english": "The assistant transcribed the meeting recording.",
+          "vietnamese": "Trợ lý đã chép lại bản ghi âm cuộc họp."
+        },
+        {
+          "english": "The software can automatically transcribe speech into text.",
+          "vietnamese": "Phần mềm có thể tự động chuyển lời nói thành văn bản."
+        },
+        {
+          "english": "She spent hours transcribing old interviews.",
+          "vietnamese": "Cô ấy đã dành hàng giờ để chép lại các cuộc phỏng vấn cũ."
+        }
+      ],
+      "collocations": [
+        "transcribe audio",
+        "transcribe speech",
+        "transcribe a recording"
+      ],
+      "synonyms": [
+        "write down",
+        "record"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "transcription",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "transcriber",
+          "partOfSpeech": "noun"
+        }
+      ]
+    }
+  ]
+}

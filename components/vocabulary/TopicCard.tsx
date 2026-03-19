@@ -11,6 +11,7 @@ interface TopicCardProps {
   topic: VocabularyTopic;
   progress?: TopicProgress | null;
   isReviewDismissed?: boolean;
+  useDynamicRoute?: boolean;
 }
 
 function getNextReviewLabel(progress: TopicProgress | null): { text: string; isOverdue: boolean } | null {
@@ -53,13 +54,17 @@ function getDifficultyVariant(difficulty: string): string {
   }
 }
 
-export function TopicCard({ topic, progress, isReviewDismissed }: TopicCardProps) {
+export function TopicCard({ topic, progress, isReviewDismissed, useDynamicRoute }: TopicCardProps) {
   const rawStatus = getTopicStatus(progress ?? null);
   const status = rawStatus === 'review-due' && isReviewDismissed ? 'completed' : rawStatus;
   const reviewLabel = getNextReviewLabel(progress ?? null);
 
+  const href = useDynamicRoute
+    ? `/vocabulary/dynamic?id=${topic.id}`
+    : `/vocabulary/${topic.id}`;
+
   return (
-    <Link href={`/vocabulary/${topic.id}`}>
+    <Link href={href}>
       <Card className={`p-6 h-full hover:shadow-lg hover:translate-y-[-2px] hover:border-primary/20 transition-all duration-200 cursor-pointer ${
         status === 'review-due'
           ? 'border-amber-300 dark:border-amber-700'

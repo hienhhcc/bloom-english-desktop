@@ -1,0 +1,518 @@
+{
+  "topicId": "day_70",
+  "items": [
+    {
+      "id": "adj-055",
+      "word": "unobtrusive",
+      "phonetic": "/ˌʌnəbˈtruːsɪv/",
+      "partOfSpeech": "adjective",
+      "definitionEnglish": "Not noticeable or attracting attention; subtle and not disruptive",
+      "definitionVietnamese": [
+        {
+          "type": "adjective",
+          "definition": "không gây chú ý, kín đáo"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Unobtrusive",
+      "examples": [
+        {
+          "english": "The design is simple and unobtrusive.",
+          "vietnamese": "Thiết kế đơn giản và không gây chú ý."
+        },
+        {
+          "english": "He remained unobtrusive during the meeting.",
+          "vietnamese": "Anh ấy giữ thái độ kín đáo trong cuộc họp."
+        },
+        {
+          "english": "The camera was placed in an unobtrusive location.",
+          "vietnamese": "Camera được đặt ở vị trí kín đáo."
+        }
+      ],
+      "collocations": [
+        "unobtrusive design",
+        "unobtrusive presence"
+      ],
+      "synonyms": [
+        "subtle",
+        "inconspicuous"
+      ],
+      "antonyms": [
+        "obvious",
+        "noticeable"
+      ],
+      "wordFamily": [
+        {
+          "word": "obtrusive",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "noun-056",
+      "word": "lesion",
+      "phonetic": "/ˈliːʒən/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "An area of damaged or abnormal tissue in the body",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "tổn thương (mô cơ thể)"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Lesion",
+      "examples": [
+        {
+          "english": "The doctor examined the skin lesion carefully.",
+          "vietnamese": "Bác sĩ kiểm tra kỹ tổn thương da."
+        },
+        {
+          "english": "Brain lesions can affect memory.",
+          "vietnamese": "Tổn thương não có thể ảnh hưởng đến trí nhớ."
+        },
+        {
+          "english": "The scan revealed a small lesion.",
+          "vietnamese": "Kết quả chụp cho thấy một tổn thương nhỏ."
+        }
+      ],
+      "collocations": [
+        "skin lesion",
+        "brain lesion"
+      ],
+      "synonyms": [
+        "injury",
+        "wound"
+      ],
+      "antonyms": [
+        "healthy tissue"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-057",
+      "word": "weasel",
+      "phonetic": "/ˈwiːzəl/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A small, long-bodied animal; also used informally to describe a sneaky or deceitful person",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "chồn; (nghĩa bóng) người gian xảo"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Weasel",
+      "examples": [
+        {
+          "english": "A weasel slipped through the fence.",
+          "vietnamese": "Một con chồn lẻn qua hàng rào."
+        },
+        {
+          "english": "He acted like a weasel to avoid responsibility.",
+          "vietnamese": "Anh ta hành xử như một kẻ gian xảo để trốn tránh trách nhiệm."
+        },
+        {
+          "english": "She accused him of being a political weasel.",
+          "vietnamese": "Cô ấy buộc tội anh ta là một kẻ gian xảo trong chính trị."
+        }
+      ],
+      "collocations": [
+        "weasel behavior",
+        "political weasel"
+      ],
+      "synonyms": [
+        "sneak",
+        "trickster"
+      ],
+      "antonyms": [
+        "honest person"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "adv-058",
+      "word": "thus",
+      "phonetic": "/ðʌs/",
+      "partOfSpeech": "adverb",
+      "definitionEnglish": "In this way; as a result or consequence",
+      "definitionVietnamese": [
+        {
+          "type": "adverb",
+          "definition": "do đó, vì vậy"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Thus",
+      "examples": [
+        {
+          "english": "He forgot his passport and thus missed the flight.",
+          "vietnamese": "Anh ấy quên hộ chiếu và vì vậy lỡ chuyến bay."
+        },
+        {
+          "english": "The plan failed, thus causing delays.",
+          "vietnamese": "Kế hoạch thất bại, do đó gây ra sự chậm trễ."
+        },
+        {
+          "english": "The system was upgraded, thus improving performance.",
+          "vietnamese": "Hệ thống được nâng cấp, do đó cải thiện hiệu suất."
+        }
+      ],
+      "collocations": [
+        "and thus",
+        "thus far"
+      ],
+      "synonyms": [
+        "therefore",
+        "hence"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "noun-059",
+      "word": "doozy",
+      "phonetic": "/ˈduːzi/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "Something outstanding, unusual, or difficult, often in a surprising way",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "điều gì đó rất đặc biệt, khó hoặc đáng chú ý"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Doozy",
+      "examples": [
+        {
+          "english": "That exam was a real doozy.",
+          "vietnamese": "Bài kiểm tra đó thực sự rất khó."
+        },
+        {
+          "english": "He told a doozy of a story.",
+          "vietnamese": "Anh ấy kể một câu chuyện cực kỳ ấn tượng."
+        },
+        {
+          "english": "This bug is a doozy to fix.",
+          "vietnamese": "Lỗi này rất khó để sửa."
+        }
+      ],
+      "collocations": [
+        "real doozy",
+        "a doozy of a problem"
+      ],
+      "synonyms": [
+        "challenge",
+        "whopper"
+      ],
+      "antonyms": [
+        "easy task"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-060",
+      "word": "wiggle",
+      "phonetic": "/ˈwɪɡəl/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To move up and down or from side to side with small quick movements",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "lắc lư, ngọ nguậy"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Wiggle",
+      "examples": [
+        {
+          "english": "The child wiggled in his seat.",
+          "vietnamese": "Đứa trẻ ngọ nguậy trên ghế."
+        },
+        {
+          "english": "She wiggled her fingers to get attention.",
+          "vietnamese": "Cô ấy lắc ngón tay để thu hút sự chú ý."
+        },
+        {
+          "english": "He tried to wiggle free from the tight space.",
+          "vietnamese": "Anh ấy cố gắng ngọ nguậy để thoát ra khỏi không gian chật hẹp."
+        }
+      ],
+      "collocations": [
+        "wiggle fingers",
+        "wiggle free"
+      ],
+      "synonyms": [
+        "squirm",
+        "shake"
+      ],
+      "antonyms": [
+        "stay still"
+      ],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-061",
+      "word": "lead to",
+      "phonetic": "/liːd tuː/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To cause or result in something",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "dẫn đến, gây ra"
+        }
+      ],
+      "difficulty": "basic",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Lead+to",
+      "examples": [
+        {
+          "english": "Poor planning can lead to failure.",
+          "vietnamese": "Lập kế hoạch kém có thể dẫn đến thất bại."
+        },
+        {
+          "english": "This road leads to the city center.",
+          "vietnamese": "Con đường này dẫn đến trung tâm thành phố."
+        },
+        {
+          "english": "Lack of sleep may lead to health problems.",
+          "vietnamese": "Thiếu ngủ có thể dẫn đến vấn đề sức khỏe."
+        }
+      ],
+      "collocations": [
+        "lead to problems",
+        "lead to success"
+      ],
+      "synonyms": [
+        "result in",
+        "cause"
+      ],
+      "antonyms": [],
+      "wordFamily": [
+        {
+          "word": "leading",
+          "partOfSpeech": "adjective"
+        }
+      ]
+    },
+    {
+      "id": "verb-062",
+      "word": "unfold",
+      "phonetic": "/ʌnˈfəʊld/ (BrE) | /ʌnˈfoʊld/ (AmE)",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To gradually develop or become known",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "diễn ra, dần hé lộ"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Unfold",
+      "examples": [
+        {
+          "english": "The story unfolded over several years.",
+          "vietnamese": "Câu chuyện dần diễn ra trong nhiều năm."
+        },
+        {
+          "english": "Events unfolded quickly after the announcement.",
+          "vietnamese": "Các sự kiện diễn ra nhanh chóng sau thông báo."
+        },
+        {
+          "english": "She watched the drama unfold before her eyes.",
+          "vietnamese": "Cô ấy chứng kiến diễn biến xảy ra trước mắt."
+        }
+      ],
+      "collocations": [
+        "events unfold",
+        "story unfolds"
+      ],
+      "synonyms": [
+        "develop",
+        "evolve"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    },
+    {
+      "id": "verb-063",
+      "word": "reinstate",
+      "phonetic": "/ˌriːɪnˈsteɪt/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To restore something or someone to a previous position or condition",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "khôi phục, phục chức"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Reinstate",
+      "examples": [
+        {
+          "english": "The company reinstated the employee after the investigation.",
+          "vietnamese": "Công ty phục chức cho nhân viên sau cuộc điều tra."
+        },
+        {
+          "english": "The policy was reinstated last year.",
+          "vietnamese": "Chính sách đã được khôi phục vào năm ngoái."
+        },
+        {
+          "english": "They voted to reinstate the old system.",
+          "vietnamese": "Họ bỏ phiếu để khôi phục hệ thống cũ."
+        }
+      ],
+      "collocations": [
+        "reinstate policy",
+        "reinstate employee"
+      ],
+      "synonyms": [
+        "restore",
+        "reestablish"
+      ],
+      "antonyms": [
+        "remove",
+        "abolish"
+      ],
+      "wordFamily": [
+        {
+          "word": "reinstatement",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "verb-064",
+      "word": "seize",
+      "phonetic": "/siːz/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To take hold of suddenly or forcibly; to take something legally or officially",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "nắm lấy; tịch thu"
+        }
+      ],
+      "difficulty": "intermediate",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Seize",
+      "examples": [
+        {
+          "english": "Police seized illegal goods during the raid.",
+          "vietnamese": "Cảnh sát tịch thu hàng hóa bất hợp pháp trong cuộc đột kích."
+        },
+        {
+          "english": "He seized the opportunity to speak.",
+          "vietnamese": "Anh ấy nắm lấy cơ hội để phát biểu."
+        },
+        {
+          "english": "She seized his arm to stop him.",
+          "vietnamese": "Cô ấy nắm lấy tay anh để ngăn lại."
+        }
+      ],
+      "collocations": [
+        "seize opportunity",
+        "seize control"
+      ],
+      "synonyms": [
+        "grab",
+        "confiscate"
+      ],
+      "antonyms": [
+        "release",
+        "let go"
+      ],
+      "wordFamily": [
+        {
+          "word": "seizure",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "verb-065",
+      "word": "impede",
+      "phonetic": "/ɪmˈpiːd/",
+      "partOfSpeech": "verb",
+      "definitionEnglish": "To slow down or block the progress of something",
+      "definitionVietnamese": [
+        {
+          "type": "verb",
+          "definition": "cản trở, làm chậm"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Impede",
+      "examples": [
+        {
+          "english": "Heavy traffic impeded our journey.",
+          "vietnamese": "Giao thông đông đúc đã cản trở chuyến đi của chúng tôi."
+        },
+        {
+          "english": "Lack of funding can impede progress.",
+          "vietnamese": "Thiếu kinh phí có thể cản trở tiến độ."
+        },
+        {
+          "english": "The injury impeded his ability to walk.",
+          "vietnamese": "Chấn thương đã làm cản trở khả năng đi lại của anh ấy."
+        }
+      ],
+      "collocations": [
+        "impede progress",
+        "impede development"
+      ],
+      "synonyms": [
+        "hinder",
+        "obstruct"
+      ],
+      "antonyms": [
+        "facilitate",
+        "assist"
+      ],
+      "wordFamily": [
+        {
+          "word": "impediment",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "noun-066",
+      "word": "coat of arms",
+      "phonetic": "/ˌkoʊt əv ˈɑːrmz/",
+      "partOfSpeech": "noun",
+      "definitionEnglish": "A symbolic design or emblem representing a family, organization, or country, often displayed on shields",
+      "definitionVietnamese": [
+        {
+          "type": "noun",
+          "definition": "huy hiệu, quốc huy, gia huy"
+        }
+      ],
+      "difficulty": "advanced",
+      "imageUrl": "https://placehold.co/400x300/e2e8f0/475569?text=Coat+of+Arms",
+      "examples": [
+        {
+          "english": "The castle displayed the royal coat of arms.",
+          "vietnamese": "Lâu đài trưng bày quốc huy hoàng gia."
+        },
+        {
+          "english": "Each noble family had its own coat of arms.",
+          "vietnamese": "Mỗi gia tộc quý tộc có một gia huy riêng."
+        },
+        {
+          "english": "The emblem resembles a traditional coat of arms.",
+          "vietnamese": "Biểu tượng này giống với một huy hiệu truyền thống."
+        }
+      ],
+      "collocations": [
+        "royal coat of arms",
+        "family coat of arms"
+      ],
+      "synonyms": [
+        "emblem",
+        "crest"
+      ],
+      "antonyms": [],
+      "wordFamily": []
+    }
+  ]
+}
